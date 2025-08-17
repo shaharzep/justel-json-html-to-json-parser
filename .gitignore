@@ -1,6 +1,7 @@
 
 # Environment variables
 .env
+.env.example
+output/
+raw_jsons/
 
-/output
-/raw_jsons
