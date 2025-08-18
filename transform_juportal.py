@@ -308,7 +308,10 @@ class JuportalTransformer:
         # Extract all paragraph texts
         full_text = extract_paragraphs_text(section.get('paragraphs', []))
         if full_text:
-            output['fullText'] = clean_text(full_text)
+            # Clean the text and remove PDF suffix
+            from utils import remove_pdf_suffix
+            cleaned_text = clean_text(full_text)
+            output['fullText'] = remove_pdf_suffix(cleaned_text)
         
         # Look for PDF URL
         pdf_url = extract_pdf_url(section)

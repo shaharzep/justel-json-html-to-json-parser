@@ -130,6 +130,20 @@ def clean_text(text: str) -> str:
     
     return text
 
+def remove_pdf_suffix(text: str) -> str:
+    """Remove the 'Document PDF ECLI:...' or 'PDF document ECLI:...' suffix from text."""
+    if not text:
+        return ""
+    
+    # Pattern to match both variations at the end of text
+    # Matches "Document PDF ECLI:..." or "PDF document ECLI:..." at the end
+    pattern = r'\s*(Document\s+PDF|PDF\s+document)\s+ECLI:[A-Z]{2}:[A-Z0-9]+:\d{4}:[\w\.\-]+\s*$'
+    
+    # Remove the pattern from the end of the text
+    cleaned = re.sub(pattern, '', text, flags=re.IGNORECASE)
+    
+    return cleaned.strip()
+
 def extract_paragraphs_text(paragraphs: List[Dict]) -> str:
     """Extract and combine text from paragraphs array."""
     texts = []
