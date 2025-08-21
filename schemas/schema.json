@@ -1,0 +1,42 @@
+{
+  "file_name": "...",
+  "decision_id": "...",
+  "url_official_publication": "https://juportal.be/content/...",
+  "source": "juportal.be",
+  "language_metadata": "...",
+  "jurisdiction": "BE",
+  "court_ecli_code": "...",
+  "decision_type_ecli_code": "...",
+  "decision_date": "...",
+  "ecli_alias": ["..."],
+  "rol_number": "...",
+  "case": "...",
+  "chamber": "...",
+  "field_of_law": "...",
+  "versions": ["..."],
+  "summaries": [
+    {
+      "summaryId": "...",
+      "summary": "...",
+      "keywordsCassation": ["..."],
+      "keywordsUtu": ["..."],
+      "keywordsFree": ["..."],
+      "legalBasis": ["..."]
+    }
+  ],
+  "full_text": "...",
+  "full_html": "...",
+  "url_pdf": "https://juportal.be/JUPORTAwork/...",
+  "decision": "...",
+  "citing": ["..."],
+  "precedent": ["..."],
+  "opinion_public_attorney": "...",
+  "cited_in": ["..."],
+  "justel": ["..."],
+  "see_more_recently": ["..."],
+  "preceded_by": ["..."],
+  "followed_by": ["..."],
+  "rectification": ["..."],
+  "related_case": ["..."],
+  "isValid": true
+}

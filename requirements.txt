@@ -1,0 +1,13 @@
+# Core dependencies
+python-dotenv>=1.0.0
+langdetect>=1.0.9
+
+# AWS S3 sync
+boto3>=1.34.0
+tqdm>=4.66.0
+
+# OpenAI LLM validation (optional)
+openai>=1.0.0
+
+# HTTP requests
+httpx>=0.27.0
