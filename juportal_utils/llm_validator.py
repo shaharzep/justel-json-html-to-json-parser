@@ -145,23 +145,23 @@ JSON Response:"""
             text_samples.append(output['full_text'][:300])
         
         # Add notice summaries
-        for notice in output.get('notices', []):
+        for notice in output.get('summaries', []):
             if notice.get('summary'):
                 text_samples.append(notice['summary'][:200])
             if notice.get('keywordsFree'):
                 text_samples.append(notice['keywordsFree'][:100])
         
         # Add other text fields
-        if output.get('fieldOfLaw'):
-            text_samples.append(output['fieldOfLaw'])
+        if output.get('field_of_law'):
+            text_samples.append(output['field_of_law'])
         if output.get('chamber'):
             text_samples.append(output['chamber'])
         
         if not text_samples:
             return True, 1.0, "No text content to validate"
         
-        expected_lang = output.get('metaLanguage')
+        expected_lang = output.get('language_metadata')
         if not expected_lang:
-            return False, 0.0, "No metaLanguage specified"
+            return False, 0.0, "No language_metadata specified"
         
         return self.validate_language(text_samples, expected_lang)

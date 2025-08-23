@@ -87,7 +87,7 @@ Tests all field extraction functions:
 
 Tests text manipulation functions:
 - **Text cleaning** and normalization
-- **PDF suffix removal** (critical for fullText)
+- **PDF suffix removal** (critical for full_text)
 - **Paragraph text extraction**
 - **Paragraph HTML extraction**
 - **Field value extraction** from paragraphs
@@ -129,8 +129,8 @@ End-to-end transformation tests:
 - ✅ `decisionDate` - Multiple extraction methods
 
 ### Text Fields
-- ✅ `fullText` - Complete text with PDF suffix removal
-- ✅ `fullTextHtml` - HTML preservation and formatting
+- ✅ `full_text` - Complete text with PDF suffix removal
+- ✅ `full_textHtml` - HTML preservation and formatting
 - ✅ `pdfUrl` - Extraction from links
 
 ### Notice Fields
@@ -185,8 +185,8 @@ End-to-end transformation tests:
 
 - **Target Coverage**: 80% minimum
 - **Critical Functions**: 100% coverage for:
-  - fullText extraction
-  - fullTextHtml extraction
+  - full_text extraction
+  - full_textHtml extraction
   - All notice fields
   - Date extraction
   - Language detection

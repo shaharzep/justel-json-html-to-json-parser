@@ -84,15 +84,15 @@ class TestFullTransformation(unittest.TestCase):
         self.assertIn("Code Judiciaire - 10-10-1967 - Art. 35, 36 et 39", notice['legalBasis'])
         
         # Check full text
-        self.assertIn("N° C.05.0032.N", result['fullText'])
-        self.assertIn("AVERO BELGIUM INSURANCE", result['fullText'])
-        self.assertIn("La procédure devant la Cour", result['fullText'])
+        self.assertIn("N° C.05.0032.N", result['full_text'])
+        self.assertIn("AVERO BELGIUM INSURANCE", result['full_text'])
+        self.assertIn("La procédure devant la Cour", result['full_text'])
         # Check PDF suffix is removed
-        self.assertNotIn("Document PDF ECLI:BE:CASS:2007:ARR.20070622.5", result['fullText'])
+        self.assertNotIn("Document PDF ECLI:BE:CASS:2007:ARR.20070622.5", result['full_text'])
         
         # Check full text HTML
-        self.assertIn("<p>N° C.05.0032.N</p>", result['fullTextHtml'])
-        self.assertIn("<p>AVERO BELGIUM INSURANCE</p>", result['fullTextHtml'])
+        self.assertIn("<p>N° C.05.0032.N</p>", result['full_textHtml'])
+        self.assertIn("<p>AVERO BELGIUM INSURANCE</p>", result['full_textHtml'])
         
         # Check PDF URL
         self.assertEqual(
@@ -186,8 +186,8 @@ class TestFullTransformation(unittest.TestCase):
         # Should have empty notices array
         self.assertEqual(result['notices'], [])
         # Should have null/empty text fields
-        self.assertIsNone(result['fullText'])
-        self.assertIsNone(result['fullTextHtml'])
+        self.assertIsNone(result['full_text'])
+        self.assertIsNone(result['full_textHtml'])
     
     def test_complex_legal_basis_extraction(self):
         """Test extracting complex legal basis with HTML breaks"""

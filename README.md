@@ -134,7 +134,7 @@ Options:
 - Transforms all raw JSON files to the target schema
 - Extracts metadata, legal content, and citations
 - Performs initial language validation (rule-based)
-- Populates both `fullText` and `fullTextHtml` fields
+- Populates both `full_text` and `full_textHtml` fields
 - Extracts all related publications as top-level fields
 
 ### Phase 1.5: Deduplication
@@ -181,7 +181,7 @@ The output schema has been updated to flatten the `relatedPublications` structur
 3. **Transform Data**
    ```bash
    # Run the full 3-phase transformation with deduplication
-   python src/transform_with_dedup.py --input raw_jsons --output send_jsons
+   python src/transform_with_dedup.py --input raw_jsons --output output
    ```
 
 4. **Upload Valid Files to S3**
@@ -211,8 +211,8 @@ Each transformed file contains:
   "courtEcliCode": "COURT_CODE",
   "decisionTypeEcliCode": "ARR|DEC|AVIS|CONC",
   "decisionDate": "YYYY-MM-DD",
-  "fullText": "Full decision text...",
-  "fullTextHtml": "<p>HTML formatted text...</p>",
+  "full_text": "Full decision text...",
+  "full_textHtml": "<p>HTML formatted text...</p>",
   "citing": ["ECLI:...", "ECLI:..."],
   "citedIn": ["ECLI:...", "ECLI:..."],
   "isValid": true

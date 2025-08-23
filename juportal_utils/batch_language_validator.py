@@ -69,15 +69,15 @@ class BatchLLMValidator:
             text_samples = self._extract_text_samples(doc)
             if not text_samples:
                 batch_items.append({
-                    'fileName': doc['fileName'],
-                    'language': doc['metaLanguage'],
+                    'fileName': doc['file_name'],
+                    'language': doc['language_metadata'],
                     'text': 'NO_TEXT_CONTENT'
                 })
             else:
                 combined_text = '\n'.join(text_samples[:3])[:300]  # Limit text
                 batch_items.append({
-                    'fileName': doc['fileName'],
-                    'language': doc['metaLanguage'],
+                    'fileName': doc['file_name'],
+                    'language': doc['language_metadata'],
                     'text': combined_text
                 })
         
@@ -148,15 +148,15 @@ Documents to analyze:
             samples.append(doc['full_text'][:300])
         
         # Add notice summaries
-        for notice in doc.get('notices', []):
+        for notice in doc.get('summaries', []):
             if notice.get('summary'):
                 samples.append(notice['summary'][:200])
             if notice.get('keywordsFree'):
                 samples.append(notice['keywordsFree'][:100])
         
         # Add other fields
-        if doc.get('fieldOfLaw'):
-            samples.append(doc['fieldOfLaw'])
+        if doc.get('field_of_law'):
+            samples.append(doc['field_of_law'])
         if doc.get('chamber'):
             samples.append(doc['chamber'])
         
@@ -249,7 +249,7 @@ async def validate_invalid_files(input_dir: str = "output", threshold: float = 0
         
         if not is_valid:
             invalid_docs.append(doc)
-            logger.debug(f"Found invalid: {doc['fileName']}")
+            logger.debug(f"Found invalid: {doc['file_name']}")
     
     logger.info(f"First pass complete: {len(invalid_docs)} invalid out of {total_files} files")
     
@@ -272,7 +272,7 @@ async def validate_invalid_files(input_dir: str = "output", threshold: float = 0
     still_invalid = []
     
     for doc in invalid_docs:
-        fileName = doc['fileName']
+        fileName = doc['file_name']
         if fileName in results:
             is_valid, confidence, explanation = results[fileName]
             if is_valid and confidence >= threshold:

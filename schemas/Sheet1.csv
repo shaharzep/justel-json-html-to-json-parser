@@ -14,7 +14,7 @@ keywordsFree,"""Mots libres:""","""Vrije woorden:""","""Freie Wörter:""",,
 legalBasis,"""Bases légales:""","""Wettelijke bepalingen:""","""Rechtsgrundlage:""",,
 ---,"""Note:""","""Nota:""",,,
 ---,"""Annotations""","""Annotaties""",,,
-fullText,"""Texte de la décision""","""Texte des conclusions""","""Tekst van de beslissing""","""Tekst van de conclusie""","""Text der Entscheidung"""
+full_text,"""Texte de la décision""","""Texte des conclusions""","""Tekst van de beslissing""","""Tekst van de conclusie""","""Text der Entscheidung"""
 relatedPublications,"""Publication(s) liée(s)""","""Gerelateerde publicatie(s)""","""Verwandte Veröffentlichung(en)""",,
 decision,"""Jugement/arrêt:""","""Vonnis/arrest:""","""Urteil:""",,
 citing,"""citant:""","""citeert:""","""zitieren:""",,

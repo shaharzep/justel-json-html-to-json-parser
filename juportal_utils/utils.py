@@ -85,9 +85,16 @@ def extract_date_from_legend(legend: str, language: str = 'FR') -> Optional[str]
     match = re.search(pattern, legend, re.IGNORECASE)
     
     if match:
-        day = int(match.group(1))
-        month_name = match.group(2).lower()
-        year = int(match.group(3))
+        # Adjust for the Dutch pattern with optional group (Vonnis/arrest|Beschikking)
+        if language.upper() == 'NL' and len(match.groups()) >= 4:
+            # Skip the first group if it's the document type
+            day = int(match.group(2))
+            month_name = match.group(3).lower()
+            year = int(match.group(4))
+        else:
+            day = int(match.group(1))
+            month_name = match.group(2).lower()
+            year = int(match.group(3))
         
         # Get month number from month name
         month_dict = MONTH_NAMES.get(language.lower(), MONTH_NAMES['fr'])
@@ -101,6 +108,57 @@ def extract_date_from_legend(legend: str, language: str = 'FR') -> Optional[str]
                 pass
     
     return None
+
+def extract_date_with_llm_fallback(legend: str, language: str = 'FR') -> Optional[str]:
+    """
+    Extract date from legend text using LLM as fallback.
+    This is used when pattern matching fails.
+    """
+    try:
+        from .llm_validator import LLMValidator
+        
+        # Create an instance of LLMValidator
+        llm_validator = LLMValidator()
+        if not llm_validator.is_available():
+            return None
+        
+        prompt = f"""Extract the date from the following court document legend text. 
+        Return ONLY the date in YYYY-MM-DD format, or return 'NO_DATE' if no date is found.
+        
+        Legend text: {legend}
+        Language: {language}
+        
+        Response (YYYY-MM-DD or NO_DATE):"""
+        
+        # Call LLM synchronously (OpenAI SDK is sync by default)
+        response = llm_validator.client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": "You are a date extraction assistant. Extract dates from court document text and return them in YYYY-MM-DD format."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.1,
+            max_tokens=20
+        )
+        result = response.choices[0].message.content.strip()
+        
+        # Validate the response format
+        if result and result != 'NO_DATE':
+            # Check if it matches YYYY-MM-DD format
+            if re.match(r'^\d{4}-\d{2}-\d{2}$', result):
+                # Validate it's a real date
+                try:
+                    datetime.strptime(result, '%Y-%m-%d')
+                    logger.info(f"LLM extracted date from legend: {result}")
+                    return result
+                except ValueError:
+                    pass
+        
+        return None
+        
+    except Exception as e:
+        logger.debug(f"LLM date extraction failed: {e}")
+        return None
 
 def extract_jurisdiction_from_ecli(ecli: str) -> Optional[str]:
     """Extract jurisdiction (country code) from ECLI."""

@@ -37,7 +37,7 @@ logger = logging.getLogger(__name__)
 
 
 class EnhancedJuportalTransformer(JuportalTransformer):
-    """Enhanced transformer with fullTextHtml extraction."""
+    """Enhanced transformer with full_textHtml extraction."""
     
     def _process_full_text(self, section: Dict, output: Dict):
         """Process full text section with HTML extraction."""
@@ -114,7 +114,10 @@ class TwoPhaseTransformerWithDedup:
             'invalid_after_llm': 0,
             'llm_fixed': 0,
             'skipped_conc': 0,
-            'duplicates_removed': 0
+            'duplicates_removed': 0,
+            'german_files_removed': 0,
+            'missing_dates_count': 0,
+            'valid_with_dates_count': 0
         }
     
     def ecli_to_filename(self, ecli: str, language: str = None) -> List[str]:
@@ -145,6 +148,100 @@ class TwoPhaseTransformerWithDedup:
         
         return filenames
     
+    def count_missing_dates(self):
+        """Count files with missing or incomplete decision dates."""
+        logger.info("=" * 60)
+        logger.info("Analyzing decision dates in output files")
+        logger.info("=" * 60)
+        
+        missing_dates_files = []
+        valid_with_dates = 0
+        valid_files_checked = 0
+        
+        all_files = list(self.output_dir.glob("*.json"))
+        
+        # Skip the summary file
+        all_files = [f for f in all_files if f.name != 'invalid_files.json']
+        
+        for filepath in all_files:
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    doc = json.load(f)
+                
+                # Skip invalid files
+                if not doc.get('isValid', True):
+                    continue
+                
+                valid_files_checked += 1
+                
+                # Check decision_date field
+                decision_date = doc.get('decision_date')
+                
+                # Check if date is missing or incomplete (only year)
+                if not decision_date or decision_date == '' or (isinstance(decision_date, str) and len(decision_date) == 4):
+                    missing_dates_files.append({
+                        'file': filepath.name,
+                        'ecli': doc.get('decision_id', 'Unknown'),
+                        'current_date': decision_date
+                    })
+                else:
+                    valid_with_dates += 1
+                    
+            except Exception as e:
+                logger.warning(f"Error checking {filepath}: {e}")
+        
+        self.stats['missing_dates_count'] = len(missing_dates_files)
+        self.stats['valid_with_dates_count'] = valid_with_dates
+        
+        # Save list of files with missing dates if any exist
+        if missing_dates_files:
+            missing_dates_path = self.output_dir / 'missing_dates.json'
+            with open(missing_dates_path, 'w', encoding='utf-8') as f:
+                json.dump({
+                    'count': len(missing_dates_files),
+                    'files': missing_dates_files
+                }, f, ensure_ascii=False, indent=2)
+            logger.info(f"Found {len(missing_dates_files)} valid files with missing/incomplete dates")
+            logger.info(f"List saved to {missing_dates_path}")
+        else:
+            logger.info("All valid files have complete decision dates!")
+        
+        if valid_files_checked > 0:
+            complete_rate = (valid_with_dates / valid_files_checked) * 100
+            logger.info(f"Date completeness: {valid_with_dates}/{valid_files_checked} ({complete_rate:.1f}%)")
+    
+    def remove_german_files(self):
+        """Remove files with German language (DE) from output directory."""
+        logger.info("=" * 60)
+        logger.info("Removing German language files")
+        logger.info("=" * 60)
+        
+        removed_count = 0
+        all_files = list(self.output_dir.glob("*.json"))
+        
+        # Skip invalid_files.json
+        all_files = [f for f in all_files if f.name != 'invalid_files.json']
+        
+        for filepath in all_files:
+            try:
+                # Check if filename contains _DE pattern
+                if '_DE.json' in filepath.name:
+                    # Double-check by reading the file content
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        doc = json.load(f)
+                    
+                    # Check language_metadata field
+                    if doc.get('language_metadata') == 'DE':
+                        logger.debug(f"Removing German file: {filepath.name}")
+                        filepath.unlink()
+                        removed_count += 1
+                        
+            except Exception as e:
+                logger.warning(f"Error checking/removing file {filepath}: {e}")
+        
+        self.stats['german_files_removed'] = removed_count
+        logger.info(f"Removed {removed_count} German language files")
+        
     def deduplicate_files(self):
         """Remove duplicate files based on ECLI aliases."""
         logger.info("=" * 60)
@@ -168,7 +265,7 @@ class TwoPhaseTransformerWithDedup:
                     doc = json.load(f)
                 
                 # Map main ECLI to file
-                main_ecli = doc.get('ecli')
+                main_ecli = doc.get('decision_id')
                 if main_ecli:
                     files_by_ecli[main_ecli] = filepath
             except Exception as e:
@@ -189,7 +286,7 @@ class TwoPhaseTransformerWithDedup:
                 processed_files.add(filepath)
                 
                 # Check each ECLI alias
-                ecli_aliases = doc.get('ecliAlias', [])
+                ecli_aliases = doc.get('ecli_alias', [])
                 
                 for alias in ecli_aliases:
                     if not alias or not alias.startswith('ECLI:'):
@@ -235,7 +332,7 @@ class TwoPhaseTransformerWithDedup:
         language_validator.llm_validator = None
         
         try:
-            # Use enhanced transformer for fullTextHtml extraction
+            # Use enhanced transformer for full_textHtml extraction
             transformer = EnhancedJuportalTransformer(str(self.input_dir), str(self.output_dir))
             transformer.process_all()
             
@@ -301,7 +398,7 @@ class TwoPhaseTransformerWithDedup:
         still_invalid = []
         
         for doc in invalid_files:
-            fileName = doc['fileName']
+            fileName = doc['file_name']
             if fileName in results:
                 is_valid, confidence, explanation = results[fileName]
                 
@@ -359,11 +456,17 @@ class TwoPhaseTransformerWithDedup:
         # Phase 1: Transform without LLM
         self.run_phase1()
         
+        # Phase 1.2: Remove German language files
+        self.remove_german_files()
+        
         # Phase 1.5: Deduplicate based on ECLI aliases
         self.deduplicate_files()
         
         # Phase 2: Batch LLM validation
         await self.run_phase2()
+        
+        # Phase 3: Analyze missing dates
+        self.count_missing_dates()
         
         total_time = time.time() - total_start
         
@@ -381,6 +484,7 @@ class TwoPhaseTransformerWithDedup:
         logger.info("")
         logger.info(f"Total files processed: {self.stats['total_files']}")
         logger.info(f"Skipped CONC files: {self.stats['skipped_conc']}")
+        logger.info(f"German files removed: {self.stats['german_files_removed']}")
         logger.info(f"Duplicates removed: {self.stats['duplicates_removed']}")
         logger.info(f"Final output files: {final_file_count}")
         logger.info("")
@@ -394,6 +498,16 @@ class TwoPhaseTransformerWithDedup:
         
         logger.info("")
         logger.info(f"Final validation rate: {valid_count}/{actual_saved} ({valid_pct:.1f}%)")
+        
+        # Report missing dates statistics
+        logger.info("")
+        logger.info("DATE EXTRACTION RESULTS:")
+        logger.info(f"Valid files with complete dates: {self.stats['valid_with_dates_count']}")
+        logger.info(f"Valid files with missing/incomplete dates: {self.stats['missing_dates_count']}")
+        
+        if valid_count > 0:
+            date_complete_pct = (self.stats['valid_with_dates_count'] / valid_count * 100)
+            logger.info(f"Date extraction success rate: {self.stats['valid_with_dates_count']}/{valid_count} ({date_complete_pct:.1f}%)")
         
         if self.stats['phase1_time'] > 0:
             avg_time_phase1 = self.stats['phase1_time'] / self.stats['total_files']

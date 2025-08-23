@@ -23,6 +23,7 @@ from .utils import (
     extract_ecli_from_filename,
     extract_date_from_ecli,
     extract_date_from_legend,
+    extract_date_with_llm_fallback,
     extract_jurisdiction_from_ecli,
     extract_court_code_from_ecli,
     extract_decision_type_from_ecli,
@@ -142,6 +143,17 @@ class JuportalTransformer:
                 date = extract_date_from_ecli(output['decision_id'])
                 if date and len(date) > 4:
                     output['decision_date'] = date
+            
+            # If still no date, try LLM fallback on all legend texts
+            if not output['decision_date'] or len(str(output['decision_date'])) == 4:
+                for section in sections:
+                    legend = section.get('legend', '')
+                    if legend and 'van' in legend.lower() or 'du' in legend.lower() or 'vom' in legend.lower():
+                        date = extract_date_with_llm_fallback(legend, language)
+                        if date:
+                            output['decision_date'] = date
+                            logger.info(f"Used LLM fallback to extract date for {filename}: {date}")
+                            break
             
             # Validate language consistency
             output['isValid'] = self.language_validator.validate_document(output)

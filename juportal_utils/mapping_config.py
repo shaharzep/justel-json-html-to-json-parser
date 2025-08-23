@@ -64,7 +64,7 @@ class FieldMapper:
         """Compile special legend patterns for section identification."""
         return {
             'decision_card_fr': re.compile(r"Jugement/arrêt\s+du\s+(\d{1,2})\s+(\w+)\s+(\d{4})", re.IGNORECASE),
-            'decision_card_nl': re.compile(r"Vonnis/arrest\s+van\s+(\d{1,2})\s+(\w+)\s+(\d{4})", re.IGNORECASE),
+            'decision_card_nl': re.compile(r"(Vonnis/arrest|Beschikking)\s+van\s+(\d{1,2})\s+(\w+)\s+(\d{4})", re.IGNORECASE),
             'decision_card_de': re.compile(r"Urteil\s+vom\s+(\d{1,2})\s+(\w+)\s+(\d{4})", re.IGNORECASE),
             'fiche_single': re.compile(r"Fiche\s+(\d+)", re.IGNORECASE),
             'fiche_range': re.compile(r"Fiches?\s+(\d+)\s*[-–]\s*(\d+)", re.IGNORECASE),
