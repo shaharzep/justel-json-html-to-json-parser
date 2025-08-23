@@ -24,6 +24,10 @@ MONTH_NAMES = {
     'de': {
         'januar': 1, 'februar': 2, 'märz': 3, 'april': 4, 'mai': 5, 'juni': 6,
         'juli': 7, 'august': 8, 'september': 9, 'oktober': 10, 'november': 11, 'dezember': 12
+    },
+    'en': {
+        'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6,
+        'july': 7, 'august': 8, 'september': 9, 'october': 10, 'november': 11, 'december': 12
     }
 }
 
@@ -99,6 +103,10 @@ def extract_date_from_legend(legend: str, language: str = 'FR') -> Optional[str]
         # Get month number from month name
         month_dict = MONTH_NAMES.get(language.lower(), MONTH_NAMES['fr'])
         month = month_dict.get(month_name, 0)
+        
+        # Try English months as fallback for mixed-language documents
+        if month == 0:
+            month = MONTH_NAMES['en'].get(month_name, 0)
         
         if month > 0:
             try:

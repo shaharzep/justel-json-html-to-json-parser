@@ -65,7 +65,7 @@ class FieldMapper:
         return {
             'decision_card_fr': re.compile(r"Jugement/arrêt\s+du\s+(\d{1,2})\s+(\w+)\s+(\d{4})", re.IGNORECASE),
             'decision_card_nl': re.compile(r"(Vonnis/arrest|Beschikking)\s+van\s+(\d{1,2})\s+(\w+)\s+(\d{4})", re.IGNORECASE),
-            'decision_card_de': re.compile(r"Urteil\s+vom\s+(\d{1,2})\s+(\w+)\s+(\d{4})", re.IGNORECASE),
+            'decision_card_de': re.compile(r"Urteil\s+vo[mn]\s+(\d{1,2})\s+(\w+)\s+(\d{4})", re.IGNORECASE),
             'fiche_single': re.compile(r"Fiche\s+(\d+)", re.IGNORECASE),
             'fiche_range': re.compile(r"Fiches?\s+(\d+)\s*[-–]\s*(\d+)", re.IGNORECASE),
             'fiche_simple': re.compile(r"Fiche\s*$", re.IGNORECASE),
@@ -179,7 +179,7 @@ class FieldMapper:
             },
             'fieldOfLaw': {
                 'legends': ['Domaine juridique:', 'Rechtsgebied:', 'Rechtsgebiet:'],
-                'patterns': [re.compile(p, re.IGNORECASE) for p in ['Domaine juridique:?', 'Rechtsgebied:?']]
+                'patterns': [re.compile(p, re.IGNORECASE) for p in ['Domaine juridique:?', 'Rechtsgebied:?', 'Rechtsgebiet:?']]
             },
             'case': {
                 'legends': ['Affaire:', 'Zaak:', 'Sache:'],

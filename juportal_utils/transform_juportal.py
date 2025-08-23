@@ -71,13 +71,20 @@ class JuportalTransformer:
             'failed': 0,
             'validation_errors': 0,
             'language_invalid': 0,
-            'skipped_conc': 0
+            'skipped_conc': 0,
+            'language_mismatch_invalid': 0
         }
     
     def transform_file(self, filepath: Path) -> Optional[Dict]:
         """Transform a single JSON file."""
         try:
             logger.info(f"Processing file: {filepath.name}")
+            
+            # Skip known invalid files (empty content)
+            if filepath.name in ['juportal.be_BE_GHCC_2011_ARR.070_NL.json', 
+                                'juportal.be_BE_GHCC_2011_ARR.070_FR.json']:
+                logger.warning(f"Skipping known invalid file: {filepath.name}")
+                return None
             
             # Load input JSON
             with open(filepath, 'r', encoding='utf-8') as f:
@@ -112,6 +119,21 @@ class JuportalTransformer:
             
             # Process sections
             sections = input_data.get('sections', [])
+            
+            # Check for language mismatch (German content with FR/NL metadata)
+            if sections and language in ['FR', 'NL']:
+                first_section_text = sections[0].get('body_text', '')
+                # German field indicators
+                german_fields = ['Aktenzeichen:', 'Sache:', 'Rechtsgebiet:', 'Eintrittsdatum:', 
+                                'ECLI-Nummer:', 'Konsultationen:', 'Übersetzung']
+                german_count = sum(1 for field in german_fields if field in first_section_text)
+                
+                # If multiple German fields found but metadata says FR/NL, it's a mismatch
+                if german_count >= 3:
+                    output['isValid'] = False
+                    self.stats['language_mismatch_invalid'] += 1
+                    logger.warning(f"File {filename} marked invalid due to language mismatch (German content with {language} metadata)")
+                    return output
             
             for section in sections:
                 legend = section.get('legend', '')
@@ -148,7 +170,10 @@ class JuportalTransformer:
             if not output['decision_date'] or len(str(output['decision_date'])) == 4:
                 for section in sections:
                     legend = section.get('legend', '')
-                    if legend and 'van' in legend.lower() or 'du' in legend.lower() or 'vom' in legend.lower():
+                    # Trigger on date keywords or any 4-digit year
+                    if legend and ('van' in legend.lower() or 'du' in legend.lower() or 
+                                   'vom' in legend.lower() or 'von' in legend.lower() or
+                                   re.search(r'\d{4}', legend)):
                         date = extract_date_with_llm_fallback(legend, language)
                         if date:
                             output['decision_date'] = date
@@ -512,6 +537,7 @@ class JuportalTransformer:
         logger.info(f"Failed: {self.stats['failed']}")
         logger.info(f"Schema validation errors: {self.stats['validation_errors']}")
         logger.info(f"Language validation failures: {self.stats['language_invalid']}")
+        logger.info(f"Language mismatch files: {self.stats['language_mismatch_invalid']}")
         valid_count = self.stats['successful'] - self.stats['language_invalid']
         logger.info(f"Files with valid language: {valid_count}/{self.stats['successful']} ({valid_count*100/self.stats['successful'] if self.stats['successful'] > 0 else 0:.1f}%)")
         logger.info("=" * 50)
