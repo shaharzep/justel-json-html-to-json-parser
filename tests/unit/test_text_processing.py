@@ -1,226 +1,357 @@
-"""Unit tests for text processing functions"""
+#!/usr/bin/env python3
+"""
+Unit tests for text processing functions.
+Tests text cleaning, HTML extraction, and PDF URL extraction.
+"""
 
-import unittest
-import sys
+import pytest
 from pathlib import Path
+import sys
+import re
 
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from juportal_utils.utils import (
     clean_text,
-    remove_pdf_suffix,
     extract_paragraphs_text,
     extract_paragraphs_html,
-    extract_field_value_from_paragraphs,
-    extract_links_from_paragraph,
-    parse_legal_basis
+    extract_pdf_url,
+    remove_pdf_suffix
 )
+from src.transform_with_dedup import EnhancedJuportalTransformer
 
 
-class TestTextProcessing(unittest.TestCase):
-    """Test text processing functions"""
+class TestTextCleaning:
+    """Test text cleaning functions."""
     
-    def test_clean_text(self):
-        """Test text cleaning and normalization"""
-        # Remove excessive whitespace
-        self.assertEqual(
-            clean_text("Text  with   multiple    spaces"),
-            "Text with multiple spaces"
-        )
-        
-        # Remove leading/trailing whitespace
-        self.assertEqual(
-            clean_text("  Text with spaces  "),
-            "Text with spaces"
-        )
-        
-        # Remove empty lines
-        self.assertEqual(
-            clean_text("Line1\n\n\nLine2"),
-            "Line1\nLine2"
-        )
-        
-        # Handle None
-        self.assertEqual(clean_text(None), "")
-        
-        # Handle empty string
-        self.assertEqual(clean_text(""), "")
+    def test_clean_text_basic(self):
+        """Test basic text cleaning."""
+        text = "  This   has   extra   spaces  "
+        result = clean_text(text)
+        assert result == "This has extra spaces"
     
-    def test_remove_pdf_suffix(self):
-        """Test PDF suffix removal"""
-        # French PDF suffix
-        text_fr = "This is the decision text. Document PDF ECLI:BE:CASS:2007:ARR.20070622.5"
-        self.assertEqual(
-            remove_pdf_suffix(text_fr),
-            "This is the decision text."
-        )
-        
-        # English PDF suffix variant
-        text_en = "This is the decision text. PDF document ECLI:BE:CASS:2007:ARR.20070622.5"
-        self.assertEqual(
-            remove_pdf_suffix(text_en),
-            "This is the decision text."
-        )
-        
-        # No PDF suffix
-        text_normal = "This is normal text without PDF suffix."
-        self.assertEqual(
-            remove_pdf_suffix(text_normal),
-            "This is normal text without PDF suffix."
-        )
-        
-        # Handle None
-        self.assertEqual(remove_pdf_suffix(None), "")
-        
-        # Handle empty string
-        self.assertEqual(remove_pdf_suffix(""), "")
-        
-        # PDF suffix with complex ECLI
-        text_complex = "Decision text here. Document PDF ECLI:BE:CASS:2024:ARR.20241105.2N.13"
-        self.assertEqual(
-            remove_pdf_suffix(text_complex),
-            "Decision text here."
-        )
+    def test_clean_text_newlines(self):
+        """Test cleaning of newlines."""
+        text = "Line 1\n\nLine 2\n\n\nLine 3"
+        result = clean_text(text)
+        assert result == "Line 1 Line 2 Line 3"
     
-    def test_extract_paragraphs_text(self):
-        """Test extracting text from paragraphs array"""
+    def test_clean_text_tabs(self):
+        """Test cleaning of tabs."""
+        text = "Text\twith\ttabs"
+        result = clean_text(text)
+        assert result == "Text with tabs"
+    
+    def test_clean_text_mixed_whitespace(self):
+        """Test cleaning of mixed whitespace."""
+        text = "  Text\n\twith  \r\n  mixed   whitespace  "
+        result = clean_text(text)
+        assert result == "Text with mixed whitespace"
+    
+    def test_clean_text_empty(self):
+        """Test cleaning of empty string."""
+        result = clean_text("")
+        assert result == ""
+    
+    def test_clean_text_none(self):
+        """Test cleaning of None."""
+        result = clean_text(None)
+        assert result == ""
+    
+    def test_clean_text_only_whitespace(self):
+        """Test cleaning of whitespace-only string."""
+        text = "   \n\t\r\n   "
+        result = clean_text(text)
+        assert result == ""
+
+
+class TestParagraphExtraction:
+    """Test paragraph text and HTML extraction."""
+    
+    @pytest.fixture
+    def sample_paragraphs(self):
+        """Create sample paragraphs."""
+        return [
+            {
+                'text': 'First paragraph text',
+                'html': '<p>First paragraph text</p>'
+            },
+            {
+                'text': 'Second paragraph text',
+                'html': '<p>Second paragraph text</p>'
+            },
+            {
+                'text': '',
+                'html': '<p></p>'
+            },
+            {
+                'text': 'Third paragraph text',
+                'html': '<p>Third paragraph text</p>'
+            }
+        ]
+    
+    def test_extract_paragraphs_text(self, sample_paragraphs):
+        """Test extraction of paragraph texts."""
+        result = extract_paragraphs_text(sample_paragraphs)
+        expected = 'First paragraph text Second paragraph text Third paragraph text'
+        assert result == expected
+    
+    def test_extract_paragraphs_text_empty_list(self):
+        """Test extraction from empty paragraph list."""
+        result = extract_paragraphs_text([])
+        assert result == ''
+    
+    def test_extract_paragraphs_text_none(self):
+        """Test extraction from None."""
+        result = extract_paragraphs_text(None)
+        assert result == ''
+    
+    def test_extract_paragraphs_text_with_empty(self, sample_paragraphs):
+        """Test that empty paragraphs are skipped."""
+        result = extract_paragraphs_text(sample_paragraphs)
+        assert 'Third paragraph' in result
+        # Empty paragraph should not create double spaces
+        assert '  ' not in result
+    
+    def test_extract_paragraphs_html(self, sample_paragraphs):
+        """Test extraction of paragraph HTML."""
+        result = extract_paragraphs_html(sample_paragraphs)
+        assert '<p>First paragraph text</p>' in result
+        assert '<p>Second paragraph text</p>' in result
+        assert '<p>Third paragraph text</p>' in result
+    
+    def test_extract_paragraphs_html_empty_list(self):
+        """Test HTML extraction from empty list."""
+        result = extract_paragraphs_html([])
+        assert result == ''
+    
+    def test_extract_paragraphs_html_none(self):
+        """Test HTML extraction from None."""
+        result = extract_paragraphs_html(None)
+        assert result == ''
+    
+    def test_extract_paragraphs_html_missing_html(self):
+        """Test HTML extraction when html field is missing."""
         paragraphs = [
-            {"text": "First paragraph"},
-            {"text": "Second paragraph"},
-            {"text": "  Third paragraph  "},
-            {"text": ""},  # Empty should be skipped
-            {"html": "<p>HTML only</p>"},  # No text field
-            {"text": "Fourth paragraph"}
+            {'text': 'Text without HTML'},
+            {'text': 'Another text', 'html': '<p>Another text</p>'}
         ]
-        
-        result = extract_paragraphs_text(paragraphs)
-        expected = "First paragraph\nSecond paragraph\nThird paragraph\nFourth paragraph"
-        self.assertEqual(result, expected)
-        
-        # Empty list
-        self.assertEqual(extract_paragraphs_text([]), "")
-        
-        # Non-dict items
-        paragraphs_mixed = [
-            {"text": "Valid"},
-            "Not a dict",
-            {"text": "Also valid"},
-            None
-        ]
-        result = extract_paragraphs_text(paragraphs_mixed)
-        self.assertEqual(result, "Valid\nAlso valid")
-    
-    def test_extract_paragraphs_html(self):
-        """Test extracting HTML from paragraphs array"""
-        paragraphs = [
-            {"html": "<p>First paragraph</p>"},
-            {"html": "<p>Second paragraph</p>"},
-            {"html": "  <p>Third paragraph</p>  "},
-            {"html": ""},  # Empty should be skipped
-            {"text": "Text only"},  # No HTML field
-            {"html": "<p>Fourth paragraph</p>"}
-        ]
-        
         result = extract_paragraphs_html(paragraphs)
-        expected = "<p>First paragraph</p>\n<p>Second paragraph</p>\n<p>Third paragraph</p>\n<p>Fourth paragraph</p>"
-        self.assertEqual(result, expected)
-        
-        # Empty list
-        self.assertEqual(extract_paragraphs_html([]), "")
+        assert result == '<p>Another text</p>'
+
+
+class TestPDFExtraction:
+    """Test PDF URL extraction."""
     
-    def test_extract_field_value_from_paragraphs(self):
-        """Test extracting field value from paragraphs"""
-        # Value in next paragraph
-        paragraphs = [
-            {"text": "Field Label:"},
-            {"text": "Field Value"}
-        ]
-        result = extract_field_value_from_paragraphs(paragraphs, "Field Label")
-        self.assertEqual(result, "Field Value")
-        
-        # Value in same paragraph after colon
-        paragraphs = [
-            {"text": "Field Label: Field Value"},
-            {"text": "Other text"}
-        ]
-        result = extract_field_value_from_paragraphs(paragraphs, "Field Label")
-        self.assertEqual(result, "Field Value")
-        
-        # Field not found
-        paragraphs = [
-            {"text": "Different Label:"},
-            {"text": "Some Value"}
-        ]
-        result = extract_field_value_from_paragraphs(paragraphs, "Field Label")
-        self.assertIsNone(result)
-        
-        # Case insensitive matching
-        paragraphs = [
-            {"text": "FIELD LABEL:"},
-            {"text": "Value"}
-        ]
-        result = extract_field_value_from_paragraphs(paragraphs, "field label")
-        self.assertEqual(result, "Value")
-    
-    def test_extract_links_from_paragraph(self):
-        """Test extracting links from paragraph"""
-        paragraph = {
-            "text": "Text with links",
-            "links": [
-                {"href": "/link1", "text": "Link 1"},
-                {"href": "/link2", "text": "Link 2"}
+    def test_extract_pdf_url_from_link(self):
+        """Test PDF URL extraction from link."""
+        section = {
+            'paragraphs': [
+                {
+                    'text': 'Some text',
+                    'html': '<p>Some text</p>'
+                },
+                {
+                    'text': 'PDF document',
+                    'html': '<p><a href="/path/to/document.pdf">PDF document</a></p>',
+                    'links': [
+                        {'href': '/path/to/document.pdf', 'text': 'PDF document'}
+                    ]
+                }
             ]
         }
-        
-        result = extract_links_from_paragraph(paragraph)
-        self.assertEqual(len(result), 2)
-        self.assertEqual(result[0]["href"], "/link1")
-        self.assertEqual(result[0]["text"], "Link 1")
-        self.assertEqual(result[1]["href"], "/link2")
-        
-        # No links field
-        paragraph_no_links = {"text": "No links"}
-        result = extract_links_from_paragraph(paragraph_no_links)
-        self.assertEqual(result, [])
-        
-        # Invalid links structure
-        paragraph_invalid = {
-            "links": ["not", "dict", "list"]
-        }
-        result = extract_links_from_paragraph(paragraph_invalid)
-        self.assertEqual(result, [])
+        result = extract_pdf_url(section)
+        assert result == '/path/to/document.pdf'
     
-    def test_parse_legal_basis(self):
-        """Test parsing legal basis text"""
-        # Single legal basis
-        text = "Code Judiciaire - Art. 39"
-        result = parse_legal_basis(text)
-        self.assertEqual(result, ["Code Judiciaire - Art. 39"])
+    def test_extract_pdf_url_no_pdf(self):
+        """Test PDF URL extraction when no PDF present."""
+        section = {
+            'paragraphs': [
+                {'text': 'Some text', 'html': '<p>Some text</p>'}
+            ]
+        }
+        result = extract_pdf_url(section)
+        assert result is None
+    
+    def test_extract_pdf_url_multiple_links(self):
+        """Test PDF URL extraction with multiple links."""
+        section = {
+            'paragraphs': [
+                {
+                    'text': 'Link 1',
+                    'links': [{'href': '/other.html', 'text': 'Other'}]
+                },
+                {
+                    'text': 'PDF link',
+                    'links': [{'href': '/document.pdf', 'text': 'PDF'}]
+                }
+            ]
+        }
+        result = extract_pdf_url(section)
+        assert result == '/document.pdf'
+    
+    def test_extract_pdf_url_juporta_work_pattern(self):
+        """Test PDF URL extraction with JUPORTAwork pattern."""
+        section = {
+            'paragraphs': [
+                {
+                    'text': 'PDF document ECLI:BE:CASS:2023:ARR.20230117.2N.7',
+                    'links': [
+                        {
+                            'href': '/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230117.2N.7_NL.pdf?Version=1674486295',
+                            'text': 'PDF document'
+                        }
+                    ]
+                }
+            ]
+        }
+        result = extract_pdf_url(section)
+        assert '/JUPORTAwork/' in result
+        assert '.pdf' in result
+
+
+class TestPDFSuffixRemoval:
+    """Test PDF suffix removal from text."""
+    
+    def test_remove_pdf_suffix_basic(self):
+        """Test basic PDF suffix removal."""
+        text = "This is the decision text. PDF document"
+        result = remove_pdf_suffix(text)
+        assert result == "This is the decision text."
+    
+    def test_remove_pdf_suffix_with_ecli(self):
+        """Test PDF suffix removal with ECLI."""
+        text = "Decision content here. PDF document ECLI:BE:CASS:2023:ARR.20230117"
+        result = remove_pdf_suffix(text)
+        assert result == "Decision content here."
+    
+    def test_remove_pdf_suffix_multiple_paragraphs(self):
+        """Test PDF suffix removal with multiple paragraphs."""
+        text = "First paragraph. Second paragraph. Document PDF"
+        result = remove_pdf_suffix(text)
+        assert result == "First paragraph. Second paragraph."
+    
+    def test_remove_pdf_suffix_no_suffix(self):
+        """Test when there's no PDF suffix."""
+        text = "Normal text without PDF reference."
+        result = remove_pdf_suffix(text)
+        assert result == text
+    
+    def test_remove_pdf_suffix_empty(self):
+        """Test with empty string."""
+        result = remove_pdf_suffix("")
+        assert result == ""
+    
+    def test_remove_pdf_suffix_none(self):
+        """Test with None."""
+        result = remove_pdf_suffix(None)
+        assert result == ""
+
+
+class TestFullTextProcessing:
+    """Test full text processing in transformer."""
+    
+    @pytest.fixture
+    def transformer(self):
+        """Create an enhanced transformer instance."""
+        return EnhancedJuportalTransformer()
+    
+    def test_process_full_text_basic(self, transformer):
+        """Test basic full text processing."""
+        section = {
+            'paragraphs': [
+                {'text': 'First paragraph of decision.', 'html': '<p>First paragraph of decision.</p>'},
+                {'text': 'Second paragraph of decision.', 'html': '<p>Second paragraph of decision.</p>'},
+            ]
+        }
+        output = {}
+        transformer._process_full_text(section, output)
         
-        # Multiple separated by semicolon
-        text = "Code Judiciaire - Art. 39; Code Civil - Art. 111"
-        result = parse_legal_basis(text)
-        self.assertEqual(len(result), 2)
-        self.assertIn("Code Judiciaire - Art. 39", result)
-        self.assertIn("Code Civil - Art. 111", result)
+        assert 'full_text' in output
+        assert 'First paragraph' in output['full_text']
+        assert 'Second paragraph' in output['full_text']
+        assert 'full_html' in output
+    
+    def test_process_full_text_skip_pdf_link(self, transformer):
+        """Test that PDF links are skipped in full text."""
+        section = {
+            'paragraphs': [
+                {'text': 'Decision text.', 'html': '<p>Decision text.</p>'},
+                {'text': 'Document PDF', 'html': '<p>Document PDF</p>'},
+                {'text': 'More text.', 'html': '<p>More text.</p>'},
+            ]
+        }
+        output = {}
+        transformer._process_full_text(section, output)
         
-        # Multiple separated by newline
-        text = "Law 1\nLaw 2\nLaw 3"
-        result = parse_legal_basis(text)
-        self.assertEqual(len(result), 3)
+        assert 'Document PDF' not in output['full_text']
+        assert 'Decision text' in output['full_text']
+        assert 'More text' in output['full_text']
+    
+    def test_process_full_text_skip_metadata_labels(self, transformer):
+        """Test that metadata labels are skipped."""
+        section = {
+            'paragraphs': [
+                {'text': 'texte intégral:', 'html': '<p>texte intégral:</p>'},
+                {'text': 'Actual decision text.', 'html': '<p>Actual decision text.</p>'},
+            ]
+        }
+        output = {}
+        transformer._process_full_text(section, output)
         
-        # With extra whitespace
-        text = "  Law 1  ;  Law 2  "
-        result = parse_legal_basis(text)
-        self.assertEqual(result, ["Law 1", "Law 2"])
+        assert 'texte intégral:' not in output['full_text']
+        assert 'Actual decision text' in output['full_text']
+    
+    def test_process_full_text_empty_placeholder(self, transformer):
+        """Test handling of empty placeholder '<>'."""
+        section = {
+            'paragraphs': [
+                {'text': '<>', 'html': '<p>&lt;&gt;</p>'},
+            ]
+        }
+        output = {}
+        transformer._process_full_text(section, output)
         
-        # Empty string
-        self.assertEqual(parse_legal_basis(""), [])
+        assert output['full_text'] == ""
+        assert output['full_html'] == ""
+    
+    def test_process_full_text_with_pdf_url(self, transformer):
+        """Test extraction of PDF URL along with text."""
+        section = {
+            'paragraphs': [
+                {'text': 'Decision text.', 'html': '<p>Decision text.</p>'},
+                {
+                    'text': 'PDF document',
+                    'html': '<p><a href="/doc.pdf">PDF document</a></p>',
+                    'links': [{'href': '/doc.pdf', 'text': 'PDF document'}]
+                }
+            ]
+        }
+        output = {}
+        transformer._process_full_text(section, output)
         
-        # None
-        self.assertEqual(parse_legal_basis(None), [])
+        assert 'url_pdf' in output
+        assert output['url_pdf'] == '/doc.pdf'
+    
+    def test_process_full_text_empty_paragraphs(self, transformer):
+        """Test handling of empty paragraphs."""
+        section = {
+            'paragraphs': [
+                {'text': 'Text 1', 'html': '<p>Text 1</p>'},
+                {'text': '', 'html': '<p></p>'},
+                {'text': '   ', 'html': '<p>   </p>'},
+                {'text': 'Text 2', 'html': '<p>Text 2</p>'},
+            ]
+        }
+        output = {}
+        transformer._process_full_text(section, output)
+        
+        assert 'Text 1' in output['full_text']
+        assert 'Text 2' in output['full_text']
+        # Should not have excessive spaces from empty paragraphs
+        assert '  ' not in output['full_text']
 
 
 if __name__ == '__main__':
-    unittest.main()
+    pytest.main([__file__, '-v'])

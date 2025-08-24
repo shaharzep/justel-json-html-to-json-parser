@@ -1,250 +1,270 @@
-# Test Suite Documentation
+# Test Suite for Juportal Decisions Parser
 
 ## Overview
 
-This comprehensive test suite ensures the reliability and correctness of the Juportal Decisions Parser. It covers all critical field extractions, text processing, and transformation logic.
+This comprehensive test suite covers all critical components of the `transform_with_dedup.py` transformation pipeline, including:
+
+- Field extraction from JSON sections
+- Date parsing and extraction 
+- Language validation and detection
+- Text processing and cleaning
+- ECLI parsing and manipulation
+- Deduplication logic
+- End-to-end transformation pipeline
+- Batch LLM validation
 
 ## Test Structure
 
 ```
 tests/
-├── __init__.py
-├── README.md
-├── fixtures/               # Test data and fixtures
-│   └── sample_input_data.py
-├── unit/                  # Unit tests for individual functions
-│   ├── test_field_extraction.py
-│   ├── test_text_processing.py
-│   └── test_notices.py
-└── integration/           # End-to-end transformation tests
-    └── test_full_transformation.py
+├── unit/                           # Unit tests for individual components
+│   ├── test_field_extraction.py   # Field extraction from JSON sections
+│   ├── test_date_extraction.py    # Date parsing logic
+│   ├── test_language_validation.py # Language detection and validation
+│   ├── test_text_processing.py    # Text cleaning and HTML processing
+│   ├── test_ecli_processing.py    # ECLI parsing and manipulation
+│   └── test_deduplication.py      # Deduplication logic
+├── integration/                    # Integration tests
+│   └── test_transform_pipeline.py # End-to-end transformation tests
+├── fixtures/                       # Test fixtures and sample data
+│   └── sample_data/               # Sample JSON files for testing
+└── conftest.py                    # Shared pytest fixtures
+
 ```
 
-## Running Tests
+## Running the Tests
 
-### Quick Start
+### Run all tests
+```bash
+python -m pytest tests/
+```
+
+### Run with verbose output
+```bash
+python -m pytest tests/ -v
+```
+
+### Run specific test file
+```bash
+python -m pytest tests/unit/test_field_extraction.py
+```
+
+### Run specific test class or method
+```bash
+python -m pytest tests/unit/test_field_extraction.py::TestDecisionCardExtraction
+python -m pytest tests/unit/test_field_extraction.py::TestDecisionCardExtraction::test_ecli_extraction
+```
+
+### Run by test type using markers
+```bash
+# Unit tests only
+python -m pytest tests/ -m unit
+
+# Integration tests only  
+python -m pytest tests/ -m integration
+
+# Field extraction tests
+python -m pytest tests/ -m field_extraction
+
+# Text processing tests
+python -m pytest tests/ -m text_processing
+
+# Validation tests
+python -m pytest tests/ -m validation
+```
+
+### Run with coverage report
+```bash
+# Generate terminal coverage report
+python -m pytest tests/ --cov=juportal_utils --cov=src --cov-report=term-missing
+
+# Generate HTML coverage report
+python -m pytest tests/ --cov=juportal_utils --cov=src --cov-report=html
+
+# View HTML report
+open htmlcov/index.html
+```
+
+### Run with different verbosity levels
+```bash
+# Quiet mode (less output)
+python -m pytest tests/ -q
+
+# Verbose mode (more output)
+python -m pytest tests/ -v
+
+# Show print statements
+python -m pytest tests/ -s
+```
+
+### Stop on first failure
+```bash
+python -m pytest tests/ -x
+```
+
+### Run failed tests from last run
+```bash
+python -m pytest tests/ --lf
+```
+
+## Test Coverage Areas
+
+### Unit Tests
+
+1. **Field Extraction** (`test_field_extraction.py`)
+   - Decision card field extraction (ECLI, rol number, chamber, etc.)
+   - Fiche card field extraction (summaries, keywords, legal basis)
+   - Related publications extraction (citing, precedent, cited_in)
+   - Multi-fiche consolidation
+   - Field mapping configuration
+
+2. **Date Extraction** (`test_date_extraction.py`)
+   - ECLI date extraction (YYYYMMDD format)
+   - Legend date extraction (multi-language)
+   - LLM fallback for date extraction
+   - Partial date handling (year-only)
+   - Invalid date handling
+
+3. **Language Validation** (`test_language_validation.py`)
+   - Language detection from text
+   - Language metadata matching
+   - Dutch/Afrikaans confusion handling
+   - German content detection in FR/NL files
+   - LLM validation fallback
+   - Empty document handling
+
+4. **Text Processing** (`test_text_processing.py`)
+   - Text cleaning and normalization
+   - HTML extraction from paragraphs
+   - PDF URL extraction
+   - PDF suffix removal
+   - Empty content handling ("<>" placeholder)
+
+5. **ECLI Processing** (`test_ecli_processing.py`)
+   - ECLI extraction from filename
+   - Jurisdiction extraction
+   - Court code extraction
+   - Decision type extraction
+   - ECLI alias formatting
+   - URL building from ECLI
+
+6. **Deduplication** (`test_deduplication.py`)
+   - ECLI index building
+   - Duplicate detection via aliases
+   - File removal logic
+   - Circular reference handling
+   - German file removal
+
+### Integration Tests
+
+1. **Transform Pipeline** (`test_transform_pipeline.py`)
+   - Complete file transformation (raw JSON → output JSON)
+   - Enhanced transformer with HTML extraction
+   - Two-phase transformation workflow
+   - CONC file skipping
+   - Language mismatch detection
+   - Schema validation
+   - Error handling
+
+## Key Test Patterns
+
+### Mocking External Dependencies
+Tests mock external dependencies like the OpenAI API to avoid making real API calls:
+
+```python
+@patch('juportal_utils.utils.LLMValidator')
+def test_llm_fallback(self, mock_llm_class):
+    mock_llm = Mock()
+    mock_llm.is_available.return_value = True
+    # ... test logic
+```
+
+### Temporary File Handling
+Tests use temporary directories for file operations:
+
+```python
+@pytest.fixture
+def temp_dirs(self):
+    temp_base = tempfile.mkdtemp()
+    yield Path(temp_base)
+    shutil.rmtree(temp_base)  # Cleanup
+```
+
+### Parameterized Tests
+Some tests use parameterization for testing multiple scenarios:
+
+```python
+test_cases = [
+    ('ECLI:BE:COURT:2023:JUG.123', 'JUG'),
+    ('ECLI:BE:COURT:2023:DEC.456', 'DEC'),
+]
+for ecli, expected in test_cases:
+    result = extract_decision_type_from_ecli(ecli)
+    assert result == expected
+```
+
+## Dependencies
+
+The test suite requires the following packages:
+- pytest
+- pytest-cov
+- pytest-mock
+- python-dotenv
+- langdetect
+- openai (for mocking)
+
+Install with:
+```bash
+pip install pytest pytest-cov pytest-mock python-dotenv langdetect openai
+```
+
+## Environment Variables
+
+Some tests may require environment variables. Create a `.env.test` file:
 
 ```bash
-# Install test dependencies
-pip install -r requirements-test.txt
-
-# Run all tests
-python run_tests.py
-
-# Run with coverage
-python run_tests.py --type coverage
+OPENAI_API_KEY=test-api-key
 ```
-
-### Using Make
-
-```bash
-# Run all tests
-make test
-
-# Run specific test categories
-make test-unit          # Unit tests only
-make test-integration   # Integration tests only
-make test-field        # Field extraction tests
-make test-text         # Text processing tests
-make test-notices      # Notices extraction tests
-
-# Generate coverage report
-make coverage
-```
-
-### Using pytest directly
-
-```bash
-# Run all tests
-pytest tests/
-
-# Run with verbose output
-pytest tests/ -v
-
-# Run specific test file
-pytest tests/unit/test_field_extraction.py
-
-# Run with coverage
-pytest tests/ --cov=juportal_utils --cov-report=html
-```
-
-## Test Categories
-
-### 1. Field Extraction Tests (`test_field_extraction.py`)
-
-Tests all field extraction functions:
-- **ECLI extraction** from filename
-- **Date extraction** from ECLI, legend, and filename
-- **Court code** extraction
-- **Decision type** extraction
-- **Language** extraction from filename
-- **URL building** from ECLI
-- **PDF URL** extraction
-- **Version** parsing
-- **ECLI alias** formatting
-
-### 2. Text Processing Tests (`test_text_processing.py`)
-
-Tests text manipulation functions:
-- **Text cleaning** and normalization
-- **PDF suffix removal** (critical for full_text)
-- **Paragraph text extraction**
-- **Paragraph HTML extraction**
-- **Field value extraction** from paragraphs
-- **Link extraction** from paragraphs
-- **Legal basis parsing**
-
-### 3. Notices Field Tests (`test_notices.py`)
-
-Tests notice extraction and processing:
-- **Summary extraction** (first paragraph rule)
-- **Keywords Cassation** extraction with deduplication
-- **Keywords UTU** extraction with deduplication
-- **Keywords Free** extraction and concatenation
-- **Legal basis** extraction with HTML parsing
-- **Multi-fiche card** handling
-- **Notice ID** assignment
-- **Keyword deduplication** across multiple sections
-
-### 4. Integration Tests (`test_full_transformation.py`)
-
-End-to-end transformation tests:
-- **French document** transformation
-- **Dutch document** transformation  
-- **German document** transformation
-- **Multi-fiche document** handling
-- **Empty sections** handling
-- **Complex legal basis** extraction
-- **CONC file skipping**
-- **Language validation**
-- **ECLI alias extraction**
-
-## Critical Fields Tested
-
-### Core Fields
-- ✅ `fileName` - Preserved from input
-- ✅ `ecli` - Extracted from filename/content
-- ✅ `url` - Built from ECLI and language
-- ✅ `metaLanguage` - Extracted from filename
-- ✅ `decisionDate` - Multiple extraction methods
-
-### Text Fields
-- ✅ `full_text` - Complete text with PDF suffix removal
-- ✅ `full_textHtml` - HTML preservation and formatting
-- ✅ `pdfUrl` - Extraction from links
-
-### Notice Fields
-- ✅ `notices[].summary` - First paragraph extraction
-- ✅ `notices[].keywordsCassation` - Array with deduplication
-- ✅ `notices[].keywordsUtu` - Array with deduplication
-- ✅ `notices[].keywordsFree` - String concatenation
-- ✅ `notices[].legalBasis` - HTML parsing with <br> handling
-- ✅ `notices[].noticeId` - Proper ID assignment
-
-### Metadata Fields
-- ✅ `rolNumber` - Role number extraction
-- ✅ `chamber` - Chamber extraction
-- ✅ `fieldOfLaw` - Field of law extraction
-- ✅ `courtEcliCode` - Court code from ECLI
-- ✅ `decisionTypeEcliCode` - Decision type from ECLI
-
-### Related Publications
-- ✅ `citing` - ECLI array extraction
-- ✅ `precedent` - ECLI array extraction
-- ✅ `citedIn` - ECLI array extraction
-- ✅ `justel` - Link extraction
-- ✅ `seeMoreRecently` - ECLI array extraction
-- ✅ `precededBy` - ECLI array extraction
-- ✅ `followedBy` - ECLI array extraction
-
-## Edge Cases Covered
-
-1. **Empty/Missing Data**
-   - Empty sections
-   - Missing paragraphs
-   - Null values
-   - Empty strings
-
-2. **Special Characters**
-   - HTML entities
-   - Unicode characters
-   - Special punctuation
-
-3. **Multi-language Support**
-   - French (FR)
-   - Dutch (NL)
-   - German (DE)
-
-4. **Complex Structures**
-   - Multi-fiche cards
-   - Duplicate keywords
-   - Complex legal basis with HTML breaks
-   - Nested HTML tags
-
-## Coverage Goals
-
-- **Target Coverage**: 80% minimum
-- **Critical Functions**: 100% coverage for:
-  - full_text extraction
-  - full_textHtml extraction
-  - All notice fields
-  - Date extraction
-  - Language detection
 
 ## Continuous Integration
 
-The test suite is designed to run in CI/CD pipelines:
+The test suite is designed to run in CI/CD pipelines. Example GitHub Actions workflow:
 
 ```yaml
-# Example GitHub Actions configuration
-- name: Run tests
-  run: |
-    pip install -r requirements-test.txt
-    python run_tests.py --type coverage
-    
-- name: Upload coverage
-  uses: codecov/codecov-action@v3
-  with:
-    file: ./coverage.xml
+name: Tests
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - run: pip install -r requirements.txt
+      - run: python -m pytest tests/ --cov --cov-report=xml
+      - uses: codecov/codecov-action@v2
 ```
-
-## Adding New Tests
-
-When adding new features or fixing bugs:
-
-1. **Write test first** (TDD approach)
-2. **Add to appropriate test file** or create new one
-3. **Include edge cases**
-4. **Update this documentation**
-5. **Ensure coverage remains > 80%**
 
 ## Troubleshooting
 
-### Common Issues
+### Missing CSV mapping file
+If `Sheet1.csv` is missing, the FieldMapper will use default mappings. To use custom mappings, create the CSV file with field mappings.
 
-1. **Import errors**: Ensure you're in the project root directory
-2. **Missing dependencies**: Run `pip install -r requirements-test.txt`
-3. **Path issues**: Tests use relative imports, run from project root
+### LLM tests failing
+LLM-related tests are mocked by default. If you want to test with real API calls, set the `OPENAI_API_KEY` environment variable.
 
-### Debug Mode
-
+### Coverage requirements
+The pytest.ini file sets a coverage requirement of 80%. To disable:
 ```bash
-# Run tests with detailed output
-pytest tests/ -vv --tb=long
-
-# Run specific test with debug
-pytest tests/unit/test_field_extraction.py::TestFieldExtraction::test_extract_date_from_ecli -vv
+python -m pytest tests/ --no-cov
 ```
 
-## Performance
+## Contributing
 
-- Unit tests: ~1-2 seconds
-- Integration tests: ~5-10 seconds
-- Full test suite: ~15-20 seconds
-
-## Maintenance
-
-- Review test coverage monthly
-- Update fixtures when schema changes
-- Add regression tests for bugs
-- Keep test data minimal but comprehensive
+When adding new functionality:
+1. Write unit tests for individual functions
+2. Write integration tests for end-to-end workflows
+3. Ensure tests are properly mocked to avoid external dependencies
+4. Update this README with any new test patterns or requirements
+5. Aim for >80% code coverage

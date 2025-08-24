@@ -1,223 +1,281 @@
-"""Unit tests for field extraction functions"""
+#!/usr/bin/env python3
+"""
+Unit tests for field extraction from Juportal JSON sections.
+Tests extraction of decision card fields, Fiche card fields, and related publications.
+"""
 
-import unittest
-from datetime import datetime
-import sys
+import pytest
+import json
 from pathlib import Path
+import sys
 
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from juportal_utils.utils import (
-    extract_language_from_filename,
-    extract_ecli_from_filename,
-    extract_date_from_ecli,
-    extract_date_from_legend,
-    extract_court_code_from_ecli,
-    extract_decision_type_from_ecli,
-    build_url_from_ecli,
-    format_ecli_alias,
-    parse_versions,
-    extract_pdf_url
-)
+from juportal_utils.transform_juportal import JuportalTransformer
+from juportal_utils.mapping_config import FieldMapper
 
 
-class TestFieldExtraction(unittest.TestCase):
-    """Test field extraction functions"""
+class TestDecisionCardExtraction:
+    """Test extraction of fields from decision card section."""
     
-    def test_extract_language_from_filename(self):
-        """Test language extraction from filename"""
-        # French
-        self.assertEqual(
-            extract_language_from_filename("juportal.be_BE_CASS_2007_ARR.20070622.5_FR.json"),
-            "FR"
-        )
-        # Dutch
-        self.assertEqual(
-            extract_language_from_filename("juportal.be_BE_CASS_2007_ARR.20070622.5_NL.json"),
-            "NL"
-        )
-        # German
-        self.assertEqual(
-            extract_language_from_filename("juportal.be_BE_GHCC_2022_ARR.103_DE.json"),
-            "DE"
-        )
-        # Default to French if not found
-        self.assertEqual(
-            extract_language_from_filename("invalid_filename.json"),
-            "FR"
-        )
+    @pytest.fixture
+    def transformer(self):
+        """Create a transformer instance."""
+        return JuportalTransformer()
     
-    def test_extract_ecli_from_filename(self):
-        """Test ECLI extraction from filename"""
-        # Standard format
-        self.assertEqual(
-            extract_ecli_from_filename("juportal.be_BE_CASS_2007_ARR.20070622.5_FR.json"),
-            "ECLI:BE:CASS:2007:ARR.20070622.5"
-        )
-        # With underscore in number
-        self.assertEqual(
-            extract_ecli_from_filename("juportal.be_BE_CASS_2024_ARR.20241105.2N.13_NL.json"),
-            "ECLI:BE:CASS:2024:ARR.20241105.2N.13"
-        )
-        # Invalid filename
-        self.assertIsNone(extract_ecli_from_filename("invalid.json"))
+    @pytest.fixture
+    def sample_decision_card(self):
+        """Sample decision card section."""
+        return {
+            'legend': 'Vonnis/arrest van 17 januari 2023',
+            'paragraphs': [
+                {'text': 'ECLI nr:', 'html': '<p>ECLI nr:</p>'},
+                {'text': 'ECLI:BE:CASS:2023:ARR.20230117.2N.7', 'html': '<p>ECLI:BE:CASS:2023:ARR.20230117.2N.7</p>'},
+                {'text': 'Rolnummer:', 'html': '<p>Rolnummer:</p>'},
+                {'text': 'P.22.1741.N', 'html': '<p>P.22.1741.N</p>'},
+                {'text': 'Zaak:', 'html': '<p>Zaak:</p>'},
+                {'text': 'M.', 'html': '<p>M.</p>'},
+                {'text': 'Kamer:', 'html': '<p>Kamer:</p>'},
+                {'text': '2N - tweede kamer', 'html': '<p>2N - tweede kamer</p>'},
+                {'text': 'Rechtsgebied:', 'html': '<p>Rechtsgebied:</p>'},
+                {'text': 'Strafrecht', 'html': '<p>Strafrecht</p>'},
+            ]
+        }
     
-    def test_extract_date_from_ecli(self):
-        """Test date extraction from ECLI"""
-        # Standard 8-digit date
-        self.assertEqual(
-            extract_date_from_ecli("ECLI:BE:CASS:2007:ARR.20070622.5"),
-            "2007-06-22"
-        )
-        # Another date format
-        self.assertEqual(
-            extract_date_from_ecli("ECLI:BE:CASS:2024:ARR.20241105.2N.13"),
-            "2024-11-05"
-        )
-        # Only year available (3-digit format)
-        self.assertEqual(
-            extract_date_from_ecli("ECLI:BE:GHCC:2005:ARR.177"),
-            "2005"
-        )
-        # Invalid ECLI
-        self.assertIsNone(extract_date_from_ecli("INVALID"))
-    
-    def test_extract_date_from_legend(self):
-        """Test date extraction from legend text"""
-        # French
-        self.assertEqual(
-            extract_date_from_legend("Jugement/arrêt du 22 juin 2007", "FR"),
-            "2007-06-22"
-        )
-        # Dutch
-        self.assertEqual(
-            extract_date_from_legend("Vonnis/arrest van 22 juni 2007", "NL"),
-            "2007-06-22"
-        )
-        # German
-        self.assertEqual(
-            extract_date_from_legend("Urteil vom 14 Juli 2022", "DE"),
-            "2022-07-14"
-        )
-        # Invalid format
-        self.assertIsNone(extract_date_from_legend("No date here", "FR"))
-    
-    def test_extract_court_code_from_ecli(self):
-        """Test court code extraction from ECLI"""
-        self.assertEqual(
-            extract_court_code_from_ecli("ECLI:BE:CASS:2007:ARR.20070622.5"),
-            "CASS"
-        )
-        self.assertEqual(
-            extract_court_code_from_ecli("ECLI:BE:GHCC:2005:ARR.177"),
-            "GHCC"
-        )
-        self.assertEqual(
-            extract_court_code_from_ecli("ECLI:BE:CABRL:2000:ARR.20000125.2"),
-            "CABRL"
-        )
-        self.assertIsNone(extract_court_code_from_ecli("INVALID"))
-    
-    def test_extract_decision_type_from_ecli(self):
-        """Test decision type extraction from ECLI"""
-        self.assertEqual(
-            extract_decision_type_from_ecli("ECLI:BE:CASS:2007:ARR.20070622.5"),
-            "ARR"
-        )
-        self.assertEqual(
-            extract_decision_type_from_ecli("ECLI:BE:AHANT:1970:DEC.19700918.2"),
-            "DEC"
-        )
-        self.assertEqual(
-            extract_decision_type_from_ecli("ECLI:BE:GBAPD:2022:AVIS.20220309.11"),
-            "AVIS"
-        )
-        self.assertEqual(
-            extract_decision_type_from_ecli("ECLI:BE:CASS:2010:CONC.20100226.8"),
-            "CONC"
-        )
-        self.assertIsNone(extract_decision_type_from_ecli("INVALID"))
-    
-    def test_build_url_from_ecli(self):
-        """Test URL building from ECLI"""
-        self.assertEqual(
-            build_url_from_ecli("ECLI:BE:CASS:2007:ARR.20070622.5", "FR"),
-            "https://juportal.be/content/ECLI:BE:CASS:2007:ARR.20070622.5/FR"
-        )
-        self.assertEqual(
-            build_url_from_ecli("ECLI:BE:GHCC:2005:ARR.177", "NL"),
-            "https://juportal.be/content/ECLI:BE:GHCC:2005:ARR.177/NL"
-        )
-    
-    def test_format_ecli_alias(self):
-        """Test ECLI alias formatting"""
-        # Single alias
-        result = format_ecli_alias("ECLI:BE:CASS:2007:ARR.001")
-        self.assertEqual(result, ["ECLI:BE:CASS:2007:ARR.001"])
+    def test_ecli_extraction(self, transformer, sample_decision_card):
+        """Test ECLI extraction from decision card."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_decision_card(sample_decision_card, output, 'NL')
         
-        # Multiple aliases separated by semicolon
-        result = format_ecli_alias("ECLI:BE:CASS:2007:ARR.001; ECLI:BE:CASS:2007:ARR.002")
-        self.assertEqual(result, ["ECLI:BE:CASS:2007:ARR.001", "ECLI:BE:CASS:2007:ARR.002"])
-        
-        # Empty string
-        result = format_ecli_alias("")
-        self.assertEqual(result, [])
-        
-        # Non-ECLI text - format_ecli_alias includes non-ECLI text too
-        result = format_ecli_alias("Not an ECLI")
-        # Based on implementation, it returns the text if not empty, even if not ECLI
-        self.assertEqual(result, ["Not an ECLI"])
+        assert output['decision_id'] == 'ECLI:BE:CASS:2023:ARR.20230117.2N.7'
     
-    def test_extract_pdf_url(self):
-        """Test PDF URL extraction"""
-        section = {
-            "paragraphs": [
-                {
-                    "text": "Some text",
-                    "links": [
-                        {
-                            "href": "/JUPORTAwork/ECLI:BE:CASS:2007:ARR.20070622.5_FR.pdf",
-                            "text": "Document PDF"
-                        }
-                    ]
-                }
+    def test_rol_number_extraction(self, transformer, sample_decision_card):
+        """Test rol number extraction from decision card."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_decision_card(sample_decision_card, output, 'NL')
+        
+        assert output['rol_number'] == 'P.22.1741.N'
+    
+    def test_chamber_extraction(self, transformer, sample_decision_card):
+        """Test chamber extraction from decision card."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_decision_card(sample_decision_card, output, 'NL')
+        
+        assert output['chamber'] == '2N - tweede kamer'
+    
+    def test_field_of_law_extraction(self, transformer, sample_decision_card):
+        """Test field of law extraction from decision card."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_decision_card(sample_decision_card, output, 'NL')
+        
+        assert output['field_of_law'] == 'Strafrecht'
+    
+    def test_case_extraction(self, transformer, sample_decision_card):
+        """Test case extraction from decision card."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_decision_card(sample_decision_card, output, 'NL')
+        
+        assert output['case'] == 'M.'
+
+
+class TestFicheCardExtraction:
+    """Test extraction of fields from Fiche cards."""
+    
+    @pytest.fixture
+    def transformer(self):
+        """Create a transformer instance."""
+        return JuportalTransformer()
+    
+    @pytest.fixture
+    def sample_fiche_card(self):
+        """Sample Fiche card section."""
+        return {
+            'legend': 'Fiche 1',
+            'paragraphs': [
+                {'text': 'Dit is een samenvatting van de zaak.', 'html': '<p>Dit is een samenvatting van de zaak.</p>'},
+                {'text': 'Thesaurus CAS:', 'html': '<p>Thesaurus CAS:</p>'},
+                {'text': 'STRAFUITVOERING', 'html': '<p>STRAFUITVOERING</p>'},
+                {'text': 'UTU-thesaurus:', 'html': '<p>UTU-thesaurus:</p>'},
+                {'text': 'Voorlopige invrijheidstelling', 'html': '<p>Voorlopige invrijheidstelling</p>'},
+                {'text': 'Vrije woorden:', 'html': '<p>Vrije woorden:</p>'},
+                {'text': 'cassatie strafrecht', 'html': '<p>cassatie strafrecht</p>'},
+                {'text': 'Wettelijke bepalingen:', 'html': '<p>Wettelijke bepalingen:</p>'},
+                {'text': 'Art. 47 Wet Strafuitvoering', 'html': '<p>Art. 47 Wet Strafuitvoering</p>'},
+            ]
+        }
+    
+    def test_summary_extraction(self, transformer, sample_fiche_card):
+        """Test summary extraction from Fiche card."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_fiche_card(sample_fiche_card, output, 'Fiche 1')
+        
+        assert len(output['summaries']) == 1
+        assert output['summaries'][0]['summary'] == 'Dit is een samenvatting van de zaak.'
+        assert output['summaries'][0]['summaryId'] == '1'
+    
+    def test_keywords_cassation_extraction(self, transformer, sample_fiche_card):
+        """Test keywords cassation extraction from Fiche card."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_fiche_card(sample_fiche_card, output, 'Fiche 1')
+        
+        assert 'STRAFUITVOERING' in output['summaries'][0]['keywordsCassation']
+    
+    def test_keywords_utu_extraction(self, transformer, sample_fiche_card):
+        """Test keywords UTU extraction from Fiche card."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_fiche_card(sample_fiche_card, output, 'Fiche 1')
+        
+        assert 'Voorlopige invrijheidstelling' in output['summaries'][0]['keywordsUtu']
+    
+    def test_keywords_free_extraction(self, transformer, sample_fiche_card):
+        """Test free keywords extraction from Fiche card."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_fiche_card(sample_fiche_card, output, 'Fiche 1')
+        
+        assert 'cassatie strafrecht' in output['summaries'][0]['keywordsFree']
+    
+    def test_legal_basis_extraction(self, transformer, sample_fiche_card):
+        """Test legal basis extraction from Fiche card."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_fiche_card(sample_fiche_card, output, 'Fiche 1')
+        
+        assert 'Art. 47 Wet Strafuitvoering' in output['summaries'][0]['legalBasis']
+    
+    def test_multi_fiche_consolidation(self, transformer):
+        """Test consolidation of multiple Fiche cards."""
+        output = transformer.validator.create_empty_document()
+        
+        # Process multiple Fiche cards with range
+        fiche_card = {
+            'legend': 'Fiches 2 - 4',
+            'paragraphs': [
+                {'text': 'Summary text', 'html': '<p>Summary text</p>'},
+                {'text': 'Thesaurus CAS:', 'html': '<p>Thesaurus CAS:</p>'},
+                {'text': 'KEYWORD1', 'html': '<p>KEYWORD1</p>'},
             ]
         }
         
-        result = extract_pdf_url(section)
-        self.assertEqual(
-            result, 
-            "https://juportal.be/JUPORTAwork/ECLI:BE:CASS:2007:ARR.20070622.5_FR.pdf"
-        )
+        transformer._process_fiche_card(fiche_card, output, 'Fiches 2 - 4')
         
-        # No PDF link
-        section_no_pdf = {"paragraphs": [{"text": "No links"}]}
-        self.assertIsNone(extract_pdf_url(section_no_pdf))
+        assert len(output['summaries']) == 1
+        assert output['summaries'][0]['summaryId'] == '2'  # Uses first number in range
+
+
+class TestRelatedPublicationsExtraction:
+    """Test extraction of related publications."""
     
-    def test_parse_versions(self):
-        """Test version parsing"""
-        paragraphs = [
-            {"text": "Version(s):", "html": "<p>Version(s):</p>"},
-            {
-                "text": "Original NL",
-                "html": "<p><a href='/link'>Original NL</a></p>",
-                "links": [{"text": "Original NL", "href": "/link"}]
-            },
-            {
-                "text": "Traduction FR",
-                "html": "<p>Traduction FR</p>"
-            }
-        ]
+    @pytest.fixture
+    def transformer(self):
+        """Create a transformer instance."""
+        return JuportalTransformer()
+    
+    @pytest.fixture
+    def sample_related_section(self):
+        """Sample related publications section."""
+        return {
+            'legend': 'Gerelateerde publicaties',
+            'paragraphs': [
+                {'text': 'Citeert:', 'html': '<p>Citeert:</p>'},
+                {'text': 'ECLI:BE:CASS:2020:ARR.20200101.1', 'html': '<p>ECLI:BE:CASS:2020:ARR.20200101.1</p>'},
+                {'text': 'ECLI:BE:CASS:2019:ARR.20190101.1', 'html': '<p>ECLI:BE:CASS:2019:ARR.20190101.1</p>'},
+                {'text': 'Precedenten:', 'html': '<p>Precedenten:</p>'},
+                {'text': 'ECLI:BE:CASS:2018:ARR.20180101.1', 'html': '<p>ECLI:BE:CASS:2018:ARR.20180101.1</p>'},
+                {'text': 'Geciteerd door:', 'html': '<p>Geciteerd door:</p>'},
+                {'text': 'ECLI:BE:CASS:2024:ARR.20240101.1', 'html': '<p>ECLI:BE:CASS:2024:ARR.20240101.1</p>'},
+            ]
+        }
+    
+    def test_citing_extraction(self, transformer, sample_related_section):
+        """Test extraction of citing references."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_related_publications(sample_related_section, output)
         
-        result = parse_versions(paragraphs, 0)
-        self.assertIn("Original NL", result)
-        self.assertIn("Traduction FR", result)
+        assert len(output['citing']) == 2
+        assert 'ECLI:BE:CASS:2020:ARR.20200101.1' in output['citing']
+        assert 'ECLI:BE:CASS:2019:ARR.20190101.1' in output['citing']
+    
+    def test_precedent_extraction(self, transformer, sample_related_section):
+        """Test extraction of precedent references."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_related_publications(sample_related_section, output)
         
-        # No versions
-        result = parse_versions([{"text": "No versions"}], 0)
-        self.assertEqual(result, [])
+        assert len(output['precedent']) == 1
+        assert 'ECLI:BE:CASS:2018:ARR.20180101.1' in output['precedent']
+    
+    def test_cited_in_extraction(self, transformer, sample_related_section):
+        """Test extraction of cited_in references."""
+        output = transformer.validator.create_empty_document()
+        transformer._process_related_publications(sample_related_section, output)
+        
+        assert len(output['cited_in']) == 1
+        assert 'ECLI:BE:CASS:2024:ARR.20240101.1' in output['cited_in']
+    
+    def test_opinion_public_attorney_extraction(self, transformer):
+        """Test extraction of opinion public attorney."""
+        section = {
+            'legend': 'Gerelateerde publicaties',
+            'paragraphs': [
+                {'text': 'Conclusie O.M.:', 'html': '<p>Conclusie O.M.:</p>'},
+                {'text': 'Het openbaar ministerie concludeert...', 'html': '<p>Het openbaar ministerie concludeert...</p>'},
+            ]
+        }
+        
+        output = transformer.validator.create_empty_document()
+        transformer._process_related_publications(section, output)
+        
+        assert output['opinion_public_attorney'] == 'Het openbaar ministerie concludeert...'
+
+
+class TestFieldMapping:
+    """Test field mapping configuration."""
+    
+    @pytest.fixture
+    def mapper(self):
+        """Create a field mapper instance."""
+        return FieldMapper()
+    
+    def test_decision_card_detection(self, mapper):
+        """Test detection of decision card sections."""
+        assert mapper.is_decision_card('Vonnis/arrest van 17 januari 2023')
+        assert mapper.is_decision_card('Jugement/arrêt du 15 mars 2023')
+        assert mapper.is_decision_card('Beschikking van 10 februari 2023')
+        assert not mapper.is_decision_card('Fiche 1')
+        assert not mapper.is_decision_card('Tekst van de beslissing')
+    
+    def test_fiche_card_detection(self, mapper):
+        """Test detection of Fiche card sections."""
+        assert mapper.is_fiche_card('Fiche')
+        assert mapper.is_fiche_card('Fiche 1')
+        assert mapper.is_fiche_card('Fiches 2 - 5')
+        assert not mapper.is_fiche_card('Vonnis/arrest van 17 januari 2023')
+        assert not mapper.is_fiche_card('Tekst van de beslissing')
+    
+    def test_full_text_section_detection(self, mapper):
+        """Test detection of full text sections."""
+        assert mapper.is_full_text_section('Texte de la décision')
+        assert mapper.is_full_text_section('Tekst van de beslissing')
+        assert mapper.is_full_text_section('Text der Entscheidung')
+        assert not mapper.is_full_text_section('Fiche 1')
+        assert not mapper.is_full_text_section('Vonnis/arrest van 17 januari 2023')
+    
+    def test_field_identification(self, mapper):
+        """Test identification of field names from text."""
+        assert mapper.identify_field('ECLI nr:') == 'ecli'
+        assert mapper.identify_field('Rolnummer:') == 'rolNumber'
+        assert mapper.identify_field('Kamer:') == 'chamber'
+        assert mapper.identify_field('Rechtsgebied:') == 'fieldOfLaw'
+        assert mapper.identify_field('Thesaurus CAS:') == 'keywordsCassation'
+        assert mapper.identify_field('Random text') is None
+    
+    def test_fiche_number_extraction(self, mapper):
+        """Test extraction of Fiche numbers from legend."""
+        assert mapper.extract_fiche_numbers('Fiche') == ['1']
+        assert mapper.extract_fiche_numbers('Fiche 3') == ['3']
+        assert mapper.extract_fiche_numbers('Fiches 2 - 5') == ['2', '3', '4', '5']
+        assert mapper.extract_fiche_numbers('Fiches 1 – 3') == ['1', '2', '3']
+        assert mapper.extract_fiche_numbers('Random text') == []
 
 
 if __name__ == '__main__':
-    unittest.main()
+    pytest.main([__file__, '-v'])
