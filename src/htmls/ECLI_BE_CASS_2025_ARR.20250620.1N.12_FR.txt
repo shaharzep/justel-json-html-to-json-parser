@@ -1,0 +1,337 @@
+<html lang="nl"><head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, proxy-revalidate, no-transform">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="shortcut icon" href="/JUPORTAinclude/icones/staatszegel_rood.ico" type="image/ico">
+  <!-- ==============================================================================
+        JUPORTA project: - Openbare databank voor Belgische rechtspraak
+                         - JUPORTA zoekmachine
+                         - Web indexing voor de ECLI zoekmachine
+        
+        Database - Web - CSS ontwerp en ontwikkeling: mny - ICT dienst - FOD Justitie
+        
+        Copyright (c) 2017-2025 FOD Justitie - alle rechten voorbehouden.        
+        Elke reproductie, zelfs gedeeltelijk, is verboden.
+       ==============================================================================
+         § Labor omnia vincit improbus §
+  -->       
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/fonts/selawik/font-face.css">
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_css.php">
+  <link rel="stylesheet" media="print" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_print_M_css.php">
+  <script type="text/javascript" src="/JUPORTAinclude/script/balloontip.js"></script>
+  <title>ECLI:BE:CASS:2025:ARR.20250620.1N.12</title>
+  <meta name="keywords" content=" 09 Belastingrecht
+                  BELASTING OVER DE TOEGEVOEGDE WAARDE
+                  &lt;!-- MOTS_CLEF BELASTING OVER DE TOEGEVOEGDE WAARDE--&gt; 
+                  07 Unierecht
+                  EUROPESE UNIE - ALLERLEI
+                  &lt;!-- MOTS_CLEF EUROPESE UNIE - ALLERLEI--&gt; 
+                 ">
+
+  <meta name="author" content=" Hof van Cassatie 
+                ">
+          <!-- BalloonArrayDefine -->
+</head>
+<body>
+  <div id="page_left">
+  </div>
+  <div id="page_right">
+  </div>
+  <div id="conteneur" onscroll="Javascript: ScrollWindow(this.scrollTop);">
+    <div id="page_top">
+
+      <div id="page_top_staatszegel" title="JUPORTAL-Ontvangst">
+            <a href="https://juportal.be/home/welkom">
+                <img src="/JUPORTAinclude/icones/Staatszegel_hof_invers.png" width="44" height="44" alt="JUPORTAL-Ontvangst">
+            </a>
+      </div>
+      <div id="page_top_titre">
+            JUPORTAL Openbare databank voor Belgische rechtspraak
+      </div>
+    </div>
+    <div id="page_main" x-ms-format-detection="none">
+    <!-- continue here with main block (division "content") -->
+    <div id="content1">
+
+    <form id="form_table" name="detail" action="/content/ECLI:BE:CASS:2025:ARR.20250620.1N.12/FR" method="post"> 
+
+    <input type="hidden" name="TOKEN" id="TOKEN" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1">        <!-- Commandes de navigation page détail--> 
+
+      <div class="UHZUDCZHZ5wkUyG7TKxuP98ZUG24bq6qHKFD54m60JJSNpPWkI" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="UHZUDCZHIxAxPumkfVhynOhKRFKdg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="UHZUDCZHkX76GpCkge0BA0avPkk6Dw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="UHZUDCZHkX76GpCkge0BA0avPkk6Dw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+ <div id="UHZUDCZHLbo3rYrl7bxUhxZMwNhwf0XYZyelEdoG81Yy6fj0CE">
+        <img src="/JUPORTAinclude/icones/Staatszegel_hof_rood.png" width="20" height="20" alt="Hof van Cassatie">&nbsp; 
+Hof van Cassatie  </div>
+       <fieldset>
+            <legend title="">Vonnis/arrest van 20 juni 2025            </legend>
+       <table aria-describedby="Vonnis/arrest van 20 juni 2025">
+         <thead>
+          <tr class="UHZUDCZHNDwWF88PVnbehcSkz68GAe49KtpcI874hAEz4dk2vg">
+            <th width="12%"></th>
+            <th width="88%"></th>
+          </tr>
+         </thead>
+
+         <tbody>
+
+          <tr>
+            <td><p class="UHZUDCZHLsj4yfedAH4vhIb05QNWpBVXVxBbnHiNuwZydF1s">ECLI nr:</p></td>
+            <td><p class="UHZUDCZHCQYkssm4MfpXNosAyqzPtihpen4cPzDZHi3GCibEQ">ECLI:BE:CASS:2025:ARR.20250620.1N.12</p>
+            </td>
+          </tr>
+            <tr>
+              <td><p class="UHZUDCZHLsj4yfedAH4vhIb05QNWpBVXVxBbnHiNuwZydF1s">Rolnummer:</p></td>
+              <td><p class="UHZUDCZHCQYkssm4MfpXNosAyqzPtihpen4cPzDZHi3GCibEQ">F.22.0059.N</p>
+              </td>
+            </tr>
+                          
+            <tr>
+              <td><p class="UHZUDCZHLsj4yfedAH4vhIb05QNWpBVXVxBbnHiNuwZydF1s">Zaak:</p></td>
+              <td><p class="UHZUDCZHCQYkssm4MfpXNosAyqzPtihpen4cPzDZHi3GCibEQ">BS FINANCIEN c. Architectenbureau Delafontaine</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="UHZUDCZHLsj4yfedAH4vhIb05QNWpBVXVxBbnHiNuwZydF1s">Kamer:</p></td>
+              <td><p class="UHZUDCZHCQYkssm4MfpXNosAyqzPtihpen4cPzDZHi3GCibEQ">1N - eerste kamer
+      </p>
+    </td>
+   </tr>
+            <tr>
+              <td><p class="UHZUDCZHLsj4yfedAH4vhIb05QNWpBVXVxBbnHiNuwZydF1s">Rechtsgebied:</p></td>
+              <td><p class="UHZUDCZHCQYkssm4MfpXNosAyqzPtihpen4cPzDZHi3GCibEQ">
+ Belastingrecht - Unierecht</p></td></tr> 
+            <tr>
+              <td><p class="UHZUDCZHLsj4yfedAH4vhIb05QNWpBVXVxBbnHiNuwZydF1s">Invoerdatum:</p></td>
+              <td><p class="UHZUDCZHCQYkssm4MfpXNosAyqzPtihpen4cPzDZHi3GCibEQ">2025-08-21</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="UHZUDCZHLsj4yfedAH4vhIb05QNWpBVXVxBbnHiNuwZydF1s">Raadplegingen:</p></td>
+              <td><p class="UHZUDCZHCQYkssm4MfpXNosAyqzPtihpen4cPzDZHi3GCibEQ">101 - laatst gezien 2025-08-24 23:23</p>
+              </td>
+            </tr>
+                          
+         </tbody>
+        </table>
+      
+       </fieldset>
+       <fieldset id="UHZUDCZHgqMTBUcfu6j5CHcfRTmAg-1">
+            <legend title="">Fiche 1            </legend>
+      <table aria-describedby="Fiche 1">
+       <thead>
+        <tr class="UHZUDCZHNDwWF88PVnbehcSkz68GAe49KtpcI874hAEz4dk2vg">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thesaurus CAS:</p></td>
+          <td>
+            <p class="description-notice-table">BELASTING OVER DE TOEGEVOEGDE WAARDE
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="UHZUDCZHgqMTBUcfu6j5CHcfRTmAg-2">
+            <legend title="">Fiche 2            </legend>
+      <table aria-describedby="Fiche 2">
+       <thead>
+        <tr class="UHZUDCZHNDwWF88PVnbehcSkz68GAe49KtpcI874hAEz4dk2vg">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table"></p></td>
+          <td>
+            <p class="description-notice-table">EUROPESE UNIE - ALLERLEI
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="UHZUDCZH4KrAJwCfLk3XZU0rMqY6Dw">
+            <legend title="Vonnis/arrest van 20 juni 2025">Tekst van de beslissing            </legend>
+
+      <div id="UHZUDCZHm8FYHOzMpsgSgFtv328uJlRtybE9XZJIdwfzOXw3MTU">
+    <p>
+       Nr. F.22.0059.N<br>
+       BELGISCHE STAAT, vertegenwoordigd door de minister van Financiën, met kabinet te 1000 Brussel, Wetstraat 12, voor wie optreedt het Centrum KMO Centrum Kortrijk, met kantoor te 9050 Gent (Ledeberg), Gaston Crommenlaan 6 bus 543,<br>
+       eiser,<br>
+       vertegenwoordigd door mr. Geoffroy de Foestraets en mr. Stefan De Vleeschouwer, advocaten bij het Hof van Cassatie, beiden met kantoor te 1000 Brussel, Dalstraat 67, waar de eiser woonplaats kiest,<br>
+       tegen<br>
+       ARCHITECTENBUREAU DELAFONTAINE bv, met zetel te 8800 Roeselare, Pauwstraat 5, ingeschreven bij de KBO onder het nummer 0452.750.567,<br>
+       verweerster,<br>
+       met als raadslieden mr. Stijn Vastmans, advocaat aan de balie te Gent, met kantoor te 9000 Gent, Esplanade Oscar Van de Voorde 1, en mr. Stein De Maeijer, advocaat aan de balie te Brussel, met kantoor te 1000 Brussel, Havenlaan 86/C bus 419.<br>
+       I.	RECHTSPLEGING VOOR HET HOF<br>
+       Het cassatieberoep is gericht tegen het arrest van het hof van beroep te Gent van 2 november 2021.<br>
+       Advocaat-generaal Frederic Vroman heeft op 21 mei 2025 een schriftelijke conclusie neergelegd.<br>
+       Raadsheer Bart Wylleman heeft verslag uitgebracht.<br>
+       Advocaat-generaal Frederic Vroman heeft geconcludeerd.<br>
+       II.	CASSATIEMIDDEL<br>
+       De eiser voert in zijn verzoekschrift dat aan dit arrest is gehecht, een middel aan.<br>
+       III.	BESLISSING VAN HET HOF<br>
+       Beoordeling<br>
+       1.	Artikel 90 Richtlijn 2006/112 van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde, hierna Btw-richtlijn, bepaalt:<br>
+       “1. In geval van annulering, verbreking, ontbinding of gehele of gedeeltelijke niet-betaling, of in geval van prijsvermindering nadat de handeling is verricht, wordt de maatstaf van heffing dienovereenkomstig verlaagd onder de voorwaarden die door de lidstaten worden vastgesteld.<br>
+       2. In geval van gehele of gedeeltelijke niet-betaling kunnen de lidstaten van lid 1 afwijken.”<br>
+       2.	Artikel 273 Btw-richtlijn bepaalt:<br>
+       “De lidstaten kunnen, onder voorbehoud van gelijke behandeling van door belastingplichtigen verrichte binnenlandse handelingen en handelingen tussen de lidstaten, andere verplichtingen voorschrijven die zij noodzakelijk achten ter waarborging van de juiste inning van de btw en ter voorkoming van fraude, mits deze verplichtingen in het handelsverkeer tussen de lidstaten geen aanleiding geven tot formaliteiten in verband met een grensoverschrijding.<br>
+       De in de eerste alinea geboden mogelijkheid mag niet worden benut voor het opleggen van extra verplichtingen naast de in hoofdstuk 3 vastgestelde verplichtingen inzake facturering.”<br>
+       3.	Uit de rechtspraak van het Hof van Justitie van de Europese Unie volgt dat:<br>
+       -	aangezien artikel 90, lid 1, en artikel 273 Btw-richtlijn, buiten de door deze bepalingen gestelde beperkingen, noch de voorwaarden noch de verplichtingen preciseren waarin de lidstaten kunnen voorzien, moet worden vastgesteld dat deze bepalingen aan de lidstaten een beoordelingsmarge verlenen betreffende met name de formaliteiten die de belastingplichtigen jegens de belastingdienst dienen te vervullen om een verlaging van de maatstaf van heffing door te voeren (HvJ 26 januari 2012, C-588/10, Kraft Foods Polska, r.o. 23; HvJ 15 mei 2014, C-337/13, Almos Agrárkülkereskedelmi, r.o. 37; HvJ 12 oktober 2017, C-404/16, Lombard Ingatlan Lízing Zrt., r.o. 42);<br>
+       -	maatregelen ter voorkoming van belastingfraude of -ontwijking in beginsel slechts van de regels inzake de maatstaf van heffing mogen afwijken, voor zover dit strikt noodzakelijk is om dat specifieke doel te bereiken. Zij dienen namelijk zo min mogelijk afbreuk te doen aan de doeleinden en beginselen van de Btw-richtlijn en mogen dus niet op zodanige wijze worden aangewend dat zij de neutraliteit van de btw zouden aantasten (HvJ 26 januari 2012, C-588/10, Kraft Foods Polska, r.o. 28; HvJ 15 mei 2014, C-337/13, Almos Agrárkülkereskedelmi, r.o. 38; HvJ 12 oktober 2017, C-404/16, Lombard Ingatlan Lízing Zrt., r.o. 43);<br>
+       -	het bijgevolg van belang is dat de formaliteiten waaraan de belastingplichtigen moeten voldoen om ten aanzien van de belastingdienst het recht op verlaging van de maatstaf van heffing voor de btw te kunnen uitoefenen, beperkt zijn tot die welke de mogelijkheid bieden aan te tonen dat de tegenprestatie of een deel ervan na de sluiting van de transactie definitief niet zal worden ontvangen. Het staat aan de nationale rechter om na te gaan of de door de betrokken lidstaat opgelegde formaliteiten aan deze voorwaarde voldoen (HvJ 15 mei 2014, C-337/13, Almos Agrárkülkereskedelmi, r.o. 39; HvJ 12 oktober 2017, C-404/16, Lombard Ingatlan Lízing Zrt., r.o. 44).<br>
+       4.	Krachtens artikel 77, § 1, 7°, Btw-wetboek wordt, onverminderd de toepassing van artikel 344 van de programmawet van 27 december 2004, de belasting die geheven werd van een levering van goederen, van een dienst of van een intracommunautaire verwerving van een goed tot beloop van het passende bedrag teruggegeven wanneer de schuldvordering van de prijs geheel of ten dele verloren is gegaan.<br>
+       Artikel 79, § 1, eerste lid, Btw-wetboek bepaalt dat wanneer de teruggaaf verleend wordt op grond van een vergissing in de factuur of van het bepaalde in artikel 77, § 1, 2° tot 7°, de leverancier of de dienstverstrekker aan de medecontractant een verbeterend stuk moet aanreiken met vermelding van het bedrag van de hem teruggegeven belasting.<br>
+       5.	Krachtens artikel 80 Btw-wetboek bepaalt de Koning de formaliteiten en voorwaarden waaraan de teruggaaf onderworpen is en de wijze waarop ze geschiedt.<br>
+       Artikel 4, § 1, eerste lid, KB nr. 4 van 29 december 1969 met betrekking tot de teruggaven inzake belasting over de toegevoegde waarde bepaalt onder meer:<br>
+       “Om zijn vordering tot teruggaaf te kunnen uitoefenen moet de belastingplichtige of de niet-belastingplichtige rechtspersoon die, naargelang van het geval, gehouden is de in artikel 53, § 1, eerste lid, 2°, of artikel 53ter, 1°, Wetboek bedoelde aangifte in te dienen:<br>
+       1° een verbeterend stuk opmaken met vermelding van het voor teruggaaf vatbare bedrag;<br>
+       2° dat stuk inschrijven in een daartoe bestemd register;<br>
+       3° in de gevallen bedoeld in artikel 79 van het Wetboek aan de medecontractant een dubbel van dat stuk uitreiken voorzien van de vermelding ‘BTW terug te storten aan de Staat in de mate waarin ze oorspronkelijk in aftrek werd gebracht’.”<br>
+       Krachtens artikel 13 van voormeld KB nr. 4 kan de teruggaaf van btw niet geldig worden verkregen wanneer de formaliteiten en voorwaarden bepaald bij dit besluit niet worden nageleefd.<br>
+       6.	Overeenkomstig artikel 168, (a), Btw-richtlijn mag elke belastingplichtige op de belasting die hij verschuldigd is de belasting geheven van de aan hem geleverde goederen en verleende diensten in aftrek brengen, in de mate dat hij die goederen en diensten gebruikt voor het verrichten van belaste handelingen.<br>
+       Overeenkomstig artikel 184 Btw-richtlijn wordt de oorspronkelijk toegepaste aftrek herzien indien deze hoger of lager is dan die welke de belastingplichtige gerechtigd was toe te passen.<br>
+       Artikel 185 Btw-richtlijn bepaalt:<br>
+       “1. De herziening vindt met name plaats indien zich na de btw-aangifte wijzigingen hebben voorgedaan in de elementen die voor het bepalen van het bedrag van de aftrek in aanmerking zijn genomen, bijvoorbeeld in geval van geannuleerde aankopen of verkregen rabatten.<br>
+       2. In afwijking van lid 1 vindt geen herziening plaats voor handelingen die geheel of gedeeltelijk onbetaald zijn gebleven, in geval van naar behoren bewezen en aangetoonde vernietiging, verlies of diefstal […].<br>
+       In geval van geheel of gedeeltelijk onbetaald gebleven handelingen en in geval van diefstal, kunnen de lidstaten evenwel herziening eisen.”<br>
+       Krachtens artikel 186 Btw-richtlijn stellen de lidstaten nadere regels vast voor de toepassing van de artikelen 184 en 185.<br>
+       7.	Krachtens artikel 5, § 1, KB nr. 3 van 10 december 1969 met betrekking tot de aftrekregeling voor de toepassing van de belasting over de toegevoegde waarde dient de belastingplichtige de oorspronkelijk verrichte aftrek te herzien:<br>
+       “1° wanneer die aftrek meer of minder bedraagt dan die welke hij mocht verrichten op het tijdstip waarop de bij artikel 4 bedoelde formaliteiten vervuld waren;<br>
+       2° in het geval bedoeld bij artikel 79, § 1, tweede lid, van het Wetboek;<br>
+       3° wanneer zich wijzigingen voordoen in de factoren die aan de berekening van de gedane aftrek ten grondslag liggen, zoals de wijzigingen bedoeld in de artikelen 15 en 19 of de wijzigingen in het geval dat een belastingplichtige die uitsluitend handelingen verrichtte die recht op aftrek verleenden, vervolgens handelingen verricht waarvoor er geen aanspraak op aftrek is;<br>
+       4° wanneer hij ieder recht op aftrek verliest, wat betreft de nog niet vervreemde lichamelijke roerende goederen en de nog niet-gebruikte diensten op het tijdstip van dat verlies.”<br>
+       8.	Uit de voormelde bepalingen van het Btw-wetboek en van het KB nr. 3 en 4 volgt dat, naar Belgisch Btw-recht:<br>
+       - wanneer de schuldvordering van een belastingplichtige leverancier van goederen of diensten geheel of ten dele definitief verloren gaat, de verlaging van de maatstaf van heffing en de teruggaaf van de btw afhankelijk is van het uitreiken door deze belastingplichtige van een verbeterend stuk en de inschrijving ervan in een daartoe bestemd register, gevolgd door het uitreiken van een dubbel van dat stuk aan de belastingplichtige medecontractant, afnemer van de goederen of diensten;<br>
+       - de wijziging van de maatstaf van heffing aan de zijde van de belastingplichtige leverancier dient te leiden tot een herziening van de aftrek van de voorbelasting bij de belastingplichtige medecontractant; deze dient de teveel in aftrek genomen btw terug te storten door ze op te nemen in het bedrag van de verschuldigde belasting voor de periode waarin hij het verbeterend stuk heeft ontvangen.<br>
+       9.	In het arrest SCT, C-146/19, van 11 juni 2020 oordeelt het Hof van Justitie van de Europese Unie in verband met de in het Sloveens recht gestelde voorwaarde dat de belastingplichtige, om in geval van faillissement van de afnemer aanspraak te kunnen maken op verlaging van de maatstaf van heffing, zijn schuldvordering in het faillissement moet indienen, dat:<br>
+       -	een vereiste waarbij de dienovereenkomstige verlaging van de maatstaf van heffing in geval van niet-betaling afhankelijk is van de indiening door de belastingplichtige van de onbetaalde schuldvordering in de faillissementsprocedure jegens de schuldenaar, in beginsel ertoe kan bijdragen dat zowel de juiste inning van de btw wordt gewaarborgd en fraude wordt voorkomen als het gevaar voor verlies van belastinginkomsten wordt uitgeschakeld, en streeft zij aldus de in artikel 90, lid 1, en artikel 273 Btw-richtlijn genoemde legitieme doelstellingen na;<br>
+       -	wat betreft, in de eerste plaats, het doel van het voorkomen van fraude moet worden opgemerkt dat een vereiste als aan de orde in het hoofdgeding weliswaar kan beletten dat de staat schade lijdt wanneer het stilzitten van de belastingplichtige die zijn vordering niet heeft ingediend in een faillissementsprocedure het gevolg is van handelingen waaruit blijkt dat deze belastingplichtige en zijn schuldenaar samenspannen, maar dat de toepassing van dit vereiste tot gevolg heeft dat het recht op verlaging van de maatstaf van heffing stelselmatig wordt geweigerd in geval van niet-indiening, hetgeen neerkomt op een algemeen vermoeden van fraude dat verder gaat dan noodzakelijk is voor de verwezenlijking van de doelstelling van het voorkomen van fraude;<br>
+       -	wat betreft, in de tweede plaats, de doelstelling van het uitschakelen van het gevaar voor verlies van belastinginkomsten, moet worden opgemerkt dat, voor zover de niet-indiening van een schuldvordering in het faillissement van een schuldenaar impliceert dat deze schuldvordering overeenkomstig artikel 296, lid 5, ZFPPIPP in de verhouding met de failliete schuldenaar tenietgaat, de belastingplichtige noodzakelijkerwijs de kans verliest om zelfs maar een gedeelte van zijn schuldvordering te innen, hetgeen in voorkomend geval resulteert in een nadeel voor de lidstaat in kwestie;<br>
+       -	wanneer de belastingplichtige evenwel aantoont dat zijn schuldvordering, zelfs indien hij deze had ingediend, niet zou zijn geïnd, gaat het feit dat een verlaging van de maatstaf van heffing wordt uitgesloten en dat op die belastingplichtige de last van een btw-bedrag wordt afgewenteld dat hij in het kader van zijn economische activiteiten niet heeft ontvangen, verder dan strikt noodzakelijk is voor de verwezenlijking van de doelstelling van het uitschakelen van het gevaar voor verlies van belastinginkomsten. In dat geval had de indiening van de betreffende schuldvordering niet kunnen voorkomen dat de staat bijkomende schade leed.<br>
+       Het Hof van Justitie van de Europese Unie besluit dat artikel 90, lid 1, en artikel 273 Btw-richtlijn aldus moeten worden uitgelegd dat zij in de weg staan aan een regeling van een lidstaat op grond waarvan een belastingplichtige het recht op verlaging van de betaalde btw voor een oninbare schuldvordering wordt geweigerd indien hij heeft verzuimd deze schuldvordering in te dienen in de faillissementsprocedure die is ingeleid jegens zijn schuldenaar, zelfs wanneer die belastingplichtige aantoont dat die schuldvordering niet zou zijn geïnd als hij deze had ingediend.<br>
+       10.	Uit deze rechtspraak volgt kennelijk dat, ook al zijn de voorwaarden of vereisten waarvan een lidstaat de verlaging van de maatstaf van heffing afhankelijk maakt, in abstracto beschouwd, verantwoord in het licht van de doelstelling van het voorkomen van fraude of het uitschakelen van het gevaar voor verlies van belastinginkomsten, de niet-vervulling ervan de verlaging van de maatstaf van heffing en de teruggaaf van de btw niet in de weg mag staan wanneer vaststaat dat, in concreto beschouwd, deze geen invloed heeft gehad op de voormelde doelstellingen.<br>
+       Hieruit vloeit voort dat het niet-uitreiken van een verbeterend stuk aan de mede-contractant die de btw in aftrek heeft gebracht, geen afbreuk doet aan het recht op verlaging van de maatstaf van heffing en op het recht op teruggaaf van de btw wanneer vaststaat dat het uitreiken van een verbeterend stuk er niet toe had geleid dat de door de medecontractant teveel afgetrokken btw had kunnen worden gerecupereerd.<br>
+       11.	De appelrechter die oordeelt dat de administratie, ook zonder de uitreiking van het verbeterend stuk, naar aanleiding van de uitoefening van het recht op teruggaaf in de aangifte over voldoende gegevens beschikte om zowel de gegrondheid ervan bij de verweerster na te gaan als de opties tot recuperatie van de btw bij de vereffende schuldenaar en dat het bovendien aannemelijk is dat zelfs indien het verbeterend stuk zou zijn uitgereikt op het moment van de ontvangst van het attest van de vereffenaar, het belang of doel van de recuperatie van de eventueel in mindering gebrachte btw bij de vereffende schuldenaar niet meer bereikt zou kunnen worden en uit de syntheseconclusie van de administratie alvast op geen enkele wijze het tegendeel blijkt, verantwoordt naar recht zijn beslissing dat, in die situatie, de strikte toepassing van de voorwaarde van het uitreiken van een verbeterend stuk zoals vereist door artikel 79, § 1, eerste lid, Btw-wetboek en artikel 4, § 1, eerste lid, KB nr. 4, niet in overeenstemming is met het doel en draagwijdte van het Unierecht en niet aan de verlaging van de maatstaf van heffing en de teruggaaf van de btw in de weg kan staan.<br>
+       Het middel kan niet worden aangenomen.<br>
+       Dictum<br>
+       Het Hof,<br>
+       Verwerpt het cassatieberoep.<br>
+       Veroordeelt de eiser tot de kosten.<br>
+       Bepaalt de kosten voor de eiser op 633,26 euro.<br>
+       Dit arrest is gewezen te Brussel door het Hof van Cassatie, eerste kamer, samengesteld uit sectievoorzitter Geert Jocqué, als voorzitter, en de raadsheren Bart Wylleman, Myriam Ghyselen, Michael Traest en Ann De Wolf en in openbare rechtszitting van 20 juni 2025 uitgesproken door sectievoorzitter Geert Jocqué, in aanwezigheid van advocaat-generaal Frederic Vroman, met bijstand van griffier Elien Van Isterdael.
+    </p>
+      </div>
+       <p><a href="/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250620.1N.12_NL.pdf?Version=1755784213" title="PDF document, version 1.7, 31 pages ECLI:BE:CASS:2025:ARR.20250620.1N.12 NL " target="_blank">PDF document ECLI:BE:CASS:2025:ARR.20250620.1N.12</a>
+       </p>
+       </fieldset>
+        <!-- Commandes de navigation page détail--> 
+
+      <div class="UHZUDCZHZ5wkUyG7TKxuP98ZUG24bq6qHKFD54m60JJSNpPWkI" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="UHZUDCZHIxAxPumkfVhynOhKRFKdg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="UHZUDCZHkX76GpCkge0BA0avPkk6Dw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="UHZUDCZHkX76GpCkge0BA0avPkk6Dw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+    </form>
+    </div>
+<!-- Action LOG 
+function JUPORTARecordLogViewDecision  $iubel_id        : 284424
+                                       $action_type     : VIEW
+                                      &$action_startmt  : 1756084703.558
+                                      &$action_duration : 40
+                                      &$addressipremote : 98.109.187.131
+                                      &$latitude        : '40.9238000'
+                                      &$longitude       : '-73.9989000'
+                                      &$accuracy        : null
+                                      &$altitude        : null
+                                      &$langue_view     : NL
+-->
+<!-- Action_duration 40 millisec --> 
+      <!-- end of main block (division "content") -->
+
+    </div>
+    <!-- end of division "page_main" -->
+    <div id="page_footer">
+        <div id="page_footer_contact" title="Voor informatie of suggesties voor het ontwikkelingsteam kunt u contact met ons opnemen" rel="balloon_contact">
+              ✉ <a href="mailto:info-JUPORTAL@just.fgov.be">info-JUPORTAL@just.fgov.be</a>
+        </div>
+        <div id="page_footer_copyright" title="Copyright ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie - Alle rechten voorbehouden" rel="balloon_copyright">
+              ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie
+        </div>
+
+    </div>
+
+  </div>
+  <!-- end of division "conteneur" -->
+
+  <!-- Balloon system info -->
+  <div id="balloon_system_info" class="balloonstyle" style="height: 128px; width: 400px">
+      <p>
+          Powered by PHP 8.4.7
+      </p>
+      <p>
+          Server Software Apache/2.4.62
+      </p>
+      <p>
+          == Fluctuat nec mergitur ==
+      </p>
+  </div>
+  <!-- Balloon system info -->
+          <!-- BalloonObjectPrepa Start -->
+          <!-- BalloonObjectPrepa End -->
+
+
+</body></html>

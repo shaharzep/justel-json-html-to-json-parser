@@ -491,33 +491,6 @@ class TwoPhaseTransformerWithDedup:
         logger.info(f"Invalid before LLM: {self.stats['invalid_before_llm']}")
         logger.info(f"Fixed by LLM: {self.stats['llm_fixed']}")
         logger.info(f"Still invalid: {self.stats['invalid_after_llm']}")
-        
-        actual_saved = final_file_count
-        valid_count = actual_saved - self.stats['invalid_after_llm']
-        valid_pct = (valid_count / actual_saved * 100) if actual_saved > 0 else 0
-        
-        logger.info("")
-        logger.info(f"Final validation rate: {valid_count}/{actual_saved} ({valid_pct:.1f}%)")
-        
-        # Report missing dates statistics
-        logger.info("")
-        logger.info("DATE EXTRACTION RESULTS:")
-        logger.info(f"Valid files with complete dates: {self.stats['valid_with_dates_count']}")
-        logger.info(f"Valid files with missing/incomplete dates: {self.stats['missing_dates_count']}")
-        
-        if valid_count > 0:
-            date_complete_pct = (self.stats['valid_with_dates_count'] / valid_count * 100)
-            logger.info(f"Date extraction success rate: {self.stats['valid_with_dates_count']}/{valid_count} ({date_complete_pct:.1f}%)")
-        
-        if self.stats['phase1_time'] > 0:
-            avg_time_phase1 = self.stats['phase1_time'] / self.stats['total_files']
-            logger.info(f"Average time per file (Phase 1): {avg_time_phase1:.3f}s")
-        
-        if self.stats['invalid_before_llm'] > 0 and self.stats['phase2_time'] > 0:
-            avg_time_phase2 = self.stats['phase2_time'] / self.stats['invalid_before_llm']
-            logger.info(f"Average time per invalid file (Phase 2): {avg_time_phase2:.3f}s")
-        
-        logger.info("=" * 60)
 
 
 def main():

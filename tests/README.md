@@ -2,7 +2,7 @@
 
 ## Overview
 
-This comprehensive test suite covers all critical components of the `transform_with_dedup.py` transformation pipeline, including:
+This comprehensive test suite covers all critical components of the `transformer.py` transformation pipeline, including:
 
 - Field extraction from JSON sections
 - Date parsing and extraction 

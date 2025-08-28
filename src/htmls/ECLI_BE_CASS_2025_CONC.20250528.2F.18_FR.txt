@@ -1,0 +1,862 @@
+<html lang="fr"><head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, proxy-revalidate, no-transform">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="shortcut icon" href="/JUPORTAinclude/icones/staatszegel_rood.ico" type="image/ico">
+  <!-- ===========================================================================
+        Projet JUPORTA: - Base de données publique de la jurisprudence belge
+                        - moteur de recherche JUPORTA
+                        - référencement pour le moteur de recherche ECLI 
+        
+        Design database - développement Web - CSS : mny - Service ICT - SPF Justice
+        
+        Copyright (c) 2017-2025 SPF Justice - tous droits réservés.        
+        Toute reproduction, même partielle, est interdite.
+       ===========================================================================
+         § Ex Nihilo Nihil fit §
+  -->       
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/fonts/selawik/font-face.css">
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_css.php">
+  <link rel="stylesheet" media="print" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_print_M_css.php">
+  <script type="text/javascript" src="/JUPORTAinclude/script/balloontip.js"></script>
+  <title>ECLI:BE:CASS:2025:CONC.20250528.2F.18</title>
+  <meta name="keywords" content=" 06 Droit pénal
+                  EXTRADITION
+                  Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1
+                  Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596
+                  Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603
+                  L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30
+                  &lt;!-- MOTS_CLEF EXTRADITION--&gt; 
+                  05 Droit international privé
+                  EXEQUATUR
+                  &lt;!-- MOTS_CLEF EXEQUATUR--&gt; 
+                  10 Droit international public
+                  ENTRAIDE JUDICIAIRE INTERNATIONALE
+                  &lt;!-- MOTS_CLEF ENTRAIDE JUDICIAIRE INTERNATIONALE--&gt; 
+                  07 Droit européen
+                  UNION EUROPEENNE - DIVERS
+                  &lt;!-- MOTS_CLEF UNION EUROPEENNE - DIVERS--&gt; 
+                  TRAITES ET ENGAGEMENTS INTERNATIONAUX
+                  &lt;!-- MOTS_CLEF TRAITES ET ENGAGEMENTS INTERNATIONAUX--&gt; 
+                  JURIDICTIONS D'INSTRUCTION
+                  &lt;!-- MOTS_CLEF JURIDICTIONS D'INSTRUCTION--&gt; 
+                  11 Droit constitutionnel
+                  CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 167
+                  Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020
+                  Traité du 25 mars 1957 sur le fonctionnement de l'Union européenne (TFUE) - 25-03-1957 - Art. 217 - 01
+                  &lt;!-- MOTS_CLEF CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 167--&gt; 
+                  99 Autres
+                  POURVOI EN CASSATION - MATIERE REPRESSIVE - Formes - Forme du pourvoi en cassation et indications
+                  Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1
+                  Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596
+                  Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603
+                  L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30
+                  L. du 19 décembre 2003 relative au mandat d'arrêt européen - 19-12-2003 - Art. 18 - 32
+                  &lt;!-- MOTS_CLEF POURVOI EN CASSATION - MATIERE REPRESSIVE - Formes - Forme du pourvoi 
+                  en cassation et indications--&gt; 
+                 ">
+
+  <meta name="author" content=" Cour de cassation 
+                ">
+          <!-- BalloonArrayDefine -->
+</head>
+<body>
+  <div id="page_left">
+  </div>
+  <div id="page_right">
+  </div>
+  <div id="conteneur" onscroll="Javascript: ScrollWindow(this.scrollTop);">
+    <div id="page_top">
+
+      <div id="page_top_staatszegel" title="Accueil JUPORTAL">
+            <a href="https://juportal.be/home/accueil">
+                <img src="/JUPORTAinclude/icones/Staatszegel_hof_invers.png" width="44" height="44" alt="Accueil JUPORTAL">
+            </a>
+      </div>
+      <div id="page_top_titre">
+            JUPORTAL Base de données publique de la jurisprudence belge
+      </div>
+    </div>
+    <div id="page_main" x-ms-format-detection="none">
+    <!-- continue here with main block (division "content") -->
+    <div id="content1">
+
+    <form id="form_table" name="detail" action="/content/ECLI:BE:CASS:2025:CONC.20250528.2F.18/FR" method="post"> 
+
+    <input type="hidden" name="TOKEN" id="TOKEN" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1">        <!-- Commandes de navigation page détail--> 
+
+      <div class="DCZUDCZHZ5wkUyG7TKxuP98ZUG24bmfbCB1KKF56yFUqwMxjfv4" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DCZUDCZHSrk26q2nmfN7xQlfV5zjDw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Imprimer cette page sur votre imprimante" onclick="javascript:window.print();">
+                  Imprimer cette page          </button>
+          &nbsp; 
+
+          Taille d'impression          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Taille d'impression">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DCZUDCZH7Tp4nt77BjQqhfPvxBFw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Exécuter une nouvelle recherche JUPORTAL">
+                  Nouvelle recherche JUPORTAL          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DCZUDCZH7Tp4nt77BjQqhfPvxBFw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Fermer l'onglet détail" onclick="javascript:window.close();">
+                  Fermer l'onglet          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+ <div id="DCZUDCZHAttLv5fLes8w7YHwERO7mOhaFAA5k7PTE5KpjOIvfbs">
+        <img src="/JUPORTAinclude/icones/Staatszegel_hof_rood.png" width="20" height="20" alt="Cour de cassation">&nbsp; 
+Cour de cassation  </div>
+       <fieldset>
+            <legend title="">Conclusions du Ministère public du 28 mai 2025            </legend>
+       <table aria-describedby="Conclusions du Ministère public du 28 mai 2025">
+         <thead>
+          <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+            <th width="12%"></th>
+            <th width="88%"></th>
+          </tr>
+         </thead>
+
+         <tbody>
+
+          <tr>
+            <td><p class="DCZUDCZHLsj4yfedAH4vhIb05QNWrJZ9fjTJol7zZCUxIDVaF4">No ECLI:</p></td>
+            <td><p class="DCZUDCZHCQYkssm4MfpXNosAyqzPvjBdoYSIPpKymnQEQTRU">ECLI:BE:CASS:2025:CONC.20250528.2F.18</p>
+            </td>
+          </tr>
+            <tr>
+              <td><p class="DCZUDCZHLsj4yfedAH4vhIb05QNWrJZ9fjTJol7zZCUxIDVaF4">No Rôle:</p></td>
+              <td><p class="DCZUDCZHCQYkssm4MfpXNosAyqzPvjBdoYSIPpKymnQEQTRU">P.25.0777.F</p>
+              </td>
+            </tr>
+                          
+            <tr>
+              <td><p class="DCZUDCZHLsj4yfedAH4vhIb05QNWrJZ9fjTJol7zZCUxIDVaF4">Affaire:</p></td>
+              <td><p class="DCZUDCZHCQYkssm4MfpXNosAyqzPvjBdoYSIPpKymnQEQTRU">C.</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="DCZUDCZHLsj4yfedAH4vhIb05QNWrJZ9fjTJol7zZCUxIDVaF4">Chambre:</p></td>
+              <td><p class="DCZUDCZHCQYkssm4MfpXNosAyqzPvjBdoYSIPpKymnQEQTRU">2F - deuxième chambre
+      </p>
+    </td>
+   </tr>
+            <tr>
+              <td><p class="DCZUDCZHLsj4yfedAH4vhIb05QNWrJZ9fjTJol7zZCUxIDVaF4">Domaine juridique:</p></td>
+              <td><p class="DCZUDCZHCQYkssm4MfpXNosAyqzPvjBdoYSIPpKymnQEQTRU">
+ Droit pénal - Droit international privé - Droit international public - Droit européen - Droit constitutionnel - Autres</p></td></tr> 
+            <tr>
+              <td><p class="DCZUDCZHLsj4yfedAH4vhIb05QNWrJZ9fjTJol7zZCUxIDVaF4">Date d'introduction:</p></td>
+              <td><p class="DCZUDCZHCQYkssm4MfpXNosAyqzPvjBdoYSIPpKymnQEQTRU">2025-08-20</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="DCZUDCZHLsj4yfedAH4vhIb05QNWrJZ9fjTJol7zZCUxIDVaF4">Consultations:</p></td>
+              <td><p class="DCZUDCZHCQYkssm4MfpXNosAyqzPvjBdoYSIPpKymnQEQTRU">38 - dernière vue 2025-08-24 23:22</p>
+              </td>
+            </tr>
+                          
+          <tr>
+            <td><p class="DCZUDCZHLsj4yfedAH4vhIb05QNWrJZ9fjTJol7zZCUxIDVaF4">Jugement/arrêt:</p></td>
+            <td><p class="DCZUDCZHCQYkssm4MfpXNosAyqzPvjBdoYSIPpKymnQEQTRU"><a href="/content/ECLI:BE:CASS:2025:ARR.20250528.2F.18/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250528.2F.18" target="_new">ECLI:BE:CASS:2025:ARR.20250528.2F.18</a> </p></td>
+          </tr>
+         </tbody>
+        </table>
+      
+       </fieldset>
+       <fieldset id="DCZUDCZH6ZJqQbaZGS2ZJxrw5EWcQ-1">
+            <legend title="">Fiches 1 - 6            </legend>
+          <div class="DCZUDCZHSvR4mL0utrwrij70ccogtGOXqTTBczTAhzeLDbQQ">
+    <p> Dans un arrêt du 29 juillet 2024, numéro 202/24, la Cour de justice 
+        de l'Union européenne a jugé que si aucune disposition de l'Accord 
+        de commerce et de coopération du 30 décembre 2020 entre l'Union 
+        européenne et le Royaume-Uni, visé par l'article 13 de la loi du 
+        15 mars 1874, ne prévoit expressément que les États membres sont tenus 
+        de donner suite à un mandat d'arrêt émis par le Royaume-Uni sur 
+        le fondement dudit Accord, il résulte de la structure du titre VII de 
+        sa troisième partie, et notamment « des fonctions respectives de ses 
+        articles 600 à 604 », qu'un État membre ne peut refuser d'exécuter 
+        un tel mandat d'arrêt que pour des motifs procédant de l'Accord; 
+        d'où il suit que l'article 603 de l'Accord est directement 
+        applicable; or, sous réserve des notifications visées audit article 
+        603, le paragraphe 1er de cette disposition stipule que l'exécution 
+        d'un mandat d'arrêt ne peut pas être refusée au motif que 
+        la personne recherchée est un ressortissant de l'État d'exécution 
+        (1). (1) Voir les concl. « dit en substance » du MP ; voir C.J.U.E. 
+        (gr. ch.) 29 juillet 2024, C-202/24, Alchaster, <span style="color:#DD2B08;"><a href="https://curia.europa.eu/juris/liste.jsf?language=FR&amp;critereEcli=ECLI:EU:C:2024:649" title="InfoCuria - Jurisprudence ECLI:EU:C:2024:649" target="_new">ECLI:EU:C:2024:649</a></span>, et 
+        les concl. de l'avocat général SZPUNAR, <span style="color:#DD2B08;"><a href="https://curia.europa.eu/juris/liste.jsf?language=FR&amp;critereEcli=ECLI:EU:C:2024:559" title="InfoCuria - Jurisprudence ECLI:EU:C:2024:559" target="_new">ECLI:EU:C:2024:559</a></span> ; Cass. 
+        27 novembre 2024, RG <span>P.24.1526.F&nbsp;<a href="/content/ECLI:BE:CASS:2024:ARR.20241127.2F.27/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2024:ARR.20241127.2F.27" target="_new">ECLI:BE:CASS:2024:ARR.20241127.2F.27</a></span>, Pas. 2024, n° 814.
+    </p>
+          </div>
+      <table aria-describedby="Fiches 1 - 6">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">EXTRADITION
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 1 - 6">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">EXEQUATUR
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 1 - 6">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">ENTRAIDE JUDICIAIRE INTERNATIONALE
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 1 - 6">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">UNION EUROPEENNE - DIVERS
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 1 - 6">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">TRAITES ET ENGAGEMENTS INTERNATIONAUX
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 1 - 6">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">JURIDICTIONS D'INSTRUCTION
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DCZUDCZH6ZJqQbaZGS2ZJxrw5EWcQ-7">
+            <legend title="">Fiches 7 - 9            </legend>
+          <div class="DCZUDCZHSvR4mL0utrwrij70ccogtGOXqTTBczTAhzeLDbQQ">
+    <p> En vertu de l'article 167, § 2, de la Constitution, en règle, le 
+        Roi conclut les traités, lesquels n'ont d'effet qu'après 
+        avoir reçu l'assentiment de la Chambre des représentants; mais 
+        l'Accord de commerce et de coopération du 30 décembre 2020 entre 
+        l'Union européenne et le Royaume-Uni n'est pas un traité conclu 
+        par le Roi; il s'agit d'un accord d'association fondé 
+        sur l'article 217 du Traité sur le fonctionnement de l'Union 
+        européenne et les États membres n'en sont pas les parties contractantes.
+    </p>
+          </div>
+      <table aria-describedby="Fiches 7 - 9">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 167
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020<br>
+Traité du 25 mars 1957 sur le fonctionnement de l'Union européenne (TFUE) - 25-03-1957 - Art. 217 - 01 
+    <a href="https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&amp;la=F&amp;table_name=loi&amp;cn=1957032501" title="Lien DB Justel 19570325-01" target="_blank">Lien DB Justel 19570325-01</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 7 - 9">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">UNION EUROPEENNE - DIVERS
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020<br>
+Traité du 25 mars 1957 sur le fonctionnement de l'Union européenne (TFUE) - 25-03-1957 - Art. 217 - 01 
+    <a href="https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&amp;la=F&amp;table_name=loi&amp;cn=1957032501" title="Lien DB Justel 19570325-01" target="_blank">Lien DB Justel 19570325-01</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 7 - 9">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">TRAITES ET ENGAGEMENTS INTERNATIONAUX
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020<br>
+Traité du 25 mars 1957 sur le fonctionnement de l'Union européenne (TFUE) - 25-03-1957 - Art. 217 - 01 
+    <a href="https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&amp;la=F&amp;table_name=loi&amp;cn=1957032501" title="Lien DB Justel 19570325-01" target="_blank">Lien DB Justel 19570325-01</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DCZUDCZH6ZJqQbaZGS2ZJxrw5EWcQ-10">
+            <legend title="">Fiches 10 - 15            </legend>
+          <div class="DCZUDCZHSvR4mL0utrwrij70ccogtGOXqTTBczTAhzeLDbQQ">
+    <p> Le détenu en vue d'extradition vers le Royaume-Uni qui se pourvoit 
+        en cassation contre la décision d'exequatur du mandat d'arrêt 
+        international décerné par les autorités britanniques rendue par la 
+        chambre des mises en accusation peut valablement signer l'acte de 
+        pourvoi en personne au greffe de la prison (1) (Solution implicite). (1) 
+        « La loi du 15 mars 1874 sur les extraditions ne fait pas mention du 
+        pourvoi en cassation, lequel demeure, en cette matière, régi par le 
+        Code d'instruction criminelle. En effet, l'article 3 de la loi 
+        ne vise que, d'une part, la procédure d'exequatur par la chambre 
+        du conseil du mandat d'arrêt décerné par l'autorité étrangère 
+        compétente et, d'autre part, la manière de recueillir l'avis 
+        de la chambre des mises en accusation de la cour d'appel, à propos 
+        de l'extradition. Il s'ensuit que le pourvoi dirigé contre 
+        un arrêt de la chambre des mises en accusation, confirmant la décision 
+        d'exequatur rendue par la chambre du conseil, doit être formé par 
+        un avocat titulaire de l'attestation visée à l'article 425, 
+        § 1er, alinéa 2, du Code d'instruction criminelle ». (Cass. 28 
+        septembre 2016, RG <span>P.16.0938.F&nbsp;<a href="/content/ECLI:BE:CASS:2016:ARR.20160928.4/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2016:ARR.20160928.4" target="_new">ECLI:BE:CASS:2016:ARR.20160928.4</a></span>, Pas. 2016, n° 531; voir Cass. 7 juin 
+        2016, RG <span>P.16.0520.N&nbsp;<a href="/content/ECLI:BE:CASS:2016:ARR.20160607.5/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2016:ARR.20160607.5" target="_new">ECLI:BE:CASS:2016:ARR.20160607.5</a></span>, Pas. 2016, n° 382). Mais dans le cas des demandes 
+        d'extradition émanant du Royaume-Uni, l'article 13 de cette 
+        loi renvoie, en vue de régler la « procédure d'émission et d'exécution 
+        des demandes de remise », à la loi du 19 décembre 2003 relative au 
+        mandat d'arrêt européen, dont l'article 18 prévoit un régime 
+        spécial pour le pourvoi en cassation et, notamment, un délai nettement 
+        plus bref pour se pourvoir (cinq jours); dans ce cas, la Cour n'exige 
+        pas l'intervention d'un avocat attesté (voir Cass. 25 mars 
+        2015, RG <span>P.15.0393.F&nbsp;<a href="/content/ECLI:BE:CASS:2015:ARR.20150325.2/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2015:ARR.20150325.2" target="_new">ECLI:BE:CASS:2015:ARR.20150325.2</a></span>, Pas. 2015, n° 221, avec concl. de M. LOOP, avocat 
+        général). Dès lors, le pourvoi, faisant partie de la « procédure 
+        d'exécution de la demande de remise », puisqu'il permet le 
+        contrôle de la décision qui a statué sur cette demande, est bien recevable. 
+        (M.N.B.)
+    </p>
+          </div>
+      <table aria-describedby="Fiches 10 - 15">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">POURVOI EN CASSATION - MATIERE REPRESSIVE - Formes - Forme du pourvoi en cassation et indications
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a><br>
+L. du 19 décembre 2003 relative au mandat d'arrêt européen - 19-12-2003 - Art. 18 - 32 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2003/12/19/2003009950/justel" title="Lien ELI 2003009950" target="_blank">Lien ELI No pub 2003009950</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 10 - 15">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">EXTRADITION
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a><br>
+L. du 19 décembre 2003 relative au mandat d'arrêt européen - 19-12-2003 - Art. 18 - 32 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2003/12/19/2003009950/justel" title="Lien ELI 2003009950" target="_blank">Lien ELI No pub 2003009950</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 10 - 15">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">EXEQUATUR
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a><br>
+L. du 19 décembre 2003 relative au mandat d'arrêt européen - 19-12-2003 - Art. 18 - 32 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2003/12/19/2003009950/justel" title="Lien ELI 2003009950" target="_blank">Lien ELI No pub 2003009950</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 10 - 15">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">ENTRAIDE JUDICIAIRE INTERNATIONALE
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a><br>
+L. du 19 décembre 2003 relative au mandat d'arrêt européen - 19-12-2003 - Art. 18 - 32 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2003/12/19/2003009950/justel" title="Lien ELI 2003009950" target="_blank">Lien ELI No pub 2003009950</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 10 - 15">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">UNION EUROPEENNE - DIVERS
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a><br>
+L. du 19 décembre 2003 relative au mandat d'arrêt européen - 19-12-2003 - Art. 18 - 32 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2003/12/19/2003009950/justel" title="Lien ELI 2003009950" target="_blank">Lien ELI No pub 2003009950</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 10 - 15">
+       <thead>
+        <tr class="DCZUDCZHNDwWF88PVnbehcSkz68GNvJyPC4lN9BDaiq4ljXXGQ">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">TRAITES ET ENGAGEMENTS INTERNATIONAUX
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 5.1<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 596<br>
+Accord de commerce et de coopération entre l'Union européenne et la Communauté européenne de l'énergie atomique, d'une part, et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, d'autre part - 30-12-2020 - Art. 603<br>
+L. du 15 mars 1874 sur les extraditions - 15-03-1874 - Art. 13 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1874/03/15/1874031550/justel" title="Lien ELI 1874031550" target="_blank">Lien ELI No pub 1874031550</a><br>
+L. du 19 décembre 2003 relative au mandat d'arrêt européen - 19-12-2003 - Art. 18 - 32 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2003/12/19/2003009950/justel" title="Lien ELI 2003009950" target="_blank">Lien ELI No pub 2003009950</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DCZUDCZHuW2kPBVQNLaqMonjfbMpwA">
+            <legend title="Conclusions du Ministère public du 2025-05-28">Texte des conclusions            </legend>
+
+      <div id="DCZUDCZHSvR4mL0utrwrij70ccogtGOXqTTBczTAhzeLDbQQ">
+    <p>
+       P.25.0777.F<br>
+       Le premier avocat général, M. NOLET DE BRAUWERE, a dit en substance :<br>
+       Le pourvoi est dirigé contre un arrêt rendu le 14 mai 2025 par la cour d’appel de Liège, chambre des mises en accusation.<br>
+       ANTÉCÉDENTS DE LA PROCÉDURE :<br>
+       Il résulte de l’arrêt attaqué que les principales circonstances de la cause utiles à l’examen du pourvoi peuvent être résumées comme suit.<br>
+       Le demandeur, sujet belge, est visé par un mandat d’arrêt international émis le 28 janvier 2025 par les autorités britanniques.<br>
+       Il est arrêté en Belgique le 10 avril 2025.<br>
+       Le lendemain, il est placé sous mandat d’arrêt et refuse l’extradition.<br>
+       L’arrêt confirme l’ordonnance d’exequatur entreprise.<br>
+       QUANT AU MOYEN, PRIS DE LA VIOLATION DES ARTICLES 13 DE LA LOI DU 15 MARS 1874 SUR LES EXTRADITIONS ET 167, § 2, DE LA CONSTITUTION :<br>
+       L’arrêt confirme l’ordonnance d’exequatur du mandat d’arrêt international décerné par les autorités britanniques sur pied de l'Accord de commerce et de coopération du 30 décembre 2020 entre l’Union européenne et la Communauté européenne de l’énergie atomique, d’une part, et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’autre part [(1)] »(2).<br>
+       Il fonde cette décision sur l’article 13 de la loi du 15 mars 1874 sur les extraditions(3), qui dispose que « dans les relations avec le Royaume-Uni (…), la détermination des autorités compétentes et la procédure d'émission et d'exécution des demandes de remise sont régies par la loi du 19 décembre 2003 relative au mandat d'arrêt européen, sauf disposition contraire dans la Troisième Partie, Titre VII. Remise [(4)], [dudit Accord ] ».<br>
+       Le demandeur relève que la loi du 15 mars 1874 n’autorise pas les autorités belges à extrader des sujets belges, sauf les exceptions prévues par la loi, telle la loi du 19 décembre 2003 relative au mandat d'arrêt européen.<br>
+       Il soutient, en sa première branche, qu’une telle exception ne suit pas de l’article 13 de la loi du 15 mars 1874 et, en sa seconde branche, que l’Accord n’est pas directement applicable en Belgique.<br>
+       PREMIÈRE BRANCHE - VIOLATION DE L’ARTICLE 13 DE LA LOI DU 15 MARS 1874 SUR LES EXTRADITIONS:<br>
+       La première branche du moyen soutient que l’article 13 de la loi du 15 mars 1874 sur les extraditions ne permet pas de déroger aux autres dispositions de cette loi en ce que celle-ci ne prévoient que l’extradition des étrangers(5).<br>
+       Selon le demandeur, la limitation de l’extradition aux étrangers relève des « conditions [de fond] de l’exécution », régies par la 1ère section du chapitre III (articles 4 à 8) de la loi du 19 décembre 2003, et est étrangère à « la détermination des autorités compétentes et [à] la procédure d'émission et d'exécution des demandes de remise » visées par ledit article 13, lesquelles sont réglés par la section 2 de ce chapitre (articles 9 à 25), intitulée « procédure d'exécution ».<br>
+       Votre arrêt <span>P.24.1526.F</span> du 27 novembre 2024(6) porte certes sur l’extradition d’un étranger vers le Royaume-Uni et sur le placement en détention de cette personne, et non sur la procédure d’exequatur d’un mandat d’arrêt international délivré par les autorités britanniques en cause d’un sujet belge.<br>
+       Mais dans cette affaire, le juge d’instruction belge avait également été saisi sur la base de la loi du 19 décembre 2003 relative au mandat d’arrêt européen.<br>
+       Et cet arrêt relève notamment ce qui suit: « dans un arrêt du 29 juillet 2024, numéro 202/24 [(7)], la Cour de justice de l’Union européenne a jugé que si aucune disposition de [l’Accord] ne prévoit expressément que les États membres sont tenus de donner suite à un mandat d'arrêt émis par le Royaume-Uni sur le fondement de cet Accord, il résulte de la structure du titre VII de sa troisième partie, et notamment ‘‘des fonctions respectives de ses articles 600 à 604’’, qu’un État membre ne peut refuser d'exécuter un tel mandat d'arrêt que pour des motifs procédant de l'Accord ».<br>
+       Or, la circonstance que la personne dont l’extradition est requise est de nationalité belge ne figure pas parmi les motifs de non-exécution du mandat d'arrêt international procédant de l’Accord, dont l’article 603.1, qui figure sous le titre « Remise », dispose que « l'exécution d'un mandat d'arrêt ne peut être refusée au motif que la personne recherchée est un ressortissant de l'État d'exécution ».<br>
+       J’en déduis que le moyen manque en droit en sa première branche.<br>
+       SECONDE BRANCHE - VIOLATION DE L’ARTICLE 167, § 2, DE LA CONSTITUTION (L’ACCORD EST-IL DIRECTEMENT APPLICABLE ALORS QU’IL N’A PAS REÇU L'ASSENTIMENT DE LA CHAMBRE DES REPRÉSENTANTS ?):<br>
+       En sa seconde branche, le moyen reproche à l’arrêt de considérer que l’article 603.1, précité, de l’Accord est directement applicable en Belgique, alors que l’article 167, § 2, de la Constitution dispose que « [kles] traités n'ont d'effet qu'après avoir reçu l'assentiment de la Chambre des représentants », et que tel n’est pas le cas de l’Accord.<br>
+       Or, dans ses conclusions précédant l’arrêt précité de la Cour de Justice de l’Union européenne(8), l’avocat général SZPUNAR énonce notamment ce qui suit:<br>
+       « [l’Accord] est entré en vigueur le 1er mai 2021, à la suite de sa ratification par l’Union et par le Royaume-Uni. (…) Le titre VII de [sa] troisième partie, intitulé ‘‘Remise’’, qui comporte les articles 596 à 632, établit un régime de remise entre les États membres et le Royaume-Uni. (…) Il est un accord d’association fondé sur l’article 217 TFUE. Il a été adopté en tant qu’accord ‘‘relevant uniquement de l’Union’’, et non en tant qu’accord mixte, ce qui signifie que les États membres n’en sont pas les parties contractantes.<br>
+       (…)<br>
+       La question sans doute fondamentale pour ce qui est des dispositions de tout accord international est de savoir si elles (ou certaines d’entre elles) ont un effet direct, autrement dit si elles peuvent être invoquées par les particuliers devant les juridictions nationales de l’Union. La Cour résout habituellement cette question en examinant l’esprit, l’économie et les termes des dispositions de l’accord international en cause. En ce qui concerne les dispositions en matière de remise contenues au titre VII de la troisième partie de [l’Accord], cette question peut être résolue, à mon avis, en examinant l’article 5, paragraphe 1, de cet accord et en appliquant un raisonnement a contrario. Aux termes de cette disposition, à l’exception, en ce qui concerne l’Union, de la troisième partie de [l’Accord], aucune disposition de cet accord ou de tout accord complémentaire ne peut être interprétée comme conférant des droits ou imposant des obligations aux personnes d’une autre nature que ceux créés entre les parties en vertu du droit international public, ni comme permettant d’invoquer directement [l’Accord] ou tout accord complémentaire dans les systèmes juridiques internes des parties. Dès lors que la troisième partie de [l’Accord] est expressément exclue, il n’y a aucune raison de considérer que ses dispositions, si elles répondent aux critères habituels de l’effet direct, ne devraient pas être directement applicables dans l’ordre juridique de l’Union.<br>
+       (…)<br>
+       Les dispositions du titre VII de la troisième partie de l’ACC sont marquées par un degré de confiance élevé entre l’Union et le Royaume Uni en ce qui concerne l’engagement de respecter les droits fondamentaux. L’ensemble du texte est empreint de la confiance mutuelle que les droits fondamentaux auront été protégés, le sont encore et le seront pour l’avenir ».<br>
+       J’en déduis que l’article 603.1 de l’Accord est directement applicable en Belgique, sans que l'assentiment de la Chambre des représentants soit requis à cet effet, et que, partant, le moyen manque en droit.<br>
+       Je relève à cet égard que les travaux parlementaires relatifs à l’article 14 de la loi du 15 mars 1874, qui porte sur les relations avec la République d'Islande et le Royaume de Norvège réglées par l'accord établi à Vienne le 28 juin 2006, article libellé dans les mêmes termes, mutatis mutandis, que l’article 13, mentionnent l’ « application directe en droit belge » de cet accord, en particulier quant aux « conditions de fond et de forme pour l’émission et l’exécution des mandats d’arrêts ». Ils ajoutent que « le même raisonnement a été suivi lors de la mise en œuvre des dispositions sur les procédures de remise contenues dans l’accord de commerce et de coopération conclu entre l’Union européenne et le Royaume-Uni »(9).<br>
+       CONTRÔLE D’OFFICE:<br>
+       Pour le surplus, la décision me paraît conforme à la loi.<br>
+       CONCLUSION: rejet.<br>
+       _______________________________<br>
+       (1) J.O.U.E, 30 avril 2021, p. L. 149/10 e.s. [149/800].<br>
+       (2) Selon Cass. 27 novembre 2024, RG <span>P.24.1526.F</span>, Pas. 2024, n° 814 <span style="color:#DD2B08;"><a href="/content/ECLI:BE:CASS:2024:ARR.20241127.2F.27/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2024:ARR.20241127.2F.27" target="_new">ECLI:BE:CASS:2024:ARR.20241127.2F.27</a></span> ; « ACC » dans les conclusions de l’avocat général SZPUNAR, <span style="color:#DD2B08;"><a href="https://curia.europa.eu/juris/liste.jsf?language=FR&amp;critereEcli=ECLI:EU:C:2024:559" title="InfoCuria - Jurisprudence ECLI:EU:C:2024:559" target="_new">ECLI:EU:C:2024:559</a></span>, précédant C.J.U.E. (gr. ch.) 29 juillet 2024, C-202/24, Alchaster, <span style="color:#DD2B08;"><a href="https://curia.europa.eu/juris/liste.jsf?language=FR&amp;critereEcli=ECLI:EU:C:2024:649" title="InfoCuria - Jurisprudence ECLI:EU:C:2024:649" target="_new">ECLI:EU:C:2024:649</a></span>.<br>
+       (3) Inséré par l’art. 29 de la loi du 17 février 2021 portant des dispositions diverses en matière de justice, M.B. et vig. 24 février.<br>
+       (4) Articles 596 à 632 de l’Accord.<br>
+       (5) Cf. art. 1er, § 1er, etc. de la loi du 15 mars 1874 : « (…) tout étranger (…) ».<br>
+       (6) Cass. 27 novembre 2024, RG <span>P.24.1526.F</span>, Pas. 2024, n° 814, <span style="color:#DD2B08;"><a href="/content/ECLI:BE:CASS:2024:ARR.20241127.2F.27/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2024:ARR.20241127.2F.27" target="_new">ECLI:BE:CASS:2024:ARR.20241127.2F.27</a></span>.<br>
+       (7) C.J.U.E. (gr. ch.) 29 juillet 2024, C-202/24, Alchaster, <span style="color:#DD2B08;"><a href="https://curia.europa.eu/juris/liste.jsf?language=FR&amp;critereEcli=ECLI:EU:C:2024:649" title="InfoCuria - Jurisprudence ECLI:EU:C:2024:649" target="_new">ECLI:EU:C:2024:649</a></span>.<br>
+       (8) Conclusions de l’avocat général SZPUNAR <span style="color:#DD2B08;"><a href="https://curia.europa.eu/juris/liste.jsf?language=FR&amp;critereEcli=ECLI:EU:C:2024:559" title="InfoCuria - Jurisprudence ECLI:EU:C:2024:559" target="_new">ECLI:EU:C:2024:559</a></span>, précédant l’arrêt précité de la CJUE n° 202/24, §§ 4, 8, 55, 56 et 70.<br>
+       (9) Exposé des motifs du projet de loi visant à rendre la justice plus humaine, plus rapide et plus ferme, Doc. parl., Ch., n° 55 2175/001, pp. 11-12. Il y est toutefois relevé que ces deux pays « participent au Système d’Information Schengen, qui est le canal privilégié de diffusion du mandat d’arrêt européen ».
+    </p>
+      </div>
+       <p><a href="/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250528.2F.18_FR.pdf?Version=1755691415" title="PDF document, version 1.7, 4 pages ECLI:BE:CASS:2025:CONC.20250528.2F.18 FR " target="_blank">Document PDF ECLI:BE:CASS:2025:CONC.20250528.2F.18</a>
+       </p>
+       </fieldset>
+       <fieldset>
+            <legend title="">Publication(s) liée(s)            </legend>  
+    <div class="show-lien"><div class="DCZUDCZH6gscyaQVM42QTEBD77o3Nw"><p>Jugement/arrêt:</p></div>
+      <div class="DCZUDCZHCQYkssm4MfpXNosAyqzPjlUIAzRoNZRPzFTnZtO7c">
+        <p><a href="/content/ECLI:BE:CASS:2025:ARR.20250528.2F.18/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250528.2F.18" target="_self">ECLI:BE:CASS:2025:ARR.20250528.2F.18</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DCZUDCZH6gscyaQVM42QTEBD77o3Nw"><p>citant:</p></div>
+      <div class="DCZUDCZHCQYkssm4MfpXNosAyqzPjlUIAzRoNZRPzFTnZtO7c">
+        <p><a href="/content/ECLI:BE:CASS:2024:ARR.20241127.2F.27/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2024:ARR.20241127.2F.27" target="_self">ECLI:BE:CASS:2024:ARR.20241127.2F.27</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DCZUDCZH6gscyaQVM42QTEBD77o3Nw"><p>&nbsp;</p></div>
+
+      <div class="DCZUDCZHCQYkssm4MfpXNosAyqzPjlUIAzRoNZRPzFTnZtO7c">
+        <p><a href="https://curia.europa.eu/juris/liste.jsf?language=&amp;critereEcli=ECLI:EU:C:2024:559" title="InfoCuria - Jurisprudence ECLI:EU:C:2024:559" target="_new">ECLI:EU:C:2024:559</a>        </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DCZUDCZH6gscyaQVM42QTEBD77o3Nw"><p>&nbsp;</p></div>
+
+      <div class="DCZUDCZHCQYkssm4MfpXNosAyqzPjlUIAzRoNZRPzFTnZtO7c">
+        <p><a href="https://curia.europa.eu/juris/liste.jsf?language=&amp;critereEcli=ECLI:EU:C:2024:649" title="InfoCuria - Jurisprudence ECLI:EU:C:2024:649" target="_new">ECLI:EU:C:2024:649</a>        </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DCZUDCZH6gscyaQVM42QTEBD77o3Nw"><p>précédents:</p></div>
+      <div class="DCZUDCZHCQYkssm4MfpXNosAyqzPjlUIAzRoNZRPzFTnZtO7c">
+        <p><a href="/content/ECLI:BE:CASS:2015:ARR.20150325.2/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2015:ARR.20150325.2" target="_self">ECLI:BE:CASS:2015:ARR.20150325.2</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DCZUDCZH6gscyaQVM42QTEBD77o3Nw"><p>&nbsp;</p></div>
+      <div class="DCZUDCZHCQYkssm4MfpXNosAyqzPjlUIAzRoNZRPzFTnZtO7c">
+        <p><a href="/content/ECLI:BE:CASS:2016:ARR.20160607.5/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2016:ARR.20160607.5" target="_self">ECLI:BE:CASS:2016:ARR.20160607.5</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DCZUDCZH6gscyaQVM42QTEBD77o3Nw"><p>&nbsp;</p></div>
+      <div class="DCZUDCZHCQYkssm4MfpXNosAyqzPjlUIAzRoNZRPzFTnZtO7c">
+        <p><a href="/content/ECLI:BE:CASS:2016:ARR.20160928.4/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2016:ARR.20160928.4" target="_self">ECLI:BE:CASS:2016:ARR.20160928.4</a>         </p>
+      </div>
+    </div>
+       </fieldset>
+        <!-- Commandes de navigation page détail--> 
+
+      <div class="DCZUDCZHZ5wkUyG7TKxuP98ZUG24bmfbCB1KKF56yFUqwMxjfv4" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DCZUDCZHSrk26q2nmfN7xQlfV5zjDw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Imprimer cette page sur votre imprimante" onclick="javascript:window.print();">
+                  Imprimer cette page          </button>
+          &nbsp; 
+
+          Taille d'impression          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Taille d'impression">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DCZUDCZH7Tp4nt77BjQqhfPvxBFw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Exécuter une nouvelle recherche JUPORTAL">
+                  Nouvelle recherche JUPORTAL          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DCZUDCZH7Tp4nt77BjQqhfPvxBFw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Fermer l'onglet détail" onclick="javascript:window.close();">
+                  Fermer l'onglet          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+    </form>
+    </div>
+<!-- Action LOG 
+function JUPORTARecordLogViewDecision  $iubel_id        : 284418
+                                       $action_type     : VIEW
+                                      &$action_startmt  : 1756085103.0947
+                                      &$action_duration : 140
+                                      &$addressipremote : 98.109.187.131
+                                      &$latitude        : '40.9238000'
+                                      &$longitude       : '-73.9989000'
+                                      &$accuracy        : null
+                                      &$altitude        : null
+                                      &$langue_view     : FR
+-->
+<!-- Action_duration 140 millisec --> 
+      <!-- end of main block (division "content") -->
+
+    </div>
+    <!-- end of division "page_main" -->
+    <div id="page_footer">
+        <div id="page_footer_contact" title="Pour toute demande d'information ou suggestion à l'équipe de développement, veuillez nous contacter" rel="balloon_contact">
+              ✉ <a href="mailto:info-JUPORTAL@just.fgov.be">info-JUPORTAL@just.fgov.be</a>
+        </div>
+        <div id="page_footer_copyright" title="Copyright ©&nbsp; 2017-2025&nbsp;Service ICT - SPF Justice - tous droits réservés" rel="balloon_copyright">
+              ©&nbsp; 2017-2025&nbsp;Service ICT - SPF Justice
+        </div>
+
+    </div>
+
+  </div>
+  <!-- end of division "conteneur" -->
+
+  <!-- Balloon system info -->
+  <div id="balloon_system_info" class="balloonstyle" style="height: 128px; width: 400px">
+      <p>
+          Powered by PHP 8.4.7
+      </p>
+      <p>
+          Server Software Apache/2.4.62
+      </p>
+      <p>
+          == Fluctuat nec mergitur ==
+      </p>
+  </div>
+  <!-- Balloon system info -->
+          <!-- BalloonObjectPrepa Start -->
+          <!-- BalloonObjectPrepa End -->
+
+
+</body></html>

@@ -14,7 +14,7 @@ import sys
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from src.transform_with_dedup import TwoPhaseTransformerWithDedup
+from src.transformer import TwoPhaseTransformerWithDedup
 
 
 class TestDeduplication:

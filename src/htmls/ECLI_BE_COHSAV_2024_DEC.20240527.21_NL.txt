@@ -1,0 +1,346 @@
+<html lang="nl"><head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, proxy-revalidate, no-transform">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="shortcut icon" href="/JUPORTAinclude/icones/justice.ico" type="image/ico">
+  <!-- ==============================================================================
+        JUPORTA project: - Openbare databank voor Belgische rechtspraak
+                         - JUPORTA zoekmachine
+                         - Web indexing voor de ECLI zoekmachine
+        
+        Database - Web - CSS ontwerp en ontwikkeling: mny - ICT dienst - FOD Justitie
+        
+        Copyright (c) 2017-2025 FOD Justitie - alle rechten voorbehouden.        
+        Elke reproductie, zelfs gedeeltelijk, is verboden.
+       ==============================================================================
+         § Labor omnia vincit improbus §
+  -->       
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/fonts/selawik/font-face.css">
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_css.php">
+  <link rel="stylesheet" media="print" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_print_M_css.php">
+  <script type="text/javascript" src="/JUPORTAinclude/script/balloontip.js"></script>
+  <title>ECLI:BE:COHSAV:2024:DEC.20240527.21</title>
+  <meta name="keywords" content=" 06 Strafrecht
+                  STRAFRECHT - BIJZONDERE STRAFWETTEN - Slachtoffergeweld
+                  Verzoekschrift, neergelegd op het secretariaat van de Commissie op 27 
+                  juli 2022 waarbij verzoeker, om de toekenning heeft gevraagd van een financiële 
+                  hulp voor schade als gevolg van een opzettelijke gewelddaad.
+                  Wet - 01-08-1985 - 32,§3 - 30
+                  &lt;!-- MOTS_CLEF STRAFRECHT - BIJZONDERE STRAFWETTEN - Slachtoffergeweld--&gt; 
+                 ">
+
+  <meta name="author" content=" Commissie voor financiële hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders 
+                ">
+          <!-- BalloonArrayDefine -->
+</head>
+<body>
+  <div id="page_left">
+  </div>
+  <div id="page_right">
+  </div>
+  <div id="conteneur" onscroll="Javascript: ScrollWindow(this.scrollTop);">
+    <div id="page_top">
+
+      <div id="page_top_staatszegel" title="JUPORTAL-Ontvangst">
+            <a href="https://juportal.be/home/welkom">
+                <img src="/JUPORTAinclude/icones/Staatszegel_hof_invers.png" width="44" height="44" alt="JUPORTAL-Ontvangst">
+            </a>
+      </div>
+      <div id="page_top_titre">
+            JUPORTAL Openbare databank voor Belgische rechtspraak
+      </div>
+    </div>
+    <div id="page_main" x-ms-format-detection="none">
+    <!-- continue here with main block (division "content") -->
+    <div id="content1">
+
+    <form id="form_table" name="detail" action="/content/ECLI:BE:COHSAV:2024:DEC.20240527.21/NL" method="post"> 
+
+    <input type="hidden" name="TOKEN" id="TOKEN" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1">        <!-- Commandes de navigation page détail--> 
+
+      <div class="ZFZUDCZHZ5wkUyG7TKxuP98ZUG24bvn5fYEL6F0XW4Y3cwqwVB4" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="ZFZUDCZHi1QtynvMcBevdIUcNIrgpA" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="ZFZUDCZHe0nMeiIupua3mvrOm06rA" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="ZFZUDCZHe0nMeiIupua3mvrOm06rA" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+ <div id="ZFZUDCZHkgT6w1luJHVfrmP7skLYGSswkFWHv2su3BqdgAIrgIM">
+        <img src="/JUPORTAinclude/icones/justice.ico" width="20" height="20" alt="Commissie voor financiële hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders">&nbsp; 
+Commissie voor financiële hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders  </div>
+       <fieldset>
+            <legend title="">Rechterlijke beslissing van 27 mei 2024            </legend>
+       <table aria-describedby="Rechterlijke beslissing van 27 mei 2024">
+         <thead>
+          <tr class="ZFZUDCZHNDwWF88PVnbehcSkz68GNc88MMKk1N5oQGNXODckKY">
+            <th width="12%"></th>
+            <th width="88%"></th>
+          </tr>
+         </thead>
+
+         <tbody>
+
+          <tr>
+            <td><p class="ZFZUDCZHLsj4yfedAH4vhIb05QNWvHAG8XwfpE8kCmfsINQ4k">ECLI nr:</p></td>
+            <td><p class="ZFZUDCZHCQYkssm4MfpXNosAyqzPts3J0OIPMQazIPaCLTBV8E">ECLI:BE:COHSAV:2024:DEC.20240527.21</p>
+            </td>
+          </tr>
+            <tr>
+              <td><p class="ZFZUDCZHLsj4yfedAH4vhIb05QNWvHAG8XwfpE8kCmfsINQ4k">Rolnummer:</p></td>
+              <td><p class="ZFZUDCZHCQYkssm4MfpXNosAyqzPts3J0OIPMQazIPaCLTBV8E">M22-3-0732</p>
+              </td>
+            </tr>
+                          
+            <tr>
+              <td><p class="ZFZUDCZHLsj4yfedAH4vhIb05QNWvHAG8XwfpE8kCmfsINQ4k">Rechtsgebied:</p></td>
+              <td><p class="ZFZUDCZHCQYkssm4MfpXNosAyqzPts3J0OIPMQazIPaCLTBV8E">
+ Strafrecht</p></td></tr> 
+            <tr>
+              <td><p class="ZFZUDCZHLsj4yfedAH4vhIb05QNWvHAG8XwfpE8kCmfsINQ4k">Invoerdatum:</p></td>
+              <td><p class="ZFZUDCZHCQYkssm4MfpXNosAyqzPts3J0OIPMQazIPaCLTBV8E">2025-08-22</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="ZFZUDCZHLsj4yfedAH4vhIb05QNWvHAG8XwfpE8kCmfsINQ4k">Raadplegingen:</p></td>
+              <td><p class="ZFZUDCZHCQYkssm4MfpXNosAyqzPts3J0OIPMQazIPaCLTBV8E">15 - laatst gezien 2025-08-25 03:08</p>
+              </td>
+            </tr>
+                          
+         </tbody>
+        </table>
+      
+       </fieldset>
+       <fieldset id="ZFZUDCZHFaUewvs8pBhMbUTElB4TTA-1">
+            <legend title="">Fiche            </legend>
+          <div class="ZFZUDCZH1eT9xOxiqmHy9Tw7xIgwHb1lpYHsYDnAlOocB0p6VOA">
+    <p> De Commissie, Verklaart het verzoek ontvankelijk en kent verzoeker een 
+        hulp toe van € 2.500.
+    </p>
+          </div>
+      <table aria-describedby="Fiche">
+       <thead>
+        <tr class="ZFZUDCZHNDwWF88PVnbehcSkz68GNc88MMKk1N5oQGNXODckKY">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">UTU-thesaurus:</p></td>
+          <td>
+            <p class="description-notice-table">STRAFRECHT - BIJZONDERE STRAFWETTEN - Slachtoffergeweld
+ </p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Vrije woorden:</p></td>
+          <td>
+            <p class="description-notice-table"> 
+Verzoekschrift, neergelegd op het secretariaat van de Commissie op 27 
+         juli 2022 waarbij verzoeker, om de toekenning heeft gevraagd van een financiële 
+         hulp voor schade als gevolg van een opzettelijke gewelddaad.
+            
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Wettelijke bepalingen:</p></td>
+          <td>
+            <p class="description-notice-table">Wet - 01-08-1985 - 32,§3 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/wet/1985/08/01/1985021108/justel" title="ELI link 1985021108" target="_blank">ELI link Pub nr 1985021108</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="ZFZUDCZHMFneWWFIavgzkj9WKFdlEg">
+            <legend title="Rechterlijke beslissing van 2024-05-27">Tekst van de beslissing            </legend>
+
+      <div id="ZFZUDCZH1eT9xOxiqmHy9Tw7xIgwHb1lpYHsYDnAlOocB0p6VOA">
+    <p>
+       De Commissie nam kennis van:<br>
+       - het verzoekschrift, neergelegd op het secretariaat van de Commissie op 27 juli 2022 waarbij verzoeker, om de toekenning heeft gevraagd van een financiële hulp voor schade als gevolg van een opzettelijke gewelddaad;<br>
+       - de uitgevoerde onderzoeksinstructies;<br>
+       - het verslag opgemaakt door de verslaggever op 22 november 2023 overeenkomstig de artikelen 11 en 12 van het K.B. van 18 december 1986;<br>
+       - de betekening van het verslag aan de Minister van Justitie die op 24 november 2023 meedeelde geen advies te zullen verstrekken;<br>
+       - de betekening van het verslag aan verzoeker op 25 maart 2024 waarop deze niet reageerde;<br>
+       De Commissie hoorde op haar openbare zitting van 26 april 2024 de verslaggever in het verslag over de feitelijke toedracht van de zaak en over de middelen van de partijen.<br>
+       Aangezien verzoeker niet wenste te worden gehoord, werd hij niet uitgenodigd.<br>
+       De Minister van Justitie is evenmin verschenen noch iemand voor hem.<br>
+       I. Feiten<br>
+       Feiten omschreven in het vonnis d.d. 1 maart 2022 van de rechtbank van eerste aanleg ... correctionele zaken (p. 3-4):<br>
+       “De feiten die aan de grondslag liggen van deze tenlasteleggingen, hebben zich voorgedaan op 20        januari 2021 in de woning van Maggy X. gelegen te …, … 251.<br>
+       Maggy X. was op het ogenblik van de feiten 73 jaar oud en woonde alleen. Beklaagde woonde met haar partner in de naastgelegen woning te ..., …. 253, zodat Maggy X. haar buurvrouw was. Tot op de dag van de feiten had beklaagde een goede verstandhouding met Maggy X. en kwam ze regelmatig bij haar op bezoek.<br>
+       Op 20 januari 2021 tussen 14:00 uur en 15:00 uur verschafte beklaagde zich toegang tot de woning van Maggy X.. Ze belde en opende vervolgens de voordeur met de sleutel die zij van Maggy X. gekregen had.<br>
+       Binnen in de woning riep beklaagde dat zij het was, waarop Maggy X. aangaf dat ze in de keuken was.<br>
+       Bij aankomst in de keuken zei beklaagde dat ze een verrassing voor Maggy X. had. Hierop draaide Maggy X. zich om en zag ze dat beklaagde een mes omhoog hield. Beklaagde begon onmiddellijk op Maggy X. te hakken, waarbij ze het mes telkens van boven naar beneden bewoog. Volgens Maggy X. stonden de ogen van beklaagde op dat moment “woest” en riep ze verschillende keren dat iedereen tegen haar was.<br>
+       Maggy X. trachtte de messteken af te weren met haar handen en gooide op een bepaald moment ook een kussen en een kaars naar beklaagde.<br>
+       Ten slotte vroeg beklaagde aan Maggy X. om haar geld te geven. Maggy X. zei dat haar portemonnee in een lade in de eetkamer lag. Hierop begaf beklaagde zich naar de eetkamer, nam een briefje van 10 euro uit de portemonnee en legde deze terug.<br>
+       Daarna verliet beklaagde de woning van Maggy X.. Voor ze wegging, reikte beklaagde aan Maggy X. nog haar pantoffels aan op uitdrukkelijke vraag van deze laatste.<br>
+       Maggy X. kon op eigen houtje de hulpdiensten verwittigen. Ze hield aan de feiten zware verwondingen over aan haar handen, onderarmen en hoofd”.<br>
+       - Verzoeker is de zoon van het rechtstreeks slachtoffer Maggy X.<br>
+       II. Vervolging<br>
+       II-1. Bij vonnis d.d. 1 maart 2022 van de rechtbank van eerste aanleg te ... correctionele zaken werden de volgende tenlasteleggingen bewezen geacht in hoofde van de genaamde Z. Isabelle (°1978 ), waarvoor deze voor de bewezen tenlasteleggingen A en B vermengd veroordeeld werd tot een gevangenisstraf van 10 jaar:<br>
+       “Te ... op 20 januari 2021<br>
+       A. poging moord Gepoogd te hebben de hierna vermelde misdaad te plegen, waarbij het voornemen om een misdaad te plegen zich heeft geopenbaard door uitwendige daden die een begin van uitvoering van die misdaad uitmaakten en alleen ten gevolge van omstandigheden, van de wil van de dader onafhankelijk, zijn gestaakt of hun uitwerking hebben gemist (art. 51 en 52 lid 2 Sw)<br>
+       Moord, zijnde opzettelijk doden met het oogmerk om te doden en met voorbedachten rade, gepleegd te hebben, (art. 392, 393 en 394 Sw)”<br>
+       B. diefstal met geweld of bedreiging met verzwarende omstandigheden Een zaak die hem niet toebehoorde, bedrieglijk weggenomen te hebben door middel van geweld of bedreiging, (art. 461 lid 1, 468 en 483 sw)<br>
+       Met de omstandigheid dat wapens of op wapens gelijkende voorwerpen werden gebruikt of getoond, of dat de betrokkene heeft doen geloven dat hij gewapend was, (art. 472 lid 1 en 3, en 482 Sw)<br>
+       Met de omstandigheid dat het geweld of de bedreiging een ongeschiktheid tot het verrichten van persoonlijke arbeid van meer dan vier maanden ten gevolge heeft gehad,<br>
+       Ten nadele van Maggy X., geboren te ... op ../../1947, een bedrag van 10 EUR”<br>
+       Op burgerlijk gebied werd Z. Isabelle bij zelfde vonnis veroordeeld tot betaling aan verzoeker de schadevergoeding van € 7.324,48 meer de intresten en een rechtsplegingsvergoeding van € 650.<br>
+       SAMENGEVAT:<br>
+       - administratiekosten € 250,00<br>
+       - verplaatsingskosten € 1.000,00<br>
+       - tijdelijke huishoudelijke ongeschiktheid nihil<br>
+       - tijdelijke persoonlijke ongeschiktheid nihil<br>
+       - morele schade (m.i.v. genegenheidsschade) € 2.500,00<br>
+       - loonverlies € 3.574,48<br>
+       TOTAAL € 7.324,48<br>
+       III. Gevolgen van de feiten en genegenheidsband<br>
+       Info in vonnis d.d. 1 maart 2022 (p. 11):<br>
+       “Stéphane Y. betreft de 54-jariige zoon van Maggy X., met wie zij een heel goede band heeft.<br>
+       Stéphane Y. kwam bij toeval aan op de plaats van de feiten terwijl de medische interventie van 20 januari 2021 nog volop aan de gang was. Hij zag hoe zijn moeder ernstig toegetakeld was en met een ambulance diende te worden afgevoerd.<br>
+       Het is aannemelijk dat Stéphane Y. strek aangedaan was door de feiten, die hij van dichtbij heeft meegemaakt en ervaren.<br>
+       Daarnaast is Stéphane Y. psychiatrisch verpleegkundige van beroep. Op de zitting legde Stéphane Y. uit dat hij in het kader van zijn beroepsuitoefening dagelijks omgang heeft met personen met een borderline persoonlijkheidsstoornis, die vaak ook gewelddadige feiten hebben gepleegd.<br>
+       De feiten hebben daardoor ook een aanzienlijke impact op zijn beroepsleven. Stéphane Y. was dermate onder de indruk van de feiten dat hij meer dan drie maanden lang volledig arbeidsongeschikt was”.<br>
+       IV. Mogelijkheden tot schadeloosstelling<br>
+       IV-1. Verzoeker heeft een rechtsbijstandverzekering afgesloten bij ETHIAS. In het verzoekschrift verklaart hij dat “deze enkel tussen kwamen voor kosten en ereloon advocaat tijdens de gerechtelijke procedure, niet in kader van het vooronderzoek noch voor andere gelegenheden (zoals deze aanvraag). Ik heb geen euro ontvangen”.<br>
+       IV-2. Zie verbandhoudend dossier van het rechtstreekse slachtoffer X. Maggy (M22-3-0733) waar een attest van oninvorderbaarheid lastens Z. Isabelle werd neergelegd.<br>
+       V. Begroting van de gevraagde hulp<br>
+       Verzoeker vraagt om de toekenning van een hulp van € 24.039,48 (gevraagd) of € 7.324,48 zoals bij vonnis uitgesproken (zie vonnis).<br>
+       Het gevraagde bedrag is als volgt samengesteld:<br>
+       - administratiekosten € 250,00<br>
+       - verplaatsingskosten € 1.750,00<br>
+       - tijdelijke huishoudelijke ongeschiktheid € 693,00<br>
+       - tijdelijke persoonlijke ongeschiktheid € 2.772,00<br>
+       - genegenheidsschade € 5.000,00<br>
+       - morele schade € 10.000,00<br>
+       - loonverlies € 3.574,48<br>
+       TOTAAL € 24.039,48<br>
+       Voor de samenstelling van het toegekende bedrag van € 7.324,48 bij vonnis d.d. 1 maart 2022 – zie hierboven p. 2<br>
+       VI. Beoordeling door de Commissie<br>
+       Het verzoekschrift aan de Commissie is regelmatig naar de vorm en het werd tijdig neergelegd.<br>
+       De wetgeving betreffende de hulp aan slachtoffers van opzettelijke gewelddaden verleent aan de slachtoffers geen subjectief recht op "schadeloosstelling", maar wel op het eventueel bekomen van een "hulp", gesteund op het principe van de collectieve solidariteit. Uit de aard zelf van de hulp volgt dat de "volledige vergoeding" van het door de slachtoffers geleden nadeel niet wordt gewaarborgd.<br>
+       Bij het beoordelen van een hulp dienen de voorschriften van de artikelen 31, 31bis, 32, 33 en 33bis van de wet van 1 augustus 1985 nageleefd te worden.<br>
+       Artikel 32, § 3 Voor de toekenning van een hulp aan de personen als bedoeld in artikel 31, 3° en 4°<br>
+       [ “3° erfgerechtigden, in de zin van artikel 731 van het Burgerlijk Wetboek, tot en met de tweede graad van een niet overleden slachtoffer dat voldoet aan de voorwaarden van artikel 31,1° alsook aanverwanten tot en met dezelfde graad of personen die in duurzaam gezinsverband samenleefden met dit slachtoffer”] steunt de commissie uitsluitend op de volgende bestanddelen van de geleden schade:<br>
+       1° de morele schade;<br>
+       2° de medische kosten en de ziekenhuiskosten;<br>
+       3° de procedurekosten met inbegrip van de rechtsplegingsvergoeding;<br>
+       4° de uitzonderlijke schade ten gevolge van het langdurig in het ongewisse blijven omtrent de identiteit en de motieven van de dader of de daders.<br>
+       De schadeposten ‘administratie- en verplaatsingskosten’, ‘tijdelijke huishoudelijke en persoonlijke ongeschiktheid’, ‘genegenheidsschade’ en ‘loonverlies’ komen niet voor in deze limitatieve opsomming gelet op artikel 32 § 3 van de wet van 1 augustus 1985.<br>
+       Rekening houdende enerzijds met de feiten en anderzijds met de door de wet uitgesloten schadeposten, meent de Commissie aan verzoeker in billijkheid een hulp voor ‘morele schade’ te kunnen toekennen begroot op € 2.500.<br>
+       OP DIE GRONDEN,<br>
+       De Commissie,<br>
+       Gelet op:<br>
+       - de artikelen 17 § 1, 39 tot 42 van de gecoördineerde wetten van 18 juli 1966 tot regeling van het taalgebruik in bestuurszaken;<br>
+       - de artikelen 28 tot 41 van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen, laatst gewijzigd bij de wet van 18 januari 2024;<br>
+       - het koninklijk besluit van 18 december 1986 betreffende de commissie voor financiële hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders, laatst gewijzigd bij koninklijk besluit van 17 mei 2019.<br>
+       Verklaart het verzoek ontvankelijk en kent verzoeker een hulp toe van € 2.500.<br>
+       Aldus uitgesproken te Brussel, in openbare zitting en in de Nederlandse taal op 27 mei 2024.<br>
+       De secretaris, De voorzitter,<br>
+       C. VANHOVE B. VAN DAMME
+    </p>
+      </div>
+       <p><a href="/JUPORTAwork/ECLI:BE:COHSAV:2024:DEC.20240527.21_NL.pdf?Version=1755878115" title="PDF document, version 1.7, 5 pages ECLI:BE:COHSAV:2024:DEC.20240527.21 NL " target="_blank">PDF document ECLI:BE:COHSAV:2024:DEC.20240527.21</a>
+       </p>
+       </fieldset>
+        <!-- Commandes de navigation page détail--> 
+
+      <div class="ZFZUDCZHZ5wkUyG7TKxuP98ZUG24bvn5fYEL6F0XW4Y3cwqwVB4" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="ZFZUDCZHi1QtynvMcBevdIUcNIrgpA" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="ZFZUDCZHe0nMeiIupua3mvrOm06rA" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="ZFZUDCZHe0nMeiIupua3mvrOm06rA" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+    </form>
+    </div>
+<!-- Action LOG 
+function JUPORTARecordLogViewDecision  $iubel_id        : 284433
+                                       $action_type     : VIEW
+                                      &$action_startmt  : 1756084143.9843
+                                      &$action_duration : 40
+                                      &$addressipremote : 98.109.187.131
+                                      &$latitude        : '40.9238000'
+                                      &$longitude       : '-73.9989000'
+                                      &$accuracy        : null
+                                      &$altitude        : null
+                                      &$langue_view     : NL
+-->
+<!-- Action_duration 40 millisec --> 
+      <!-- end of main block (division "content") -->
+
+    </div>
+    <!-- end of division "page_main" -->
+    <div id="page_footer">
+        <div id="page_footer_contact" title="Voor informatie of suggesties voor het ontwikkelingsteam kunt u contact met ons opnemen" rel="balloon_contact">
+              ✉ <a href="mailto:info-JUPORTAL@just.fgov.be">info-JUPORTAL@just.fgov.be</a>
+        </div>
+        <div id="page_footer_copyright" title="Copyright ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie - Alle rechten voorbehouden" rel="balloon_copyright">
+              ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie
+        </div>
+
+    </div>
+
+  </div>
+  <!-- end of division "conteneur" -->
+
+  <!-- Balloon system info -->
+  <div id="balloon_system_info" class="balloonstyle" style="height: 128px; width: 400px">
+      <p>
+          Powered by PHP 8.4.7
+      </p>
+      <p>
+          Server Software Apache/2.4.62
+      </p>
+      <p>
+          == Fluctuat nec mergitur ==
+      </p>
+  </div>
+  <!-- Balloon system info -->
+          <!-- BalloonObjectPrepa Start -->
+          <!-- BalloonObjectPrepa End -->
+
+
+</body></html>

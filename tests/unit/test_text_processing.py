@@ -19,7 +19,7 @@ from juportal_utils.utils import (
     extract_pdf_url,
     remove_pdf_suffix
 )
-from src.transform_with_dedup import EnhancedJuportalTransformer
+from src.transformer import EnhancedJuportalTransformer
 
 
 class TestTextCleaning:

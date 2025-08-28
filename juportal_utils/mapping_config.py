@@ -10,8 +10,22 @@ from typing import Dict, List, Optional, Tuple
 class FieldMapper:
     """Handles language-specific field mappings for Juportal documents."""
     
-    def __init__(self, csv_path: str = "Sheet1.csv"):
+    def __init__(self, csv_path: str = None):
         """Initialize mapper with CSV file containing field mappings."""
+        # Try to find the CSV file in various locations
+        if csv_path is None:
+            from pathlib import Path
+            possible_paths = [
+                Path(__file__).parent.parent / "schemas" / "Sheet1.csv",
+                Path(__file__).parent.parent / "Sheet1.csv",
+                Path("schemas") / "Sheet1.csv",
+                Path("Sheet1.csv")
+            ]
+            for path in possible_paths:
+                if path.exists():
+                    csv_path = str(path)
+                    break
+        
         self.mappings = self._load_mappings(csv_path)
         self.legend_patterns = self._compile_legend_patterns()
         
@@ -168,6 +182,10 @@ class FieldMapper:
             'ecli': {
                 'legends': ['No ECLI:', 'ECLI nr:', 'ECLI-Nummer:'],
                 'patterns': [re.compile(p, re.IGNORECASE) for p in ['No ECLI:?', 'ECLI nr:?', 'ECLI-Nummer:?']]
+            },
+            'ecliAlias': {
+                'legends': ['Remplace le Numéro:', 'Remplace le numéro:', 'Vervangt nummer:', 'Ersetzt alte Nummer:'],
+                'patterns': [re.compile(p, re.IGNORECASE) for p in ['Remplace le Numéro:?', 'Remplace le numéro:?', 'Vervangt nummer:?', 'Ersetzt alte Nummer:?']]
             },
             'rolNumber': {
                 'legends': ['No Rôle:', 'Rolnummer:', 'Aktenzeichen:', 'No Arrêt/No Rôle:', 'Arrest- Rolnummer:'],

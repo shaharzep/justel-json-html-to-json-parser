@@ -1,0 +1,363 @@
+<html lang="nl"><head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, proxy-revalidate, no-transform">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="shortcut icon" href="/JUPORTAinclude/icones/justice.ico" type="image/ico">
+  <!-- ==============================================================================
+        JUPORTA project: - Openbare databank voor Belgische rechtspraak
+                         - JUPORTA zoekmachine
+                         - Web indexing voor de ECLI zoekmachine
+        
+        Database - Web - CSS ontwerp en ontwikkeling: mny - ICT dienst - FOD Justitie
+        
+        Copyright (c) 2017-2025 FOD Justitie - alle rechten voorbehouden.        
+        Elke reproductie, zelfs gedeeltelijk, is verboden.
+       ==============================================================================
+         § Ex Nihilo Nihil fit §
+  -->       
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/fonts/selawik/font-face.css">
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_css.php">
+  <link rel="stylesheet" media="print" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_print_M_css.php">
+  <script type="text/javascript" src="/JUPORTAinclude/script/balloontip.js"></script>
+  <title>ECLI:BE:GBAPD:2025:DEC.20250819.1</title>
+  <meta name="keywords" content=" 01 Burgerlijk recht
+                  BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)
+                  Het verwerken van persoonsgegevens voor verkiezingsreclame. (DOS-2024-02607)
+                  Wet - 03-12-2017 - 100,§1,5° - 11
+                  &lt;!-- MOTS_CLEF BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens 
+                  - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)--&gt; 
+                 ">
+
+  <meta name="author" content=" Gegevensbeschermingsautoriteit 
+                ">
+          <!-- BalloonArrayDefine -->
+</head>
+<body>
+  <div id="page_left">
+  </div>
+  <div id="page_right">
+  </div>
+  <div id="conteneur" onscroll="Javascript: ScrollWindow(this.scrollTop);">
+    <div id="page_top">
+
+      <div id="page_top_staatszegel" title="JUPORTAL-Ontvangst">
+            <a href="https://juportal.be/home/welkom">
+                <img src="/JUPORTAinclude/icones/Staatszegel_hof_invers.png" width="44" height="44" alt="JUPORTAL-Ontvangst">
+            </a>
+      </div>
+      <div id="page_top_titre">
+            JUPORTAL Openbare databank voor Belgische rechtspraak
+      </div>
+    </div>
+    <div id="page_main" x-ms-format-detection="none">
+    <!-- continue here with main block (division "content") -->
+    <div id="content1">
+
+    <form id="form_table" name="detail" action="/content/ECLI:BE:GBAPD:2025:DEC.20250819.1/NL" method="post"> 
+
+    <input type="hidden" name="TOKEN" id="TOKEN" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1">        <!-- Commandes de navigation page détail--> 
+
+      <div class="DPZUDCZHZ5wkUyG7TKxuP98ZUG24bnrloH1MZl6fMnCS2R73prs" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DPZUDCZHJHN8p5nf0f5REsGJnxoLwQ" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DPZUDCZHriv2cTN2qG75oEV5UKvFg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DPZUDCZHriv2cTN2qG75oEV5UKvFg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+ <div id="DPZUDCZHIdjZi4qr1PxDC3ydH70AKeap0KWMqtNFQoQjSuNAA70">
+        <img src="/JUPORTAinclude/icones/justice.ico" width="20" height="20" alt="Gegevensbeschermingsautoriteit">&nbsp; 
+Gegevensbeschermingsautoriteit  </div>
+       <fieldset>
+            <legend title="">Rechterlijke beslissing van 19 augustus 2025            </legend>
+       <table aria-describedby="Rechterlijke beslissing van 19 augustus 2025">
+         <thead>
+          <tr class="DPZUDCZHNDwWF88PVnbehcSkz68GHw8FMJfnG46qDboQpuqpOY">
+            <th width="12%"></th>
+            <th width="88%"></th>
+          </tr>
+         </thead>
+
+         <tbody>
+
+          <tr>
+            <td><p class="DPZUDCZHLsj4yfedAH4vhIb05QNWo7RRYyVzr4g3KOap82eXs">ECLI nr:</p></td>
+            <td><p class="DPZUDCZHCQYkssm4MfpXNosAyqzPtkq20syMjRWR4GgpAm92tM">ECLI:BE:GBAPD:2025:DEC.20250819.1</p>
+            </td>
+          </tr>
+            <tr>
+              <td><p class="DPZUDCZHLsj4yfedAH4vhIb05QNWo7RRYyVzr4g3KOap82eXs">Rolnummer:</p></td>
+              <td><p class="DPZUDCZHCQYkssm4MfpXNosAyqzPtkq20syMjRWR4GgpAm92tM">133/2025</p>
+              </td>
+            </tr>
+                          
+            <tr>
+              <td><p class="DPZUDCZHLsj4yfedAH4vhIb05QNWo7RRYyVzr4g3KOap82eXs">Rechtsgebied:</p></td>
+              <td><p class="DPZUDCZHCQYkssm4MfpXNosAyqzPtkq20syMjRWR4GgpAm92tM">
+ Burgerlijk recht</p></td></tr> 
+            <tr>
+              <td><p class="DPZUDCZHLsj4yfedAH4vhIb05QNWo7RRYyVzr4g3KOap82eXs">Invoerdatum:</p></td>
+              <td><p class="DPZUDCZHCQYkssm4MfpXNosAyqzPtkq20syMjRWR4GgpAm92tM">2025-08-20</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="DPZUDCZHLsj4yfedAH4vhIb05QNWo7RRYyVzr4g3KOap82eXs">Raadplegingen:</p></td>
+              <td><p class="DPZUDCZHCQYkssm4MfpXNosAyqzPtkq20syMjRWR4GgpAm92tM">23 - laatst gezien 2025-08-25 03:27</p>
+              </td>
+            </tr>
+                          
+         </tbody>
+        </table>
+      
+       </fieldset>
+       <fieldset id="DPZUDCZHsL2EdAjTlIN8j75tHftKg-1">
+            <legend title="">Fiche            </legend>
+          <div class="DPZUDCZHMfTCx8B1ync0PqFbhXuCJPvbVuVcn8QPPAxhZJ6264A">
+    <p> Beslist de Geschillenkamer van de Gegevensbeschermingsautoriteit, na beraadslaging, 
+        om: op grond van artikel 100, §1, 5° WOG, de verweerder te berispen 
+        wegens de inbreuk op artikelen 5.1.a) en 6.1 AVG; artikel 5.1.b) AVG; 
+        artikel 5.1.a) AVG juncto artikel 12.1, artikel 14.1 en artikel 14.2 AVG; 
+        artikel 15.1.g) AVG.
+    </p>
+          </div>
+      <table aria-describedby="Fiche">
+       <thead>
+        <tr class="DPZUDCZHNDwWF88PVnbehcSkz68GHw8FMJfnG46qDboQpuqpOY">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">UTU-thesaurus:</p></td>
+          <td>
+            <p class="description-notice-table">BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)
+ </p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Vrije woorden:</p></td>
+          <td>
+            <p class="description-notice-table"> 
+Het verwerken van persoonsgegevens voor verkiezingsreclame. (DOS-2024-02607)
+            
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Wettelijke bepalingen:</p></td>
+          <td>
+            <p class="description-notice-table">Wet - 03-12-2017 - 100,§1,5° - 11 
+    <a href="https://www.ejustice.just.fgov.be/eli/wet/2017/12/03/2017031916/justel" title="ELI link 2017031916" target="_blank">ELI link Pub nr 2017031916</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DPZUDCZHcn41yXoSldjmixluNCkw">
+            <legend title="Rechterlijke beslissing van 2025-08-19">Tekst van de beslissing            </legend>
+
+      <div id="DPZUDCZHMfTCx8B1ync0PqFbhXuCJPvbVuVcn8QPPAxhZJ6264A">
+    <p>
+       Geschillenkamer<br>
+       Beslissing ten gronde 133/2025 van 19 augustus 2025<br>
+       Dossiernummer : DOS-2024-02607<br>
+       Betreft : Het verwerken van persoonsgegevens voor verkiezingsreclame<br>
+       De Geschillenkamer van de Gegevensbeschermingsautoriteit,<br>
+       Gelet op Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016        betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), hierna “AVG”;<br>
+       Gelet op de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit, hierna “WOG”;<br>
+       Gelet op het reglement van interne orde, zoals goedgekeurd door de Kamer van Volksvertegenwoordigers op 20 december 2018 en gepubliceerd in het Belgisch Staatsblad op 15 januari 2019;<br>
+       Gelet op de stukken van het dossier;<br>
+       Heeft de volgende beslissing genomen inzake:<br>
+       De klager: X, hierna “de klager”<br>
+       De verweerder: Y, hierna “de verweerder”<br>
+       I. Feiten en procedure<br>
+       1. De verweerder is lid van het Vlaams Parlement en schepen in de gemeente Z1. Op 29 april 2024 verstuurt hij, in het kader van een verkiezingscampagne, per e-mail een verzoek aan de klager met het oog op medewerking aan zijn politieke campagne.<br>
+       Op 9 mei 2024 richt de klager zich tot de verweerder met de vraag naar de herkomst van haar persoonsgegevens.<br>
+       Op 10 mei 2024 antwoordt de verweerder op de vraag van de klager. Hij verklaart dat hij de persoonsgegevens van de klager online verzamelde in het kader van zijn contact met OKRA1.<br>
+       2. Op 21 mei 2024 dient de klager een klacht in bij de Gegevensbeschermingsautoriteit tegen de verweerder. Het voorwerp van de klacht betreft de onrechtmatigheid van de verwerking van haar persoonsgegevens voor het verzenden van verkiezingsreclame en het onvoldoende naleven van haar recht van inzage.<br>
+       3. Op 25 juni 2024 wordt de klacht door de Eerstelijnsdienst ontvankelijk verklaard op grond van de artikelen 58 en 60 WOG en wordt de klacht op grond van artikel 62, § 1 WOG overgemaakt aan de Geschillenkamer.<br>
+       4. Op 13 augustus 2024 worden de betrokken partijen per aangetekende zending in kennis gesteld van de bepalingen zoals vermeld in artikel 95, § 2, alsook van deze in artikel 98 WOG. Tevens worden zij op grond van artikel 99 WOG in kennis gesteld van de termijnen om hun verweermiddelen in te dienen.<br>
+       5. Op 4 september 2024 ontvangt de Geschillenkamer de conclusie van antwoord vanwege de verweerder. De verweerder geeft te kennen gebruik te willen maken van de mogelijkheid om te worden gehoord, overeenkomstig artikel 98 WOG.<br>
+       6. De Geschillenkamer ontvangt geen conclusies van de klager, en ook geen conclusie van repliek van de verweerder.<br>
+       7. Op 14 mei 2025 worden de partijen ervan in kennis gesteld dat een hoorzitting zal plaatsvinden.<br>
+       8. Op 15 juli 2025 wordt de verweerder gehoord door de Geschillenkamer. De klager meldt op 7 juni 2025 dat zij zich moet laten verontschuldigen.<br>
+       9. Op 16 juli 2025 wordt het proces-verbaal van de hoorzitting aan de verweerder voorgelegd.<br>
+       10. Op 16 juli 2025 ontvangt de Geschillenkamer vanwege de verweerder enkele opmerkingen met betrekking tot het proces-verbaal, dewelke zij beslist mee op te nemen in haar beraad.<br>
+       II. Motivering<br>
+       11. In haar brief van 13 augustus 2024 stelde de Geschillenkamer vast dat de reikwijdte van deze zaak betrekking heeft op de beginselen van rechtmatigheid (artikelen 5.1.a) en 6.1 AVG) en doelbinding (artikel 5.1.b) AVG), de transparantie en informatieverplichtingen (artikelen 5.1.a), 12, 13 en 14 AVG), de rechten van inzage (artikel 15 AVG) en bezwaar (artikel 21.2 AVG) en het gebruik van e-mail met het oog op direct marketing zonder voorafgaande toestemming (artikel XII.13, §1 Wetboek van Economisch Recht2).<br>
+       II.1. Standpunt van de verweerder<br>
+       12. In zijn conclusies van 4 september 2024 verschaft de verweerder nadere toelichting omtrent de omstandigheden van de gegevensverwerking. De verweerder verklaart dat hij, in het kader van zijn werkzaamheden als Vlaams volksvertegenwoordiger, verscheidene verenigingen aanschreef om hen te informeren over mogelijke subsidies en om hen uit te nodigen voor een rondleiding in het Vlaams Parlement. De betrokken e-mailadressen verzamelde hij via publiekelijk toegankelijke bronnen, in casu de website van de gemeente Z2. In deze context heeft de verweerder op 31 maart 2023 contact opgenomen met de klager in haar hoedanigheid als vertegenwoordiger van de Gezinsbond Afdeling W.<br>
+       13. De verweerder stelt dat de e-mail wegens de uitnodiging voor een bezoek in het Vlaams Parlement verkeerdelijk werd geclassificeerd als een e-mail met een politiek karakter.<br>
+       Omwille van deze classificatie werd de klager opgenomen in een mailinglijst voor politieke communicatie. De verweerder verklaart dat hij de klager inmiddels uit deze mailinglijst heeft verwijderd, en dat hij maatregelen treft om in de toekomst dergelijke fouten te vermijden.<br>
+       14. Op 9 mei 2024 heeft de klager de verweerder verzocht om toelichting omtrent de herkomst van haar contactgegevens. De verweerder antwoordde diezelfde dag dat hij contact had gehad met OKRA om hen uit te nodigen voor een bezoek aan het Vlaams Parlement, en dat hij “vermoedelijk” haar e-mailadres in dat verband had verkregen. In zijn nadien neergelegde conclusies erkent de verweerder dat deze mededeling onjuist was en te wijten aan een vergissing.<br>
+       15. De verweerder stelt dat hij telefonisch contact heeft opgenomen met de klager om zijn verontschuldigingen aan te bieden. Volgens de verweerder werden deze excuses door de klager aanvaard.<br>
+       II.2. Oordeel van de Geschillenkamer<br>
+       II.2.1. De beginselen van rechtmatigheid (artikelen 5.1.a) AVG en 6.1 AVG) en doelbinding (artikelen 5.1.b) AVG) en het gebruik van e-mail met het oog op direct marketing zonder voorafgaande toestemming<br>
+       16. Artikel 5.1.a) AVG bepaalt dat persoonsgegevens moeten worden verwerkt op een wijze die ten aanzien van de betrokkene rechtmatig, behoorlijk en transparant is („rechtmatigheid, behoorlijkheid en transparantie”). Artikel 6.1 AVG preciseert dat de verwerking alleen rechtmatig is indien en voor zover aan ten minste een van de voorwaarden in artikel 6.1.a) –<br>
+       f) AVG is voldaan.<br>
+       17. Politieke boodschappen gericht op individuele personen zoals in casu vallen onder de brede definitie van “direct marketing”3. Overweging 47 van de AVG bepaalt dat “De verwerking van persoonsgegevens ten behoeve van direct marketing kan worden beschouwd als uitgevoerd met het oog op een gerechtvaardigd belang”. Dit betekent dat een verwerking die noodzakelijk is voor de behartiging van de gerechtvaardigde belangen van een politieke partij of kandidaat a priori rechtmatig is, mits de belangen of de rechten en vrijheden van de betrokkene niet zwaarder doorwegen.<br>
+       18. In casu verstuurde de verweerder de politieke brief echter via e-mail. Hierdoor zijn er bijkomende regels van toepassing die gelden voor het versturen van digitale direct marketing, namelijk artikel 13 van de ePrivacy richtlijn 4. In België werd deze bepaling omgezet in artikel XII.13, §1 van het Wetboek van Economisch Recht. Behoudens wettelijke uitzondering, kan het gebruik van e-mail met het oog op direct marketing alleen worden toegestaan indien de betrokkenen hiervoor hun toestemming hebben gegeven5. Dit impliceert dat, ongeacht andere mogelijke rechtsgronden onder artikel 6.1 AVG, in het onderhavige geval uitsluitend toestemming als rechtsgrond in aanmerking kon komen. Uit de stukken in het dossier blijkt evenwel dat er geen sprake was van een dergelijke toestemming van de klager.<br>
+       19. Daarnaast bepaalt artikel 5.1.b) AVG dat persoonsgegevens voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden worden verzameld en vervolgens niet verder op een met die doeleinden onverenigbare wijze mogen worden verwerkt („doelbinding”). De verwerking van persoonsgegevens voor andere doeleinden dan die waarvoor de persoonsgegevens aanvankelijk zijn verzameld, is op grond van de AVG enkel toegestaan indien de verwerking verenigbaar is met de doeleinden waarvoor de persoonsgegevens aanvankelijk zijn verzameld. In casu houdt dit in dat bij de beoordeling van het al dan niet geoorloofd karakter van de beoogde direct marketingactiviteit diende te worden nagegaan of deze verdere verwerking al dan niet verenigbaar was met het oorspronkelijke doeleinde waarvoor de gegevens werden ingezameld. Er is sprake van onverenigbaarheid van de verdere verwerking met de initiële gegevensverwerking indien politieke partijen of kandidaten zich wenden tot een openbare bron en op die wijze elektronische contactgegevens verzamelen die zij op hun beurt gebruiken voor electorale doeleinden6.<br>
+       20. In casu verklaart de verweerder dat hij het e-mailadres van de klager verzamelde via de website van de gemeente Z2. Hij deed dit in eerste instantie om haar aan te schrijven op 31 maart 2023 in haar hoedanigheid als vertegenwoordiger van de Gezinsbond Afdeling W.<br>
+       Deze e-mail werd volgens de verweerder verkeerdelijk geclassificeerd als een e-mail van politiek karakter. Omwille van deze classificatie werd de klager opgenomen in een mailinglijst voor politieke communicatie. Deze onvoorzichtigheid veroorzaakte een verwerking van de persoonsgegevens van de klager die buiten het oorspronkelijke doel van de verzameling van de persoonsgegevens viel, en ook niet op een eigen rechtsgrond kon terugvallen7. De verweerder benadrukt dat deze verwerking veroorzaakt werd door een vergissing.<br>
+       21. De Geschillenkamer oordeelt dat de verweerder inbreuk maakte op het beginsel van rechtmatigheid (artikelen 5.1.a) en 6.1 AVG) door direct marketing te verzenden naar de klager zonder hiervoor de toestemming van de klager te hebben, en inbreuk maakte op het beginsel van doelbinding (artikel 5.1.b) AVG) door gegevens uit een openbare bron te verzamelen en te gebruiken voor electorale doeleinden.<br>
+       II.3. De transparantie en informatieverplichtingen (artikelen 5.1.a), 12, 13 en 14 AVG)<br>
+       22. Op grond van de transparantieverplichting in artikel 5.1.a) AVG, zoals nader gepreciseerd in de artikelen 13 en 14 AVG moet elke persoon wiens persoonsgegevens worden verwerkt, naargelang het feit of de gegevens rechtstreeks bij hem of bij derden worden verzameld, op de hoogte worden gesteld van de in die artikelen genoemde elementen. Wanneer de gegevens rechtstreeks bij de betrokkene worden verzameld, wordt deze op de hoogte gebracht van de elementen opgesomd in artikel 13.1 en 13.2 AVG. In artikel 14.1 en 14.2 AVG, worden soortgelijke elementen opgesomd, met dien verstande dat artikel 14 AVG        betrekking heeft op gegevens die niet rechtstreeks bij de betrokkene worden verzameld, maar bij derden. Deze informatie moet op grond van artikel 13 of artikel 14 AVG aan de betrokkene worden verstrekt op de wijze als bepaald in artikel 12 AVG.<br>
+       23. In de voorliggende zaak staat vast dat de door de verweerder verwerkte persoonsgegevens niet rechtstreeks bij de klager werden verzameld. Bijgevolg is enkel artikel 14 AVG van toepassing, waarvan de eerste twee leden de informatie vastleggen die aan de betrokkenen moet worden verstrekt:<br>
+       “1. Wanneer persoonsgegevens niet van de betrokkene zijn verkregen, verstrekt de verwerkingsverantwoordelijke de betrokkene de volgende informatie:<br>
+       a) de identiteit en de contactgegevens van de verwerkingsverantwoordelijke en, in voorkomend geval, van de vertegenwoordiger van de verwerkingsverantwoordelijke;<br>
+       b) in voorkomend geval, de contactgegevens van de functionaris voor gegevensbescherming;<br>
+       c) de verwerkingsdoeleinden waarvoor de persoonsgegevens zijn bestemd, en de rechtsgrond voor de verwerking;<br>
+       d) de betrokken categorieën van persoonsgegevens;<br>
+       e) in voorkomend geval, de ontvangers of categorieën van ontvangers van de persoonsgegevens;<br>
+       f) in voorkomend geval, dat de verwerkingsverantwoordelijke het voornemen heeft de persoonsgegevens door te geven aan een ontvanger in een derde land of aan een internationale organisatie; of er al dan niet een adequaatheidsbesluit van de Commissie bestaat; of, in het geval van de in artikel 46, artikel 47 of artikel 49, lid 1, tweede alinea, bedoelde doorgiften, welke de passende of geschikte waarborgen zijn, hoe er een kopie van kan worden verkregen of waar ze kunnen worden geraadpleegd.<br>
+       2. Naast de in lid 1 bedoelde informatie verstrekt de verwerkingsverantwoordelijke de betrokkene de volgende informatie om ten overstaan van de betrokkene een behoorlijke en transparante verwerking te waarborgen:<br>
+       a) de periode gedurende welke de persoonsgegevens zullen worden opgeslagen, of indien dat niet mogelijk is, de criteria om die termijn te bepalen;<br>
+       b) de gerechtvaardigde belangen van de verwerkingsverantwoordelijke of van een derde, indien de verwerking op artikel 6, lid 1, punt f), is gebaseerd;<br>
+       c) dat de betrokkene het recht heeft de verwerkingsverantwoordelijke te verzoeken om inzage van en rectificatie of wissing van persoonsgegevens of om beperking van de hem betreffende verwerking, alsmede het recht tegen verwerking van bezwaar te maken en het recht op gegevensoverdraagbaarheid.”<br>
+       24. Behoudens de informatie bedoeld in artikel 14.1.a) AVG, blijkt uit de stukken in het dossier dat de verweerder géén van de overige verplichte informatie aan de klager heeft verstrekt.<br>
+       25. De Geschillenkamer concludeert dat de verweerder zijn transparantie- en informatieverplichtingen overeenkomstig artikel 5.1.a), artikel 12.1, artikel 14.1 en 14.2 van de AVG niet is nagekomen doordat de informatie die hij verstrekte aan de klager onvolledig was.<br>
+       II.4. Het recht van inzage (Artikel 15 AVG)<br>
+       26. Overeenkomstig artikel 15 AVG heeft de betrokkene het recht van inzage in de persoonsgegevens die over hem zijn verzameld. Dit stelt de betrokkene in staat om kennis te nemen van de verwerking en de rechtmatigheid ervan te controleren.<br>
+       27. De klager maakte op 9 mei 2024 gebruik van haar recht op inzage door te vragen aan de verweerder hoe hij haar contactgegevens had verkregen (artikel 15.1.g) AVG). De verweerder antwoordde dat hij contact had gehad met OKRA in het kader van een uitnodiging van deze organisatie voor een bezoek aan het Vlaams Parlement, en dat hij de persoonsgegevens “vermoedelijk” in deze context had verzameld.<br>
+       28. In zijn conclusies van 4 september 2024 erkent de verweerder uit eigen beweging dat de aan de klager verstrekte informatie onjuist was. In werkelijkheid werden de contactgegevens van de klager verzameld via de website van de gemeente Z2, waarop de klager als vertegenwoordiger van de Gezinsbond Afdeling W stond aangeduid.<br>
+       29. De verweerder stelt tijdens de hoorzitting dat hij de correcte informatie inmiddels heeft kunnen communiceren aan de klager, in eerste instantie telefonisch, en ook via de uitleg in zijn conclusies tijdens de onderhavige procedure voor de Geschillenkamer.<br>
+       30. Gelet op het voorgaande besluit de Geschillenkamer dat de verweerder een inbreuk heeft begaan op artikel 15.1.g) AVG, door onjuiste informatie over de bron van de persoonsgegevens van de klager mee te delen.<br>
+       II.5. Het recht van bezwaar (Artikel 21.2 AVG)<br>
+       31. Wanneer persoonsgegevens ten behoeve van direct marketing worden verwerkt, heeft de betrokkene te allen tijde het recht bezwaar te maken tegen de verwerking van hem betreffende persoonsgegevens voor dergelijke marketing, met inbegrip van profilering die betrekking heeft op direct marketing8.<br>
+       32. In het onderhavige geval blijkt niet uit de stukken in het dossier dat de klager haar recht op bezwaar heeft uitgeoefend. Aldus oordeelt de Geschillenkamer dat er geen inbreuk op artikel 21.2 AVG kan worden vastgesteld.<br>
+       III. Maatregelen<br>
+       33. Krachtens artikel 100 van de WOG heeft de Geschillenkamer de bevoegdheid om:<br>
+       1° een klacht te seponeren;<br>
+       2° de buitenvervolgingstelling te bevelen;<br>
+       3° een opschorting van de uitspraak te bevelen;<br>
+       4° een schikking voor te stellen;<br>
+       5° waarschuwingen en berispingen te formuleren;<br>
+       6° te bevelen dat wordt voldaan aan de verzoeken van de betrokkene om zijn rechten uit te oefenen;<br>
+       7° te bevelen dat de betrokkene in kennis wordt gesteld van het veiligheidsprobleem;<br>
+       8° te bevelen dat de verwerking tijdelijk of definitief wordt bevroren, beperkt of verboden;<br>
+       9° te bevelen dat de verwerking in overeenstemming wordt gebracht;<br>
+       10° de rechtzetting, de beperking of de verwijdering van gegevens en de kennisgeving ervan aan de ontvangers van de gegevens te bevelen;<br>
+       11° de intrekking van de erkenning van certificatie-instellingen te bevelen;<br>
+       12° dwangsommen op te leggen;<br>
+       13° administratieve geldboeten op te leggen;<br>
+       14° de opschorting van grensoverschrijdende gegevensstromen naar een andere Staat of een internationale instelling te bevelen;<br>
+       15° het dossier over te dragen aan het parket van de procureur des Konings te Brussel, die het in kennis stelt van het gevolg dat aan het dossier wordt gegeven;<br>
+       16° geval per geval te beslissen om haar beslissingen bekend te maken op de website van de Gegevensbeschermingsautoriteit.<br>
+       34. De Geschillenkamer oordeelde dat de verweerder inbreuk maakte op de artikelen 5.1.a) en 6.1 AVG, door direct marketing te verzenden naar de klager zonder hiervoor de toestemming van de klager te hebben; op het beginsel van doelbinding (Artikel 5.1.b) AVG) door gegevens uit een openbare bron te verzamelen en te gebruiken voor electorale doeleinden op artikel 5.1.a) AVG juncto artikel 12.1, artikel 14.1 en 14.2 van de AVG doordat de informatie die hij verstrekte aan de klager onvolledig was; en artikel 15.1.g) AVG door onjuiste informatie over de bron van de persoonsgegevens van de klager mee te delen.<br>
+       35. In het onderhavige geval merkt de Geschillenkamer op dat de inbreuken onopzettelijk waren, dat de verweerder de inbreuken erkent en dat hij stappen heeft ondernomen om de inbreuken te verhelpen. Daarom beslist de Geschillenkamer dat het volstaat om op basis van artikel 100, § 1, 5 WOG een berisping te formuleren voor de bovenvermelde inbreuken. Onder deze omstandigheden ziet de Geschillenkamer geen aanleiding om het opleggen van een geldboete in overweging te nemen.<br>
+       IV. Publicatie van de beslissing<br>
+       36. Gelet op het belang van transparantie met betrekking tot de besluitvorming van de Geschillenkamer, wordt deze beslissing gepubliceerd op de website van de Gegevensbeschermingsautoriteit. Het is evenwel niet nodig dat daartoe de identificatiegegevens van de partijen rechtstreeks worden bekendgemaakt.<br>
+       OM DEZE REDENEN,<br>
+       beslist de Geschillenkamer van de Gegevensbeschermingsautoriteit, na beraadslaging, om:<br>
+       op grond van artikel 100, §1, 5° WOG, de verweerder te berispen wegens de inbreuk op artikelen 5.1.a) en 6.1 AVG; artikel 5.1.b) AVG; artikel 5.1.a) AVG juncto artikel 12.1, artikel 14.1 en artikel 14.2 AVG; artikel 15.1.g) AVG.<br>
+       Op grond van artikel 108, § 1 van de WOG, kan binnen een termijn van dertig dagen vanaf de<br>
+       kennisgeving tegen deze beslissing beroep worden aangetekend bij het Marktenhof (hof van beroep Brussel), met de Gegevensbeschermingsautoriteit als verweerder.<br>
+       Een dergelijk beroep kan worden aangetekend middels een verzoekschrift op tegenspraak dat de<br>
+       in artikel 1034ter van het Gerechtelijk Wetboek opgesomde vermeldingen dient te bevatten9. Het<br>
+       verzoekschrift op tegenspraak dient te worden ingediend bij de griffie van het Marktenhof overeenkomstig artikel 1034quinquies van het Ger.W.10, dan wel via het e-Deposit informaticasysteem van Justitie (artikel 32ter van het Ger.W.).<br>
+       (Get). Hielke HIJMANS<br>
+       Directeur van de Geschillenkamer
+    </p>
+      </div>
+       <p><a href="/JUPORTAwork/ECLI:BE:GBAPD:2025:DEC.20250819.1_NL.pdf?Version=1755687347" title="PDF document, version 1.6 (zip deflate encoded) ECLI:BE:GBAPD:2025:DEC.20250819.1 NL " target="_blank">PDF document ECLI:BE:GBAPD:2025:DEC.20250819.1</a>
+       </p>
+       </fieldset>
+        <!-- Commandes de navigation page détail--> 
+
+      <div class="DPZUDCZHZ5wkUyG7TKxuP98ZUG24bnrloH1MZl6fMnCS2R73prs" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DPZUDCZHJHN8p5nf0f5REsGJnxoLwQ" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DPZUDCZHriv2cTN2qG75oEV5UKvFg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DPZUDCZHriv2cTN2qG75oEV5UKvFg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+    </form>
+    </div>
+<!-- Action LOG 
+function JUPORTARecordLogViewDecision  $iubel_id        : 284416
+                                       $action_type     : VIEW
+                                      &$action_startmt  : 1756085267.8394
+                                      &$action_duration : 58
+                                      &$addressipremote : 98.109.187.131
+                                      &$latitude        : '40.9238000'
+                                      &$longitude       : '-73.9989000'
+                                      &$accuracy        : null
+                                      &$altitude        : null
+                                      &$langue_view     : NL
+-->
+<!-- Action_duration 58 millisec --> 
+      <!-- end of main block (division "content") -->
+
+    </div>
+    <!-- end of division "page_main" -->
+    <div id="page_footer">
+        <div id="page_footer_contact" title="Voor informatie of suggesties voor het ontwikkelingsteam kunt u contact met ons opnemen" rel="balloon_contact">
+              ✉ <a href="mailto:info-JUPORTAL@just.fgov.be">info-JUPORTAL@just.fgov.be</a>
+        </div>
+        <div id="page_footer_copyright" title="Copyright ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie - Alle rechten voorbehouden" rel="balloon_copyright">
+              ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie
+        </div>
+
+    </div>
+
+  </div>
+  <!-- end of division "conteneur" -->
+
+  <!-- Balloon system info -->
+  <div id="balloon_system_info" class="balloonstyle" style="height: 128px; width: 400px">
+      <p>
+          Powered by PHP 8.4.7
+      </p>
+      <p>
+          Server Software Apache/2.4.62
+      </p>
+      <p>
+          == Fluctuat nec mergitur ==
+      </p>
+  </div>
+  <!-- Balloon system info -->
+          <!-- BalloonObjectPrepa Start -->
+          <!-- BalloonObjectPrepa End -->
+
+
+</body></html>

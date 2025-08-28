@@ -1,0 +1,398 @@
+<html lang="nl"><head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, proxy-revalidate, no-transform">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="shortcut icon" href="/JUPORTAinclude/icones/justice.ico" type="image/ico">
+  <!-- ==============================================================================
+        JUPORTA project: - Openbare databank voor Belgische rechtspraak
+                         - JUPORTA zoekmachine
+                         - Web indexing voor de ECLI zoekmachine
+        
+        Database - Web - CSS ontwerp en ontwikkeling: mny - ICT dienst - FOD Justitie
+        
+        Copyright (c) 2017-2025 FOD Justitie - alle rechten voorbehouden.        
+        Elke reproductie, zelfs gedeeltelijk, is verboden.
+       ==============================================================================
+         § Fluctuat nec mergitur §
+  -->       
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/fonts/selawik/font-face.css">
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_css.php">
+  <link rel="stylesheet" media="print" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_print_M_css.php">
+  <script type="text/javascript" src="/JUPORTAinclude/script/balloontip.js"></script>
+  <title>ECLI:BE:GBAPD:2025:DEC.20250819.2</title>
+  <meta name="keywords" content=" 01 Burgerlijk recht
+                  BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)
+                  Het onrechtmatig en niet-transparant verwerken van persoonsgegevens in 
+                  het kader van een huurcontract. (DOS-2024-01301)
+                  Wet - 03-12-2017 - 100,5° - 11
+                  &lt;!-- MOTS_CLEF BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens 
+                  - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)--&gt; 
+                 ">
+
+  <meta name="author" content=" Gegevensbeschermingsautoriteit 
+                ">
+          <!-- BalloonArrayDefine -->
+</head>
+<body>
+  <div id="page_left">
+  </div>
+  <div id="page_right">
+  </div>
+  <div id="conteneur" onscroll="Javascript: ScrollWindow(this.scrollTop);">
+    <div id="page_top">
+
+      <div id="page_top_staatszegel" title="JUPORTAL-Ontvangst">
+            <a href="https://juportal.be/home/welkom">
+                <img src="/JUPORTAinclude/icones/Staatszegel_hof_invers.png" width="44" height="44" alt="JUPORTAL-Ontvangst">
+            </a>
+      </div>
+      <div id="page_top_titre">
+            JUPORTAL Openbare databank voor Belgische rechtspraak
+      </div>
+    </div>
+    <div id="page_main" x-ms-format-detection="none">
+    <!-- continue here with main block (division "content") -->
+    <div id="content1">
+
+    <form id="form_table" name="detail" action="/content/ECLI:BE:GBAPD:2025:DEC.20250819.2/NL" method="post"> 
+
+    <input type="hidden" name="TOKEN" id="TOKEN" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1">        <!-- Commandes de navigation page détail--> 
+
+      <div class="DSZUDCZHZ5wkUyG7TKxuP98ZUG24bmDTWznp0DKvsYK00EdQYN4" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DSZUDCZH2bd829xUbacMYcbKytepdg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DSZUDCZH0fGxnFP7BR5vA0ZPA4XFw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DSZUDCZH0fGxnFP7BR5vA0ZPA4XFw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+ <div id="DSZUDCZHludZoxXjJnWxv21jpyZfUibx3xFIBbAwboDqIynU">
+        <img src="/JUPORTAinclude/icones/justice.ico" width="20" height="20" alt="Gegevensbeschermingsautoriteit">&nbsp; 
+Gegevensbeschermingsautoriteit  </div>
+       <fieldset>
+            <legend title="">Rechterlijke beslissing van 19 augustus 2025            </legend>
+       <table aria-describedby="Rechterlijke beslissing van 19 augustus 2025">
+         <thead>
+          <tr class="DSZUDCZHNDwWF88PVnbehcSkz68GGedRLXHZW4hfx1N3RNdhf8">
+            <th width="12%"></th>
+            <th width="88%"></th>
+          </tr>
+         </thead>
+
+         <tbody>
+
+          <tr>
+            <td><p class="DSZUDCZHLsj4yfedAH4vhIb05QNWpDcoH1gWM3SdFaZE7NSClk">ECLI nr:</p></td>
+            <td><p class="DSZUDCZHCQYkssm4MfpXNosAyqzPjRF5s25b670VRJzLytwzc">ECLI:BE:GBAPD:2025:DEC.20250819.2</p>
+            </td>
+          </tr>
+            <tr>
+              <td><p class="DSZUDCZHLsj4yfedAH4vhIb05QNWpDcoH1gWM3SdFaZE7NSClk">Rolnummer:</p></td>
+              <td><p class="DSZUDCZHCQYkssm4MfpXNosAyqzPjRF5s25b670VRJzLytwzc">132/2025</p>
+              </td>
+            </tr>
+                          
+            <tr>
+              <td><p class="DSZUDCZHLsj4yfedAH4vhIb05QNWpDcoH1gWM3SdFaZE7NSClk">Rechtsgebied:</p></td>
+              <td><p class="DSZUDCZHCQYkssm4MfpXNosAyqzPjRF5s25b670VRJzLytwzc">
+ Burgerlijk recht</p></td></tr> 
+            <tr>
+              <td><p class="DSZUDCZHLsj4yfedAH4vhIb05QNWpDcoH1gWM3SdFaZE7NSClk">Invoerdatum:</p></td>
+              <td><p class="DSZUDCZHCQYkssm4MfpXNosAyqzPjRF5s25b670VRJzLytwzc">2025-08-20</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="DSZUDCZHLsj4yfedAH4vhIb05QNWpDcoH1gWM3SdFaZE7NSClk">Raadplegingen:</p></td>
+              <td><p class="DSZUDCZHCQYkssm4MfpXNosAyqzPjRF5s25b670VRJzLytwzc">20 - laatst gezien 2025-08-25 03:26</p>
+              </td>
+            </tr>
+                          
+         </tbody>
+        </table>
+      
+       </fieldset>
+       <fieldset id="DSZUDCZHyUSYOi4Cs11xmDnzRkXkmA-1">
+            <legend title="">Fiche            </legend>
+          <div class="DSZUDCZH65zHOhUsiVEnf2tSt8WlRvrdvjQa0dzjm6pvsTkJ0c">
+    <p> Beslist de Geschillenkamer van de Gegevensbeschermingsautoriteit, na beraadslaging, 
+        om: 1. op grond van artikel100,5° WOG de verweerder te berispen: • 
+        vanwege het verwerken van de persoonsgegevens van de identiteitskaart 
+        van de klager zonder rechtsgrond; • vanwege het niet beantwoorden van 
+        een rechtmatig verzoek tot inzage van de klager binnen de voorziene termijn 
+        en • vanwege het gebrek aan transparantie aangaande de verwerking van 
+        de persoonsgegevens van de identiteitskaart door een verwerker 2. op grond 
+        van artikel 100,5 ° van de WOG de verweerder te waarschuwen vanwege het 
+        gebrek aan transparantie aangaande de locatiegegevens die worden verwerkt 
+        in het kader van het verhuren van fietsen.
+    </p>
+          </div>
+      <table aria-describedby="Fiche">
+       <thead>
+        <tr class="DSZUDCZHNDwWF88PVnbehcSkz68GGedRLXHZW4hfx1N3RNdhf8">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">UTU-thesaurus:</p></td>
+          <td>
+            <p class="description-notice-table">BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)
+ </p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Vrije woorden:</p></td>
+          <td>
+            <p class="description-notice-table"> 
+Het onrechtmatig en niet-transparant verwerken van persoonsgegevens in 
+         het kader van een huurcontract. (DOS-2024-01301)
+            
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Wettelijke bepalingen:</p></td>
+          <td>
+            <p class="description-notice-table">Wet - 03-12-2017 - 100,5° - 11 
+    <a href="https://www.ejustice.just.fgov.be/eli/wet/2017/12/03/2017031916/justel" title="ELI link 2017031916" target="_blank">ELI link Pub nr 2017031916</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DSZUDCZHJAig8NqMsmx8GIzMf2bqIw">
+            <legend title="Rechterlijke beslissing van 2025-08-19">Tekst van de beslissing            </legend>
+
+      <div id="DSZUDCZH65zHOhUsiVEnf2tSt8WlRvrdvjQa0dzjm6pvsTkJ0c">
+    <p>
+       Geschillenkamer<br>
+       Beslissing ten gronde 132/2025 van 19 augustus 2025<br>
+       Dossiernummer : DOS-2024-01301<br>
+       Betreft : het onrechtmatig en niet-transparant verwerken van persoonsgegevens in het kader van een huurcontract<br>
+       De Geschillenkamer van de Gegevensbeschermingsautoriteit (hierna ‘GBA’);<br>
+       Gelet op Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016        betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), (hierna ‘AVG’);<br>
+       Gelet op de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit (hierna ‘WOG’)1;<br>
+       Gelet op het reglement van interne orde, zoals goedgekeurd door de Kamer van Volksvertegenwoordigers op 20 december 2018 en gepubliceerd in het Belgisch Staatsblad op 15 januari 2019;<br>
+       Gelet op de stukken van het dossier;<br>
+       Heeft de volgende beslissing genomen inzake:<br>
+       De klager: X, hierna “de klager”;<br>
+       De verweerder: Y, vertegenwoordigd door mr. Peter Craddock en mr. Isaline d’Hoop de Synghem, hierna “de verweerder”.<br>
+       I. Feiten en procedure<br>
+       1. Het voorwerp van de klacht betreft het onrechtmatig en niet-transparant verwerken van persoonsgegevens in het kader van een huurcontract.<br>
+       2. Op 10 maart 2024 diende de klager een klacht in bij de GBA tegen de verweerder.<br>
+       3. Op 2 april 2024 werd de klacht door de Eerstelijnsdienst ontvankelijk verklaard op grond van de artikelen 58 en 60 WOG en werd de klacht op grond van artikel 62, § 1 WOG overgemaakt aan de Geschillenkamer.<br>
+       4. Op 10 juni 2024 contacteerde de Geschillenkamer conform artikel 56.3 AVG de vermoedelijke leidende toezichthoudende autoriteit met het verzoek deze zaak conform artikel 56.2 AVG lokaal te kunnen behandelen, wat door de Autoriteit Persoonsgegevens (hierna ‘AP’) van Nederland op 17 juni 2024 werd aanvaard. Conform artikel 56.4 AVG, is de procedure artikel 60 AVG bijgevolg niet van toepassing.<br>
+       5. Op 17 januari 2025 besliste de Geschillenkamer op grond van artikel 95, § 1, 1° en artikel 98 WOG dat het dossier gereed is voor behandeling ten gronde, werden de betrokken partijen per aangetekende zending in kennis gesteld van de bepalingen zoals vermeld in artikel 95, § 2, alsook van deze in artikel 98 WOG en werden zij op grond van artikel 99 WOG in kennis gesteld van de termijnen om hun verweermiddelen in te dienen.<br>
+       De partijen worden gevraagd hun argumenten aangaande de volgende vermeende inbreuken te formuleren:<br>
+       ▪ inbreuk op artikel 5.1.a juncto 6.1 AVG vanwege het niet beschikken over een rechtsgrond voor de verwerking van de foto van de identiteitskaart van de klager;<br>
+       ▪ inbreuk op artikel 5.1.c AVG vanwege het verwerken van het rijksregisternummer van de klager zonder dat daar een noodzaak toe is;<br>
+       ▪ inbreuk op artikel 12 juncto artikel 15 AVG vanwege het niet verlenen van inzage in de persoonsgegevens van de klager na diens uitdrukkelijke verzoek en<br>
+       ▪ inbreuk op artikel 5.1.a, artikel 12 en artikel 13 AVG vanwege een gebrek aan transparantie aangaande de verwerking van de persoonsgegevens van de klager met in het bijzonder de verwerking van de foto van de identiteitskaart, de verwerking van het rijksregisternummer en de verwerking van de locatiegegevens van de fiets die gebruikt werd door de klager.<br>
+       6. Op 7 maart 2025 ontving de Geschillenkamer de conclusie van antwoord vanwege de verweerder.<br>
+       7. Op 28 maart 2025 ontving de Geschillenkamer de conclusie van repliek van de klager.<br>
+       8. Op 18 april 2025 ontving de Geschillenkamer de conclusie van repliek van de verweerder.<br>
+       II. Motivering<br>
+       II.1. Beschrijving van de verwerking en de klacht<br>
+       9. De verweerder verhuurt fietsen op basis van een abonnement. Een klant moet zich eerst online registreren. Voor elektrische fietsen wordt de identiteit van de klant na de registratie geverifieerd door een afbeelding van de identiteitskaart door te zenden aan een verwerker, die de echtheid van de identiteitskaart en de gegevens op deze kaart controleert. Het doel van deze verificatie is fraudebestrijding. Pas na de verificatie kan een afspraak gemaakt worden om een fiets af te halen. Op het moment van afhalen van de fiets2 moet de klant opnieuw zijn identiteitskaart voorleggen om zijn identiteit te bewijzen, zodat de verweerder zeker is dat de ontvanger van de fiets de geregistreerde klant is.<br>
+       10. De klager verzette zich tegen het fotograferen van haar identiteitskaart voor de verificatie online en door de medewerker in het filiaal van de verweerder. De klager verzette zich in het bijzonder tegen het fotograferen van de achterkant van haar identiteitskaart, waarop het rijksregisternummer staat vermeld. Daarenboven werd haar verzoek tot inzage niet beantwoord en werd ze niet voorafgaand ingelicht omtrent de verwerking van de foto van haar identiteitskaart, van haar rijksregisternummer en van de locatiegegevens van de huurfiets.<br>
+       II.2. Verantwoordelijke van de verwerkingen<br>
+       11. De Geschillenkamer stelt vast dat de verweerder een dochteronderneming is van een holding die in Nederland is gevestigd. Aangezien het huurcontract op naam van het Belgische filiaal is, de privacyverklaring de Belgische vestiging aanduidt als verwerkingsverantwoordelijke, alle contacten tussen klager en verweerder in België plaatsvonden en de algemene voorwaarden verwijzen naar de toepasbaarheid van het Belgisch recht, heeft de Geschillenkamer aan de Nederlandse Autoriteit Persoonsgegevens (AP) conform artikel 56.2 AVG verzocht de zaak lokaal te kunnen behandelen, hetgeen door de AP werd toegestaan. De verweerder wordt aangaande deze klacht dan ook beschouwd als de verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens van de klager.<br>
+       II.3. Scope van de klacht<br>
+       12. De Geschillenkamer stelt samen met de verweerder vast dat de klager in haar conclusie van repliek haar klacht heeft uitgebreid naar een facturatiegeschil dat bestaat tussen de klager en de verweerder. Alhoewel dit geschil reeds duidelijk was in de klacht, achtte de Geschillenkamer de elementen van dit geschil niet relevant in het kader van de beoordeling van de gegevensverwerking conform de AVG. De domiciliëring van het huurcontract en het inschakelen van een incassobureau door de verweerder vallen bijgevolg niet binnen de scope van de klacht en evenmin binnen de bevoegdheid van de Geschillenkamer. De Geschillenkamer zal zich dus niet uitspreken over deze problematieken.<br>
+       II.4. Rechtmatigheid van de verwerking<br>
+       13. Om aan het principe van de rechtmatigheid van de verwerking van artikel 5.1.a AVG te voldoen, moet deze verwerking gebaseerd zijn op één van de gronden die zijn opgesomd in artikel 6.1 AVG. Daarenboven stelt artikel 5.2 AVG dat de verweerder de naleving van dit principe moet kunnen aantonen.<br>
+       14. De verweerder verwijst naar de noodzaak van de verwerking van identiteitsgegevens van de klant als huurder om te voldoen aan zijn contractuele verplichtingen, conform artikel 6.1.b AVG.<br>
+       15. Teneinde een verwerking van persoonsgegevens te kunnen baseren op de contractuele noodzaak, moet er een contract bestaan, moet het contract rechtsgeldig zijn en moet de verwerking objectief noodzakelijk zijn ter uitvoering van het contract. 3 De European Data Protection Board (hierna ‘EDPB’) stelt in haar richtsnoeren duidelijk dat “Slechts de verwijzing of vermelding van gegevensverwerking in een overeenkomst […] niet voldoende [is] om de betreffende verwerking te laten vallen binnen de reikwijdte van artikel 6, lid 1, onder b).”4 en dat “noodzakelijk voor de uitvoering van een overeenkomst met de betrokkene (…) strikt [moet] worden geïnterpreteerd en geen situaties [dekt] waarin de verwerking niet daadwerkelijk noodzakelijk is voor de uitvoering van een overeenkomst, maar eerder eenzijdig opgelegd aan de betrokkene door de voor de verwerking verantwoordelijke.”5<br>
+       16. De Geschillenkamer stelt vast dat er een contract bestaat en dat dit contract rechtsgeldig is, hetgeen de klager niet betwist. Het huurcontract bevat de identiteitsgegevens van de klager, noodzakelijk ter uitvoering van het contract.<br>
+       17. De Geschillenkamer stelt ook vast dat initieel en na maart 2024 deze identiteitsgegevens werden gecontroleerd aan de hand van een visuele controle, waarbij de medewerker de gegevens van de identiteitskaart vergeleek met de registratiegegevens die de klant online had ingevoerd. Ook de wetgever houdt in de wetgeving rond het gebruik van de identiteitskaart rekening met dit belang wanneer zij stelt: “Voor de ondernemingen en de niet-gouvernementele organisaties is het in hun band met de burger belangrijk zekerheid te hebben over de identiteit van de klanten met wie ze juridisch relaties aanknopen. Een correcte identiteit is immers een conditio sine qua non voor de rechtszekerheid van de contractuele en economische relaties.”6 Het louter visueel controleren van de (overvloed aan) gegevens van de identiteitskaart wordt echter niet beschouwd als een verwerking van persoonsgegevens in de zin van artikel 2 AVG aangezien deze gegevens niet bedoeld zijn om te worden opgenomen in een bestand.<br>
+       18. De Geschillenkamer oordeelt dat de verwerkte identiteitsgegevens van de klager noodzakelijk zijn voor de uitvoering van het contract en dat de verweerder zich conform artikel 5.1.a AVG rechtmatig baseert op de rechtsgrond van artikel 6.1.b AVG voor de verwerking van deze identiteitsgegevens van de klager als huurder van een fiets.<br>
+       19. Ten tijde van de verwerking van de persoonsgegevens van de klager was er echter een uitgebreider verificatieproces in voege, waarbij een verwerker, namelijk een bedrijf dat gespecialiseerd is in software voor identiteitsverificatie, op basis van een afbeelding van de identiteitskaart de echtheid van deze kaart naging en de identiteitsgegevens dus met grotere zekerheid kon verifiëren. Dit verificatieproces bracht echter wel een gegevensverwerking in de zin van artikel 2 AVG met zich mee, namelijk het fotograferen of scannen, filteren, doorzenden, controleren, bewaren en verwijderen van deze gegevens.<br>
+       Het doel van dit uitgebreidere verificatieproces was het tegengaan van fraude.<br>
+       20. Hoewel er een privacyfilter aanwezig was in de toepassing van deze verwerker, vond er alsnog een verwerking van alle persoonsgegevens op de identiteitskaart plaats, zij het kortstondig. De verweerder verwoordt het zelf als volgt: “Terwijl een foto van een identiteitskaart wel op een bepaalde manier en zeer tijdelijk wordt geanalyseerd, is dat louter om bepaalde informatie daaruit achter te halen (sic) […]”7 en “Hoogstens kan de klager argumenteren dat er een uiterst tijdelijke ‘verwerking’ gebeurde vooraleer de maskering effectief plaatsvond” 8. In de bijlage bij zijn conclusies voegt de verweerder een analyse toe van het gebruik van deze verificatieprocedure. Op basis hiervan stelt de Geschillenkamer vast dat de foto van de identiteitskaart moet worden opgeladen op de website van de verweerder, waarna deze foto wordt verzonden naar de verwerker die op dat moment pas de privacyfilter toepast.9 De verweerder bevestigt dit in zijn conclusies:<br>
+       “De abonnee moest een foto van het identiteitsbewijs […] nemen. […] Eens geüpload verscheen een automatische privacyfilter op de foto[…].” 10<br>
+       Aangaande de tijdelijkheid van de verwerking argumenteert de verweerder dat dit louter als een “lezing van datapunten” moet worden beschouwd en dat dit toegestaan is door de wetgever. De verweerder verwijst hiervoor naar artikel 6, §4 van de wet ID 11, waarin echter duidelijk staat dat het lezen van de elektronische identiteitskaart moet gebeuren “in overeenstemming met de wettelijke en reglementaire bepalingen inzake de bescherming van de persoonlijke levenssfeer en de bescherming van de persoonsgegevens.” 12 De Geschillenkamer oordeelt dat dit lezen van datapunten eveneens een verwerking van persoonsgegevens betreft en, conform de wetgeving op de identiteitskaarten, dus moet voldoen aan de principes van gegevensbescherming in de AVG.<br>
+       21. Daarenboven was deze filter aanpasbaar door de betrokkene, wat evenmin een garantie was dat de verwerker niet meer gegevens verwerkte dan de naam, de voornaam en de geboortedatum van de klant. Het komt de verwerkingsverantwoordelijke toe te garanderen dat enkel die persoonsgegevens verwerkt worden die noodzakelijk zijn voor het doel van de verwerking.<br>
+       22. De Geschillenkamer oordeelt bijgevolg dat de verwerking van de persoonsgegevens op de identiteitskaart een aparte verwerking van persoonsgegevens is en dat het gebruik van de privacyfilter geen afdoende technische maatregel was om te verzekeren dat er niet meer persoonsgegevens van de identiteitskaart werden verwerkt dan de naam, de voornaam en de geboortedatum, die contractueel noodzakelijk zijn.<br>
+       23. Deze aparte verwerking had als doeleinde het bestrijden van fraude. Zoals georganiseerd in het verificatieproces is deze verwerking geen noodzaak binnen de contractuele relatie, aangezien ze initieel niet noodzakelijk was en in maart 2024 ook niet meer werd uitgevoerd.<br>
+       Bovendien is ze ook niet noodzakelijk voor de minder dure contracten van gewone fietsen.<br>
+       Deze aparte verwerking kan dus niet gebaseerd worden op enige noodzaak voor de uitvoering van de overeenkomst van artikel 6.1.b AVG. De Geschillenkamer stelt eveneens vast dat de verwerking van persoonsgegevens gedurende het verificatieproces niet is gebaseerd op toestemming (artikel 6.1.a AVG), niet wordt uitgevoerd in het kader van een wettelijke noodzaak (artikel 6.1.c AVG) of een algemeen belang (artikel 6.1.e AVG) en dat van vitaal belang (artikel 6.1.d AVG) geen sprake kan zijn. Fraudebestrijding kan daarentegen wel kaderen in het gerechtvaardigd belang (artikel 6.1.f AVG) van de verweerder, met name het vermijden van economische schade.<br>
+       24. De privacyverklaring verwijst uitdrukkelijk naar dit gerechtvaardigd belang door te stellen:<br>
+       “Gerechtvaardigde belangen zijn onder andere: beveiliging, bescherming van eigendommen (lees: diefstal- en misbruikpreventie), […]”13 en bij de doeleinden van de verwerking: “Het beschermen van onze dienstverlening tegen onder andere fraude en wanbetaling [grondslag contractuele noodzaak of gerechtvaardigd belang]” 14 Ook wijst de verweerder in zijn conclusie op dit belang: “Deze verificatie is essentieel voor fraudepreventie en, gezien de hoge waarde van de e-bikes […], om ervoor te zorgen dat een fiets aan de juiste persoon wordt overhandigd. [verweerder] ondervindt regelmatig dat er abonnementen op de naam van een derde worden afgesloten, resulterend in het niet betalen van facturen of het verdwijnen van fietsen.” 15<br>
+       25. Overeenkomstig de rechtspraak van het Hof van Justitie 16 aangaande de rechtsgrond gerechtvaardigd belang van artikel 6.1.f AVG, dient de verweerder aan te tonen dat:<br>
+       ▪ De belangen die zij met de verwerking nastreeft, als gerechtvaardigd kunnen worden erkend (de “doeltoets”);<br>
+       ▪ De beoogde verwerking noodzakelijk is voor de verwezenlijking van die belangen (de “noodzakelijkheidstoets”);<br>
+       ▪ De afweging van die belangen ten opzichte van de belangen, fundamentele vrijheden en grondrechten van de klager doorweegt in het voordeel van de verweerder of van een derde (de “afwegingstoets”).<br>
+       26. De Geschillenkamer stelt vast dat de verweerder geen belangenafweging aantoont aangaande deze verwerking. Ambtshalve doet de Geschillenkamer deze belangenafweging wel om na te gaan of het gerechtvaardigd belang van artikel 6.1.f AVG een gepaste rechtsgrond voor de verwerking zou zijn.<br>
+       Doeltoets<br>
+       27. Gezien de fietsen slechts verhuurd worden en dus in eigendom van de verweerder blijven, oordeelt de Geschillenkamer dat het bestrijden van fraude en het verzekeren dat de fiets aan de juiste persoon wordt overhandigd een gerechtvaardigd belang van de verweerder is.<br>
+       Noodzakelijkheidstoets<br>
+       28. Opdat een verwerking noodzakelijk is, moet ze ten eerste geschikt zijn, ten tweede toereikend zijn en ten derde noodzakelijk zijn voor de beoogde doelen. 17<br>
+       29. Het leidt geen twijfel dat de identiteitskaart bij uitstek geschikt is om de identiteit van een persoon te controleren en ook toereikend is om deze identiteit met zekerheid vast te stellen. Een identiteitskaart is immers net met dit doel ontworpen en beveiligd. De verwerking door middel van de analyse van datapunten van een foto of scan van de identiteitskaart is bijgevolg eveneens geschikt en toereikend.<br>
+       30. Deze analyse vergt echter het fotograferen of inscannen van de identiteitskaart en het doorzenden van deze foto of scan via internet, waarna ze wordt opgeslagen, geanalyseerd en opnieuw verwijderd na een bepaalde termijn. Elk van deze handelingen verhoogt het risico op fouten en eventuele inbreuken tegen de vertrouwelijkheid of de integriteit van alle gegevens op de identiteitskaart. Deze verwerkingen zijn niet noodzakelijk aangezien er een evenwaardig alternatief bestaat. De verweerder had reeds een procedure die eruit bestond de registratiegegevens die door de klant online werden ingegeven in de winkel fysiek te vergelijken met de gegevens op de identiteitskaart, alvorens de fiets te overhandigen. Deze procedure werd ook terug ingevoerd sinds maart 2024, aangezien de verwerking via de foto of scan van de identiteitskaart geen voldoende meerwaarde betekende voor het doel van de verwerking, namelijk de fraudebestrijding.18<br>
+       31. Gezien de drie voorwaarden van artikel 6.1.f AVG cumulatief zijn 19 en de verwerking niet noodzakelijk is, oordeelt de Geschillenkamer dat de verweerder de verwerking van de persoonsgegevens op de identiteitskaart van de klager niet kon verwerken op grond van een gerechtvaardigd belang van artikel 6.1.f AVG.<br>
+       32. De Geschillenkamer oordeelt bijgevolg dat de verweerder een inbreuk maakt op artikel 5.1.a juncto 6.1 AVG vanwege het niet beschikken over een rechtsgrond voor de verwerking van de persoonsgegevens op de identiteitskaart van de klager.<br>
+       II.5. Minimale gegevensverwerking<br>
+       33. De klager verzet zich tegen het fotograferen en uploaden van haar identiteitskaart en beschouwt vooral het verwerken van haar rijksregisternummer als overbodig. Daarbij verzet de klager zich echter niet tegen het controleren van haar identiteitskaart om de gegevens te vergelijken met de gegevens waarover de verweerder beschikt via de registratie. De klager is van mening dat deze consultatie voldoende is.<br>
+       34. De Geschillenkamer stelt vast dat het vermeende verwerken van het rijksregisternummer van de klager deel uitmaakt van de verwerking van de identiteitskaart in de verificatieprocedure van de verweerder. Aangezien deze verificatieprocedure in randnummer 32 als niet-rechtmatig werd geoordeeld, is het eventueel verwerken van het rijksregisternummer evenmin rechtmatig en is een beoordeling op basis van het principe van de minimale gegevensbescherming niet meer ter zake dienend.<br>
+       II.6. Transparantie van de verwerking<br>
+       35. De klager beweert nooit rechtstreeks geïnformeerd te zijn over de verwerking van haar persoonsgegevens en stelt dat ze zelf de privacyverklaring heeft moeten opzoeken via internet om informatie over de verwerkingen te bekomen.<br>
+       36. De verweerder toont aan dat er een link naar het privacybeleid te vinden is in het huurcontract met de klager en dat de privacyverklaring beschikbaar is via de website van de verweerder, dezelfde website via dewelke de klager zich moest registreren voor de huur van een fiets.<br>
+       37. De Geschillenkamer oordeelt dat de klager voorafgaand aan de verwerking van haar persoonsgegevens in het kader van het huurcontract voldoende werd gewezen op het bestaan van de privacyverklaring en van de vindplaats van deze privacyverklaring.<br>
+       38. Alhoewel de privacyverklaring de verwerking van de identiteitsgegevens vermeldt, wordt het gebruik van de identiteitskaart in de verificatieprocedure niet opgenomen terwijl het wel een aparte verwerking betrof20. Evenmin wordt de verwerker die deze controle via de identiteitskaart uitvoert, vermeld in de privacyverklaring. Deze spreekt immers enkel van verwerkers in het kader van “hosting-dienstverleners en onderzoeksbureaus met als doel marktonderzoek of klantentevredenheidsonderzoek”21.De Geschillenkamer stelt vast dat deze verwerking wel expliciet staat vermeld in de algemene voorwaarden. Gezien het echter een ander document betreft, gaat dit in tegen artikel 12.1 AVG. Dit artikel bepaalt dat de informatie aangaande de gegevensverwerking beknopt en makkelijk toegankelijk moet zijn, wat niet het geval is indien men deze informatie opsplitst en verdeeld over enerzijds de privacyverklaring en anderzijds de algemene voorwaarden. Daarenboven leiden discrepanties tussen informatie in de privacyverklaring en de algemene voorwaarden tot verwarring en onduidelijkheid, wat de transparantie negatief beïnvloedt.<br>
+       39. Inzake de verwerking van het rijksregisternummer, dat op de achterkant van de identiteitskaart van de klager staat, is geen informatie terug te vinden in de privacyverklaring. Dit ligt in lijn met de argumentatie van de verweerder die stelt dat hij enkel de voorkant van de identiteitskaart verwerkt. Daarenboven toont de klager niet aan dat de achterkant van de identiteitskaart is verwerkt en kan dit evenmin nog geverifieerd worden aangezien alle persoonsgegevens bij de verwerker zouden verwijderd zijn sinds maart 202422.<br>
+       40. Inzake de verwerking van de locatiegegevens van de fiets vermeldt de privacyverklaring de verwerking van de laatst bekende locatie in het kader van het terughalen van een verloren of gestolen fiets of in het kader van wanbetaling. De privacyverklaring verduidelijkt daarbij:<br>
+       “Pas vanaf het moment dat jij zelf verklaart dat de fiets verloren of gestolen is of wanneer er sprake is van wanbetaling, worden de locatiegegevens continu verzameld.” 23 De privacyverklaring laat daarbij echter in het midden of er locatiegegevens eventueel punctueel, steekproefsgewijs of discontinue worden verzameld. Het feit dat de locatiegegevens continu kunnen worden gevolgd, impliceert dat er een locatie tracker aanwezig is in de fiets. Door enkel te communiceren over een continu gebruik bij problemen, is de verweerder niet transparant over het gebruik zonder dat er problemen zijn vastgesteld.<br>
+       41. De Geschillenkamer oordeelt dat de verweerder een inbreuk heeft begaan tegen het transparantiebeginsel van artikel 5.1.a juncto artikelen 12 en 13 AVG aangezien de verwerking van de identiteitskaart door een verwerker niet aan bod kwam in de privacyverklaring en aangezien het niet duidelijk was of de locatie tracker in de verhuurde fiets ook locatiegegevens verzamelde zonder dat er problemen werden vastgesteld.<br>
+       II.7. Recht van inzage<br>
+       42. Artikel 15.1 AVG bepaalt dat de betrokkene het recht heeft om van de verwerkingsverantwoordelijke uitsluitsel te verkrijgen over het al dan niet verwerken van de persoonsgegevens die op hem betrekking hebben en, indien dat het geval is, om inzage te verkrijgen van die persoonsgegevens. Verder stelt artikel 15.3 AVG dat de verwerkingsverantwoordelijke een kopie dient te voorzien van de persoonsgegevens die hij verwerkt.<br>
+       43. Daarnaast regelt artikel 12 AVG de wijze waarop de betrokkenen hun rechten kunnen uitoefenen en bepaalt artikel 12.2 AVG dat de verwerkingsverantwoordelijke de uitoefening van die rechten moet faciliteren, en onverwijld en in ieder geval binnen een maand na ontvangst van het verzoek informatie moet geven over de maatregelen die naar aanleiding van zijn verzoek zijn genomen. Afhankelijk van de complexiteit van de verzoeken en het aantal verzoeken kan die termijn, indien nodig, met nog eens twee maanden worden verlengd. De verwerkingsverantwoordelijke stelt de betrokkene binnen één maand na ontvangst van het verzoek in kennis van een dergelijke verlenging (artikel 12.3 AVG).<br>
+       Wanneer de verwerkingsverantwoordelijke geen gevolg geeft aan het verzoek van de betrokkene, deelt hij deze laatste onverwijld en uiterlijk binnen één maand na ontvangst van het verzoek mee waarom het verzoek zonder gevolg is gebleven, en informeert hij hem over de mogelijkheid om klacht in te dienen bij een toezichthoudende autoriteit en beroep bij de rechter in te stellen (artikel 12.4 AVG).<br>
+       44. In de bijlage bij de klacht voert de klager een e-mail van 14 januari 2024 toe, waarin zij inzage vraagt in alle persoonsgegevens die ooit over haar werden verzameld en verwerkt 24. De Geschillenkamer stelt vast op basis van de stukken dat er geen inzage werd verleend binnen de voorziene periode, nog dat de verweerder enige verlening van deze periode heeft gevraagd.<br>
+       45. De verweerder argumenteert dat het verzoek tot inzage in de spam terecht was gekomen en slechts werd ontdekt na de uitnodiging tot conclusies van de Geschillenkamer op 17 januari 2025, één jaar later dus. De verweerder voegt daaraan toe dat dit een uitzonderlijk geval betreft.<br>
+       46. De Geschillenkamer stelt vast dat de laattijdigheid van de reactie van de verweerder op het correcte verzoek tot inzage van de klager als gevolg heeft dat het voor de klager onmogelijk was te controleren of haar rijksregisternummer effectief verwerkt is geweest, of de foto van haar identiteitskaart is verwijderd en of er locatiegegevens van haar fietsverplaatsingen werden verwerkt.<br>
+       47. De Geschillenkamer oordeelt dat de verweerder een inbreuk heeft begaan tegen het recht van inzage van artikel 12 juncto artikel 15 AVG omwille van het niet verlenen van inzage in de persoonsgegevens van de klager na diens uitdrukkelijke verzoek binnen de voorziene termijn van 1 maand.<br>
+       III. Corrigerende maatregelen en sancties<br>
+       III.1. De ernst van de inbreuk<br>
+       48. Betreffende de ernst van de inbreuk oordeelt de Geschillenkamer dat het beginsel van rechtmatigheid een fundamenteel beginsel is van de bescherming die door de AVG gewaarborgd wordt. Het wordt eveneens opgenomen in artikel 8.2 van het Handvest van de Grondrechten van de Europese Unie. De Geschillenkamer oordeelt dat inbreuken op dit kernbeginsel derhalve zwaarwegende inbreuken vormen. Door daarenboven deze litigieuze verwerking niet op te nemen in de privacyverklaring en door het recht van inzage van de klager niet te respecteren binnen de voorziene termijn, kon de klager onmogelijk nagaan of haar persoonsgegevens afdoende werden beschermd, wat deze klacht onvermijdelijk maakte.<br>
+       49. De Geschillenkamer neemt echter in rekening dat de litigieuze verwerking slechts tijdelijk werd uitgevoerd en reeds in maart 2024 op eigen initiatief werd stopgezet, inclusief het verwijderen van de gegevens die naar aanleiding van deze verwerking werden verzameld.<br>
+       Daarenboven had de verweerder technische maatregelen genomen om de verwerking te beperken, zij het dat deze technische maatregelen niet afdoende waren.<br>
+       50. De Geschillenkamer neemt tenslotte ook in rekening dat het verzoek tot inzage uiteindelijk wel werd ingewilligd door de verweerder en dat de verwerking van de locatiegegevens wel vermeld staat in de privacyverklaring, zij het niet afdoende om zekerheid te geven over deze verwerking.<br>
+       III.2. Corrigerende maatregelen<br>
+       51. Volgens artikel 100 van de WOG heeft de Geschillenkamer de bevoegdheid om:<br>
+       1° de klacht te seponeren;<br>
+       2° de buitenvervolgingstelling te bevelen;<br>
+       3° een opschorting van de uitspraak te bevelen;<br>
+       4° een schikking voor te stellen;<br>
+       5° waarschuwingen en berispingen te formuleren;<br>
+       6° te bevelen dat wordt voldaan aan de verzoeken van de betrokkene om zijn rechten uit te oefenen;<br>
+       7° te bevelen dat de betrokkene in kennis wordt gesteld van het veiligheidsprobleem;<br>
+       8° te bevelen dat de verwerking tijdelijk of definitief wordt bevroren, beperkt of verboden;<br>
+       9° te bevelen dat de verwerking in overeenstemming wordt gebracht;<br>
+       10° de rechtzetting, de beperking of de verwijdering van gegevens en de kennisgeving ervan aan de ontvangers van de gegevens te bevelen;<br>
+       11° de intrekking van de erkenning van certificatie-instellingen te bevelen;<br>
+       12° dwangsommen op te leggen;<br>
+       13° administratieve geldboeten op te leggen;<br>
+       14° de opschorting van grensoverschrijdende gegevensstromen naar een andere Staat of een internationale instelling te bevelen;<br>
+       15° het dossier over te dragen aan het parket van de procureur des Konings van Brussel, die het in kennis stelt van het gevolg dat aan het dossier wordt gegeven;<br>
+       16° geval per geval te beslissen om haar beslissingen bekend te maken op de website van de Gegevensbeschermingsautoriteit.<br>
+       52. De Geschillenkamer beslist om op grond van artikel 100, 5° WOG de verweerder te berispen:<br>
+       • vanwege het verwerken van de persoonsgegevens van de identiteitskaart van de klager zonder rechtsgrond;<br>
+       • vanwege het niet beantwoorden van een rechtmatig verzoek tot inzage van de klager binnen de voorziene termijn en<br>
+       • vanwege het gebrek aan transparantie aangaande de verwerking van de persoonsgegevens van de identiteitskaart van de klager door een verwerker.<br>
+       53. De Geschillenkamer beslist om op grond van artikel 100, 5° van de WOG de verweerder te waarschuwen vanwege het gebrek aan transparantie aangaande de locatiegegevens die worden verwerkt in het kader van het verhuren van fietsen, aangezien het voor de klager wel duidelijk was dat er locatiegegevens werden verwerkt, maar niet duidelijk was of deze permanent werden verwerkt.<br>
+       54. Gelet op het belang van transparantie met betrekking tot de besluitvorming van de Geschillenkamer, wordt deze beslissing gepubliceerd op de website van de Gegevensbeschermingsautoriteit. Het is evenwel niet nodig dat daartoe de identificatiegegevens van de partijen rechtstreeks worden bekendgemaakt.<br>
+       OM DEZE REDENEN,<br>
+       beslist de Geschillenkamer van de Gegevensbeschermingsautoriteit, na beraadslaging, om:<br>
+       1. op grond van artikel100,5° WOG de verweerder te berispen:<br>
+       • vanwege het verwerken van de persoonsgegevens van de identiteitskaart van de klager zonder rechtsgrond;<br>
+       • vanwege het niet beantwoorden van een rechtmatig verzoek tot inzage van de klager binnen de voorziene termijn en<br>
+       • vanwege het gebrek aan transparantie aangaande de verwerking van de persoonsgegevens van de identiteitskaart door een verwerker<br>
+       2. op grond van artikel 100,5 ° van de WOG de verweerder te waarschuwen vanwege het gebrek aan transparantie aangaande de locatiegegevens die worden verwerkt in<br>
+       het kader van het verhuren van fietsen.<br>
+       Op grond van artikel 108, § 1 van de WOG, kan binnen een termijn van dertig dagen vanaf de kennisgeving tegen deze beslissing beroep worden aangetekend bij het Marktenhof (hof van beroep Brussel), met de Gegevensbeschermingsautoriteit als verweerder.<br>
+       Een dergelijk beroep kan worden aangetekend middels een verzoekschrift op tegenspraak dat de in artikel 1034ter van het Gerechtelijk Wetboek opgesomde vermeldingen dient te bevatten25. Het verzoekschrift op tegenspraak dient te worden ingediend bij de griffie van het Marktenhof overeenkomstig artikel 1034quinquies van het Ger.W.26, dan wel via het e-Deposit informaticasysteem van Justitie (artikel 32ter van het Ger.W.).<br>
+       (Get). Hielke HIJMANS<br>
+       Directeur van de Geschillenkamer
+    </p>
+      </div>
+       <p><a href="/JUPORTAwork/ECLI:BE:GBAPD:2025:DEC.20250819.2_NL.pdf?Version=1755690982" title="PDF document, version 1.6 (zip deflate encoded) ECLI:BE:GBAPD:2025:DEC.20250819.2 NL " target="_blank">PDF document ECLI:BE:GBAPD:2025:DEC.20250819.2</a>
+       </p>
+       </fieldset>
+        <!-- Commandes de navigation page détail--> 
+
+      <div class="DSZUDCZHZ5wkUyG7TKxuP98ZUG24bmDTWznp0DKvsYK00EdQYN4" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DSZUDCZH2bd829xUbacMYcbKytepdg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DSZUDCZH0fGxnFP7BR5vA0ZPA4XFw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DSZUDCZH0fGxnFP7BR5vA0ZPA4XFw" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+    </form>
+    </div>
+<!-- Action LOG 
+function JUPORTARecordLogViewDecision  $iubel_id        : 284417
+                                       $action_type     : VIEW
+                                      &$action_startmt  : 1756085201.9974
+                                      &$action_duration : 61
+                                      &$addressipremote : 98.109.187.131
+                                      &$latitude        : '40.9238000'
+                                      &$longitude       : '-73.9989000'
+                                      &$accuracy        : null
+                                      &$altitude        : null
+                                      &$langue_view     : NL
+-->
+<!-- Action_duration 61 millisec --> 
+      <!-- end of main block (division "content") -->
+
+    </div>
+    <!-- end of division "page_main" -->
+    <div id="page_footer">
+        <div id="page_footer_contact" title="Voor informatie of suggesties voor het ontwikkelingsteam kunt u contact met ons opnemen" rel="balloon_contact">
+              ✉ <a href="mailto:info-JUPORTAL@just.fgov.be">info-JUPORTAL@just.fgov.be</a>
+        </div>
+        <div id="page_footer_copyright" title="Copyright ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie - Alle rechten voorbehouden" rel="balloon_copyright">
+              ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie
+        </div>
+
+    </div>
+
+  </div>
+  <!-- end of division "conteneur" -->
+
+  <!-- Balloon system info -->
+  <div id="balloon_system_info" class="balloonstyle" style="height: 128px; width: 400px">
+      <p>
+          Powered by PHP 8.4.7
+      </p>
+      <p>
+          Server Software Apache/2.4.62
+      </p>
+      <p>
+          == Fluctuat nec mergitur ==
+      </p>
+  </div>
+  <!-- Balloon system info -->
+          <!-- BalloonObjectPrepa Start -->
+          <!-- BalloonObjectPrepa End -->
+
+
+</body></html>

@@ -1,0 +1,600 @@
+<html lang="fr"><head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, proxy-revalidate, no-transform">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="shortcut icon" href="/JUPORTAinclude/icones/staatszegel_rood.ico" type="image/ico">
+  <!-- ===========================================================================
+        Projet JUPORTA: - Base de données publique de la jurisprudence belge
+                        - moteur de recherche JUPORTA
+                        - référencement pour le moteur de recherche ECLI 
+        
+        Design database - développement Web - CSS : mny - Service ICT - SPF Justice
+        
+        Copyright (c) 2017-2025 SPF Justice - tous droits réservés.        
+        Toute reproduction, même partielle, est interdite.
+       ===========================================================================
+         § Post tenebras spero lucem §
+  -->       
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/fonts/selawik/font-face.css">
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_css.php">
+  <link rel="stylesheet" media="print" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_print_M_css.php">
+  <script type="text/javascript" src="/JUPORTAinclude/script/balloontip.js"></script>
+  <title>ECLI:BE:CASS:2025:CONC.20250604.2F.4</title>
+  <meta name="keywords" content=" 06 Droit pénal
+                  INCENDIE
+                  Code pénal - 08-06-1867 - Art. 510 - 01
+                  Code pénal - 08-06-1867 - Art. 517 - 01
+                  &lt;!-- MOTS_CLEF INCENDIE--&gt; 
+                  INFRACTION - GENERALITES. NOTION. ELEMENT MATERIEL. ELEMENT MORAL. UNITE D'INTENTION
+                  &lt;!-- MOTS_CLEF INFRACTION - GENERALITES. NOTION. ELEMENT MATERIEL. ELEMENT MORAL. UNITE 
+                  D'INTENTION--&gt; 
+                  PEINE - AUTRES PEINES - Peine de travail
+                  Code pénal - 08-06-1867 - Art. 37quinquies, § 3, al. 2 - 01
+                  Code pénal - 08-06-1867 - Art. 137octies, § 3, al. 2 - 01
+                  L. du 29 juin 1964 concernant la suspension, le sursis et la probation - 29-06-1964 - Art. 8, § 1er, al. 4 - 30
+                  &lt;!-- MOTS_CLEF PEINE - AUTRES PEINES - Peine de travail--&gt; 
+                  PEINE - AUTRES PEINES - Divers
+                  &lt;!-- MOTS_CLEF PEINE - AUTRES PEINES - Divers--&gt; 
+                  CONDAMNATION AVEC SURSIS ET SUSPENSION DU PRONONCE DE LA CONDAMNATION - SURSIS PROBATOIRE
+                  &lt;!-- MOTS_CLEF CONDAMNATION AVEC SURSIS ET SUSPENSION DU PRONONCE DE LA CONDAMNATION 
+                  - SURSIS PROBATOIRE--&gt; 
+                  99 Autres
+                  MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)
+                  &lt;!-- MOTS_CLEF MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière 
+                  répressive (y compris les boissons spiritueuses et les douanes et accises)--&gt; 
+                 ">
+
+  <meta name="author" content=" Cour de cassation 
+                ">
+          <!-- BalloonArrayDefine -->
+</head>
+<body>
+  <div id="page_left">
+  </div>
+  <div id="page_right">
+  </div>
+  <div id="conteneur" onscroll="Javascript: ScrollWindow(this.scrollTop);">
+    <div id="page_top">
+
+      <div id="page_top_staatszegel" title="Accueil JUPORTAL">
+            <a href="https://juportal.be/home/accueil">
+                <img src="/JUPORTAinclude/icones/Staatszegel_hof_invers.png" width="44" height="44" alt="Accueil JUPORTAL">
+            </a>
+      </div>
+      <div id="page_top_titre">
+            JUPORTAL Base de données publique de la jurisprudence belge
+      </div>
+    </div>
+    <div id="page_main" x-ms-format-detection="none">
+    <!-- continue here with main block (division "content") -->
+    <div id="content1">
+
+    <form id="form_table" name="detail" action="/content/ECLI:BE:CASS:2025:CONC.20250604.2F.4/NL" method="post"> 
+
+    <input type="hidden" name="TOKEN" id="TOKEN" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1">        <!-- Commandes de navigation page détail--> 
+
+      <div class="DZZUDCZHZ5wkUyG7TKxuP98ZUG24bqK2FSUVw3768zst8lZXwpY" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DZZUDCZHjdtGmybMPswIQA1I9GjPhQ" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Imprimer cette page sur votre imprimante" onclick="javascript:window.print();">
+                  Imprimer cette page          </button>
+          &nbsp; 
+
+          Taille d'impression          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Taille d'impression">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DZZUDCZHLYmwXiE3KcFItW3YsHmXg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Exécuter une nouvelle recherche JUPORTAL">
+                  Nouvelle recherche JUPORTAL          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DZZUDCZHLYmwXiE3KcFItW3YsHmXg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Fermer l'onglet détail" onclick="javascript:window.close();">
+                  Fermer l'onglet          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+ <div id="DZZUDCZHPULiLI3f7EKorh8S2Ks7G9Bu1I0JMRgL1lIV9KZeE3s">
+        <img src="/JUPORTAinclude/icones/Staatszegel_hof_rood.png" width="20" height="20" alt="Cour de cassation">&nbsp; 
+Cour de cassation  </div>
+       <fieldset>
+            <legend title="">Conclusions du Ministère public du 04 juin 2025            </legend>
+       <table aria-describedby="Conclusions du Ministère public du 04 juin 2025">
+         <thead>
+          <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+            <th width="12%"></th>
+            <th width="88%"></th>
+          </tr>
+         </thead>
+
+         <tbody>
+
+          <tr>
+            <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">No ECLI:</p></td>
+            <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">ECLI:BE:CASS:2025:CONC.20250604.2F.4</p>
+            </td>
+          </tr>
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">No Rôle:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">P.25.0320.F</p>
+              </td>
+            </tr>
+                          
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Affaire:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">G. contra W.</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Chambre:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">2F - deuxième chambre
+      </p>
+    </td>
+   </tr>
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Domaine juridique:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">
+ Droit pénal - Autres</p></td></tr> 
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Date d'introduction:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">2025-08-20</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Consultations:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">49 - dernière vue 2025-08-25 03:19</p>
+              </td>
+            </tr>
+                          
+          <tr>
+            <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Jugement/arrêt:</p></td>
+            <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM"><a href="/content/ECLI:BE:CASS:2025:ARR.20250604.2F.4/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250604.2F.4" target="_new">ECLI:BE:CASS:2025:ARR.20250604.2F.4</a> </p></td>
+          </tr>
+         </tbody>
+        </table>
+      
+       </fieldset>
+       <fieldset id="DZZUDCZH2FzPPh6VCeciGPV5BpPh4Q-1">
+            <legend title="">Fiches 1 - 2            </legend>
+          <div class="DZZUDCZHZR83sUDSduNrA64yY7NrrUJoMwCu0lQnoomgeL3X4">
+    <p> L'article 517 du Code pénal présume l'intention de commettre 
+        l'une des infractions prévues aux article 510, 511 et 512, en rattachant 
+        cette intention au seul fait que les choses auxquelles le feu a été 
+        mis ont été placées de manière à ce que l'incendie doive se 
+        communiquer de l'une à l'autre dans le cours normal des événements; 
+        il suffit, dans ce cas, au ministère public de prouver que, d'après 
+        la disposition des lieux, le feu devait passer de l'objet auquel 
+        il a été mis à celui qui a été ensuite incendié (1). (1) Voir les 
+        concl. du MP.
+    </p>
+          </div>
+      <table aria-describedby="Fiches 1 - 2">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">INCENDIE
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Code pénal - 08-06-1867 - Art. 510 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a><br>
+Code pénal - 08-06-1867 - Art. 517 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 1 - 2">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">INFRACTION - GENERALITES. NOTION. ELEMENT MATERIEL. ELEMENT MORAL. UNITE D'INTENTION
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Code pénal - 08-06-1867 - Art. 510 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a><br>
+Code pénal - 08-06-1867 - Art. 517 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DZZUDCZH2FzPPh6VCeciGPV5BpPh4Q-3">
+            <legend title="">Fiches 3 - 6            </legend>
+          <div class="DZZUDCZHZR83sUDSduNrA64yY7NrrUJoMwCu0lQnoomgeL3X4">
+    <p> Le rejet d'une demande d'octroi d'une peine de probation 
+        ou celui d'une peine de travail ou d'une mesure de sursis, formulée 
+        par le prévenu sans motif propre ou spécifique, est régulièrement 
+        motivé et légalement justifié par la prononciation d'une peine 
+        d'emprisonnement dont la justification permet de comprendre pourquoi 
+        ces autres peines et mesures n'ont pas été accordées (1). (1) 
+        Voir les concl. du MP.
+    </p>
+          </div>
+      <table aria-describedby="Fiches 3 - 6">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">PEINE - AUTRES PEINES - Peine de travail
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Code pénal - 08-06-1867 - Art. 37quinquies, § 3, al. 2 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a><br>
+Code pénal - 08-06-1867 - Art. 137octies, § 3, al. 2 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a><br>
+L. du 29 juin 1964 concernant la suspension, le sursis et la probation - 29-06-1964 - Art. 8, § 1er, al. 4 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1964/06/29/1964062906/justel" title="Lien ELI 1964062906" target="_blank">Lien ELI No pub 1964062906</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 3 - 6">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">PEINE - AUTRES PEINES - Divers
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Code pénal - 08-06-1867 - Art. 37quinquies, § 3, al. 2 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a><br>
+Code pénal - 08-06-1867 - Art. 137octies, § 3, al. 2 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a><br>
+L. du 29 juin 1964 concernant la suspension, le sursis et la probation - 29-06-1964 - Art. 8, § 1er, al. 4 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1964/06/29/1964062906/justel" title="Lien ELI 1964062906" target="_blank">Lien ELI No pub 1964062906</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 3 - 6">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">CONDAMNATION AVEC SURSIS ET SUSPENSION DU PRONONCE DE LA CONDAMNATION - SURSIS PROBATOIRE
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Code pénal - 08-06-1867 - Art. 37quinquies, § 3, al. 2 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a><br>
+Code pénal - 08-06-1867 - Art. 137octies, § 3, al. 2 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a><br>
+L. du 29 juin 1964 concernant la suspension, le sursis et la probation - 29-06-1964 - Art. 8, § 1er, al. 4 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1964/06/29/1964062906/justel" title="Lien ELI 1964062906" target="_blank">Lien ELI No pub 1964062906</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 3 - 6">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">Code pénal - 08-06-1867 - Art. 37quinquies, § 3, al. 2 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a><br>
+Code pénal - 08-06-1867 - Art. 137octies, § 3, al. 2 - 01 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel" title="Lien ELI 1867060850" target="_blank">Lien ELI No pub 1867060850</a><br>
+L. du 29 juin 1964 concernant la suspension, le sursis et la probation - 29-06-1964 - Art. 8, § 1er, al. 4 - 30 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/1964/06/29/1964062906/justel" title="Lien ELI 1964062906" target="_blank">Lien ELI No pub 1964062906</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DZZUDCZHumBmdAIPUZ5VYLgtFYfQ">
+            <legend title="Conclusions du Ministère public du 2025-06-04">Texte des conclusions            </legend>
+
+      <div id="DZZUDCZHZR83sUDSduNrA64yY7NrrUJoMwCu0lQnoomgeL3X4">
+    <p>
+       P.25.0320.F<br>
+       Les conclusions de M. l’avocat général VANDERMEERSCH :<br>
+       Le pourvoi est dirigé contre un arrêt rendu le 6 février 2025 par la cour d’appel de Liège, chambre correctionnelle.<br>
+       L’examen du pourvoi.<br>
+       A. En tant que le pourvoi est dirigé contre la décision rendue sur l’action publique exercée contre le demandeur.<br>
+       Le demandeur invoque trois moyens dans un mémoire reçu au greffe de la Cour le 17 avril 2025.<br>
+       Le premier moyen.<br>
+       Le moyen est pris de la violation des articles 195, 204, 206 et 211 du Code d’instruction criminelle et de la violation de la foi due aux actes, en l’espèce de la foi due à l’acte d’appel et au formulaire de griefs du procureur du Roi.<br>
+       Le demandeur reproche à l’arrêt attaqué de ne pas avoir constaté légalement que la prévention I.1 d’association de malfaiteurs qui lui était reprochée ne faisait pas partie de la saisine des juges d’appel et, partant, d’avoir omis de statuer sur cette prévention.<br>
+       Mais en page 12 de l’arrêt attaqué, les juges d’appel ont jugé que l’acquittement dont le demandeur a bénéficié en première instance du chef de la prévention I.1 avait un caractère définitif.<br>
+       Le demandeur est sans intérêt à critiquer cette décision qui lui est favorable.<br>
+       Partant, le moyen est irrecevable.<br>
+       Le deuxième moyen:<br>
+       Le moyen est pris de la violation des articles 510 et 517 du Code pénal.<br>
+       Le demandeur reproche à l’arrêt attaqué de ne pas avoir procédé à l’examen de sa responsabilité pénale personnelle en tant que participant dans les faits de la prévention G d’incendie de propriétés mobilières avec la circonstance que le feu s’est communiqué à un immeuble d’habitation. Le moyen soutient que l’arrêt attaqué reste en défaut d’établir en quoi le demandeur, qui n’était pas sur place, pouvait présumer que la disposition des véhicules incendiés aurait pour effet que le feu se communiquerait, dans le cours normal des choses, à l’immeuble des victimes.<br>
+       L’article 517 du Code pénal dispose que lorsque le feu se sera communiqué de l’objet que le coupable voulait brûler à un autre objet dont la destruction emporte une peine plus forte, cette dernière peine sera prononcée, si les deux choses étaient placées de manière que l’incendie a dû nécessairement se communiquer de l’une à l’autre.<br>
+       Cette disposition présume dans le chef de l’auteur la volonté de communiquer le feu sur la base de la seule configuration matérielle des lieux, l’élément moral étant donc totalement déduit de l’élément matériel du crime. Toutefois l’incendie secondaire doit dériver du cours normal ou naturel des choses, ce qui suppose donc nécessairement une contiguïté qui n’a pas pu échapper au prévenu(1).<br>
+       Dans une telle hypothèse, il suffit au ministère public de démontrer que, d’après la disposition des lieux, le feu devait nécessairement se communiquer de l’objet auquel il a été mis à celui auquel il s’est communiqué en ce sens que dans les circonstances concrètes de la cause, la communication du feu de l’un à l’autre ait été dans le cours normal des choses et que l’agent avait effectivement prévu l’éventualité de cette communication(2).<br>
+       S’agissant de l’imputation de cette circonstance aggravante au participant, il y a lieu de se référer ici à la jurisprudence dite « Goktepe » qui se trouve codifiée dans l’article 20 du Code pénal du 29 février 2024 qui prévoit que sera puni comme l’auteur ou le participant de l’infraction aggravée l’auteur ou le participant qui avait connaissance ou devait avoir connaissance de l’existence d’un élément aggravant objectif ou d’un facteur aggravant objectif de l’infraction ou qui savait ou devait savoir que la réalisation de cet élément ou de ce facteur s’inscrivait dans le cours normal ou prévisible des événements et qui, en connaissance de cause, a persisté dans sa volonté de s’associer à la commission de l’infraction(3).<br>
+       En l’espèce, en réponse à la défense du demandeur qui faisait valoir que n’étant pas sur place, il n’aurait pas pu prévoir que les voitures étaient disposées de manière telle que l’habitation aurait été touchée par les flammes, l’arrêt attaqué considère à la page 30 que :<br>
+       -	les auteurs matériels de l’incendie aux véhicules, à savoir le tiers demeuré inconnu et N.B. n’ont pu se méprendre sur leur mission ni l’outrepasser puisque ce tiers s’était prémuni d’un bidon d’essence et d’une mèche pour se rendre sur les lieux avant de bouter le feu ;<br>
+       -	les propos de N.B. – corroborés par divers éléments objectifs décrits ci-avant dans l’arrêt - mentionnent un dessein précis qui est de bouter le feu tel que décrit ;<br>
+       -	en tout état de cause, la configuration des lieux ne laissait aucun doute sur le fait que le feu allait se propager à l’immeuble; a minima le demandeur en a accepté le risque.<br>
+       Ces considérations sont à mettre en relation avec celles figurant à la page 23 de l’arrêt attaqué où les juges d’appel évoquent, dans les termes suivants, les propos de Nathan Baumgarten en précisant que ce dernier est en aveu des faits et qu’il désigne le demandeur comme commanditaire des faits :<br>
+       « Concernant ces faits, G. m’a demandé de mettre le feu à ces voitures mais j’ai refusé. Il m’a montré des photos des deux véhicules qui étaient garés devant. Je ne sais plus quel genre de véhicules. Il m’a conduit sur place de nuit afin de me montrer la disposition des lieux. Il m’a dit que c’était une femme qui [travaille] à la prison de Marche ».<br>
+       Il me semble que de ces considérations lues dans leur ensemble et de la constatation faite en page 17 que les deux véhicules incendiés étaient stationnés à l’avant de la propriété sur un emplacement de parking très proche de l’habitation elle-même, les juges d’appel ont pu déduire que le demandeur avait connaissance de la disposition des lieux et a pu prévoir que les voitures étaient disposées de manière telle que l’habitation aurait été touchée par les flammes.<br>
+       Le moyen qui me paraît reposer sur une lecture incomplète de l’arrêt attaqué manque en fait.<br>
+       Le troisième moyen.<br>
+       Le moyen est pris de la violation des articles 6.1 de la Convention de sauvegarde des droits de l’homme et des libertés fondamentales, 195 et 211 du Code d’instruction criminelle, 37quinquies du Code pénal et 8, § 1er, alinéa 1, in fine, de la loi du 29 juin 1964 concernant la suspension, le sursis et la probation.<br>
+       Le demandeur reproche aux juges d’appel de ne pas avoir motivé le rejet de ses demandes figurant dans son formulaire de griefs d’appel, dans ses conclusions et, enfin, actées au procès-verbal de l’audience, de bénéficier à titre subsidiaire d’une peine de probation autonome, à titre infiniment subsidiaire d’une peine de travail autonome ou d’une mesure de sursis probatoire.<br>
+       En application de l’article 8, § 1er, alinéa 4, de la loi du 29 juin 1964 concernant la suspension, le sursis et la probation, la décision ordonnant ou refusant le sursis doit être motivée conformément aux dispositions de l’article 195 du Code d’instruction criminelle(4).<br>
+       En outre, lorsque le juge refuse de prononcer une peine de travail demandée par le prévenu, il doit motiver son refus (art. 37quinquies, § 3, al. 2 C. pén.). La même règle est prévue également pour la peine de probation autonome (art. 37octies, § 3, al. 2 C. pén.).<br>
+       La jurisprudence de la Cour est fort abondante sur la portée de ces obligations de motivation.<br>
+       La Cour a ainsi jugé qu’il résulte de l’article 8, § 1er, alinéa 4, de la loi du 29 juin 1964 concernant la suspension, le sursis et la probation et de l’article 195, alinéa [5], du Code d’instruction criminelle que le juge qui refuse le sursis (probatoire) à l’exécution doit motiver cette décision d’une manière qui peut être succincte, mais doit être précise; le juge peut également satisfaire à cette obligation de motivation en imposant une peine effective et en motivant la décision d’infliger la peine effective conformément aux articles 163, alinéa 2, 195, alinéa [5], et 211 du Code d’instruction criminelle(5).<br>
+       A propos du refus de l’octroi d’une peine de travail qui est subordonné à une obligation de motivation similaire, la jurisprudence de la Cour a connu des évolutions en sens divers(6). Initialement, la Cour avait interprété cette exigence de motivation spécifique de manière fort souple, considérant que « si l’article 37[quinquies], § 3, alinéa 2 du Code pénal prévoit que le juge qui refuse de prononcer une peine de travail doit motiver sa décision, cette disposition ne précise pas cette obligation de motivation et ne renvoie notamment pas aux exigences de spécificité de l’article 195, alinéa [5] du Code d’instruction criminelle »(7). À l’estime de la Cour, il s’en déduisait qu’en indiquant les raisons du choix de la nature et du degré des peines qu'il prononce de préférence à la peine de travail, le tribunal motivait régulièrement sa décision de ne pas prononcer celle-ci(8).<br>
+       Cette interprétation souple faite par la Cour de l’obligation de motivation spécifique instaurée par l’article 37ter du Code pénal ne paraît pas rencontrer la volonté du législateur de voir prise au sérieux l’éventualité d’une peine de travail et explicités les motifs de refus de pareille peine(9) et dans un arrêt de 2008, la Cour a semblé s’écarter de sa jurisprudence initiale en considérant que lorsque le prévenu sollicite une peine de travail, le refus d’octroyer une telle peine doit être motivé par des considérations distinctes de la motivation relative au choix et au degré de la peine prévue par l’article 195, alinéa [5], du Code d’instruction criminelle(10). Depuis lors, toutefois, la Cour en est revenue à son interprétation souple, considérant à nouveau, au fil de nombreux arrêts, que le refus de prononcer une peine de travail, malgré une requête en ce sens adressée au juge, peut être motivé par l’énonciation des raisons d’infliger une peine, voire plusieurs, autre(s) que la peine de travail(11) et qu’aucune disposition légale ne prescrit l'obligation de motiver distinctement le choix de la peine et le refus d'octroyer la peine de travail demandée par le prévenu ou requise par le ministère public(12).<br>
+       Il me semble que la position actuelle de la Cour peut être résumée comme suit : lorsque le prévenu sollicite une peine de travail, une peine de probation autonome ou un sursis (probatoire) à l’exécution de la peine et qu’il remplit les conditions légales pour en bénéficier, le juge peut motiver sa décision de refus, soit par des raisons spécifiques, soit en décidant de prononcer d’autres peines dont il motive le choix et le degré conformément à l'article 195, alinéa [5], du Code d’instruction criminelle ; l'article 149 de la Constitution, les articles 37quinquies, § 3, et 37octies, § 3 du Code pénal et l'article 8, § 4, de la loi sur la probation n'obligent pas le juge qui refuse de prononcer une peine de travail, une peine de probation autonome ou un sursis (probatoire) à l’exécution de la peine, à motiver nécessairement ce refus de manière autonome, c'est-à-dire avec un raisonnement indépendant. Cela ne rend pas pour autant l'obligation de motivation dénuée de tout contenu ; il est nécessaire mais suffisant que l'accusé sache pourquoi il a été condamné à une ou plusieurs peines et, par conséquent, qu'il sache également pourquoi il n'a pas été condamné à une peine de travail ou une peine de probation autonome ou pourquoi il n'a pas bénéficié d'un sursis (probatoire) à l'exécution de la peine(13).<br>
+       Il a ainsi été jugé que lorsqu’aucune considération de l’arrêt attaqué ne permet à la prévenue de comprendre la raison pour laquelle la peine de travail sollicitée lui a été refusée alors que les juges d’appel ont relevé les éléments de sa personnalité montrant que depuis plusieurs années, elle a cherché à assurer son insertion professionnelle, la cour d’appel ne motive pas son refus d’octroyer cette sanction(14).<br>
+       Dans la présente cause, la cour d’appel a réduit la peine d’emprisonnement prononcée par le premier juge à une durée de cinq ans, et a condamné le demandeur à une interdiction des droits énoncés à l’article 31, alinéa 1er du Code pénal pendant cinq ans.<br>
+       L’arrêt motive ces peines en se référant à l’extrême gravité des faits, à la nécessité de rappeler au demandeur le respect dû à l’intégrité physique et à la propriété d’autrui, aux conséquences importantes des faits chez les victimes, à ses nombreux antécédents judiciaires dénotant un ancrage incoercible dans la délinquance, à sa personnalité telle qu’elle ressort du dossier répressif et notamment de l’expertise psychologique, à son état de récidive légale, mais également à sa bonne insertion professionnelle et au constat qu’il a, depuis sa libération, respecté les conditions qui lui ont été imposées.<br>
+       La cour d’appel a ensuite souligné que si le demandeur avait agi, animé par un désir de vengeance, se croyant injustement traité dans le cadre de procédures familiales et vivant mal l’éloignement de sa fille, cela atténue très peu sa responsabilité. La prévention G aurait, selon les juges d’appel, pu avoir une issue gravissime, les flammes risquant de ravager la maison des victimes, et, en premier lieu, la chambre où dormait leur enfant.<br>
+       L’arrêt énonce enfin qu’il ne faut pas sous-estimer la dimension symbolique de ce dossier. La conscience sociale ne saurait en effet accepter qu’il soit permis de cibler impunément les membres d’un service parajudiciaire dans le but de les décourager, voire de compromettre l’accomplissement de leur mission. La sanction doit être proportionnée aux faits commis, à la crainte qu’ont suscité et suscitent encore les agissements du demandeur, ainsi qu’au but qu’il poursuivait. La cour d’appel considère enfin qu’il convient d’opposer à de telles actions la crainte révérencielle que doit inspirer la loi, appliquée avec une rigueur sans compromis.<br>
+       Bien que cela ne soit pas clairement énoncé, il me semble que par ces motifs, les juges d’appel ont ainsi donné à connaître de façon implicite les raisons pour lesquelles ils ont fait le choix de la peine d’emprisonnement plutôt que celui d’infliger la peine de probation ou la peine de travail sollicitées par le demandeur.<br>
+       En revanche, je suis plus perplexe quant à l’obligation qu’avaient les juges d’appel de motiver le refus de l’octroi du sursis probatoire – total ou partiel – sollicité à titre subsidiaire par le demandeur. En effet, l’arrêt ne dit pas un mot quant au caractère ferme ou non de la peine d’emprisonnement dont le taux ramené à cinq ans permettait l’octroi d’un sursis alors que les juges d’appel ont relevé par ailleurs la bonne insertion professionnelle du demandeur et le fait qu’il avait, depuis sa libération, respecté les conditions qui lui ont été imposées.<br>
+       Si la Cour devait estimer, comme je le pense, que les juges d’appel n’ont pas satisfait ainsi à l’obligation de motiver le refus d’octroi d’un sursis probatoire – total ou partiel –, il y aurait lieu de casser avec renvoi l’arrêt attaqué en tant qu’il statue sur la peine et qu’il ordonne la condamnation du demandeur au paiement de la contribution au fonds spécial pour l’aide aux victimes d’actes intentionnels de violence et aux sauveteurs occasionnels.<br>
+       Pour le surplus, les formalités substantielles ou prescrites à peine de nullité me paraissent avoir été observées et la décision est conforme à la loi.<br>
+       B. 	En tant que le pourvoi est dirigé contre les décisions rendues sur les actions civiles exercées par les défendeurs contre le demandeur:<br>
+       Il n’apparaît pas des pièces de la procédure que la déclaration de pourvoi ait été, conformément à l’article 427 du Code d’instruction criminelle, signifiée aux parties contre lesquelles le pourvoi est dirigé.<br>
+       Le pourvoi est, partant, irrecevable.<br>
+       Je conclus à la cassation avec renvoi de l’arrêt attaqué en tant qu’il statue sur la peine et qu’il ordonne la condamnation du demandeur au paiement de la contribution au fonds spécial pour l’aide aux victimes d’actes intentionnels de violence et au rejet du pourvoi pour le surplus.<br>
+       _______________________________<br>
+       (1) A. DELANNAY, « Destructions, dégradations, dommages », in Les infractions – Vol.1. Les infractions contre les biens, Bruxelles, Larcier 2016, p. 548.<br>
+       (2) A. DE NAUW et F. KUTY, Manuel de droit pénal spécial, Liège, Wolters Kluwer 2018, p. 1119.<br>
+       (3) T. MOREAU, D. VANDERMEERSCH et J.-M. HAUSMAN, Eléments de droit pénal, Bruxelles, La Charte 2024, p. 196 à 200 ; Cass. 20 octobre 2020, RG <span>P.20.0781.N&nbsp;<a href="/content/ECLI:BE:CASS:2020:ARR.20201020.2N.10/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2020:ARR.20201020.2N.10" target="_new">ECLI:BE:CASS:2020:ARR.20201020.2N.10</a></span>, Pas. 2020, n° 650.<br>
+       (4) Cass. 16 janvier 2018, RG <span>P.17.0437.N&nbsp;<a href="/content/ECLI:BE:CASS:2018:ARR.20180116.4/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2018:ARR.20180116.4" target="_new">ECLI:BE:CASS:2018:ARR.20180116.4</a></span>, Pas. 2018, n° 31 ; Cass. 16 janvier 2002, RG <span>P.01.0948.F&nbsp;<a href="/content/ECLI:BE:CASS:2002:ARR.20020116.31/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2002:ARR.20020116.31" target="_new">ECLI:BE:CASS:2002:ARR.20020116.31</a></span>, Pas. 2002, n° 30.<br>
+       (5) Cass. 17 novembre 2020, RG <span>P.20.0861.N&nbsp;<a href="/content/ECLI:BE:CASS:2020:ARR.20201117.2N.8/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2020:ARR.20201117.2N.8" target="_new">ECLI:BE:CASS:2020:ARR.20201117.2N.8</a></span>, Pas. 2020, n° 702.<br>
+       (6) Voy., à ce sujet, M.-A. BEERNAERT, D. VANDERMEERSCH et M. GIACOMETTI, Droit de la procédure pénale, Bruxelles, La Charte, 10ième éd., 2025, pp.1779 à 1781.<br>
+       (7) Cass. 8 juin 2005, RG <span>P.05.0349.F&nbsp;<a href="/content/ECLI:BE:CASS:2005:ARR.20050608.4/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2005:ARR.20050608.4" target="_new">ECLI:BE:CASS:2005:ARR.20050608.4</a></span>, Pas. 2005, n° 327.<br>
+       (8) Cass. 8 juin 2005, RG <span>P.05.0349.F&nbsp;<a href="/content/ECLI:BE:CASS:2005:ARR.20050608.4/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2005:ARR.20050608.4" target="_new">ECLI:BE:CASS:2005:ARR.20050608.4</a></span>, Pas. 2005, n° 327 ; Cass. 12 février 2003, RG <span>P.02.1530.F&nbsp;<a href="/content/ECLI:BE:CASS:2003:ARR.20030212.26/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2003:ARR.20030212.26" target="_new">ECLI:BE:CASS:2003:ARR.20030212.26</a></span>, Pas. 2003, n° 102, Rev. dr. pén. crim., 2003, p. 921, note « La motivation du refus d’appliquer la peine de travail », JLMB 2003, p. 1310, note A. JACOBS, « La motivation du refus de prononcer une peine de travail ».<br>
+       (9)  Voy., à ce sujet, A. JACOBS, « La motivation du refus d’appliquer la peine de travail », note sous Cass. 12 février 2003, RG <span>P.02.1530.F&nbsp;<a href="/content/ECLI:BE:CASS:2003:ARR.20030212.26/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2003:ARR.20030212.26" target="_new">ECLI:BE:CASS:2003:ARR.20030212.26</a></span>, Pas. 2003, n° 102, JLMB, pp. 1313-1315.<br>
+       (10)10 Cass. 24 septembre 2008, RG <span>P.08.1234.F&nbsp;<a href="/content/ECLI:BE:CASS:2008:ARR.20080924.1/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2008:ARR.20080924.1" target="_new">ECLI:BE:CASS:2008:ARR.20080924.1</a></span>, Pas. 2008, n° 504, avec concl. MP.; T. Strafr., 2009, p. 307, note E. BAEYENS.<br>
+       (11) Cass. 14 novembre 2017, RG <span>P.17.0171.N&nbsp;<a href="/content/ECLI:BE:CASS:2017:ARR.20171114.6/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2017:ARR.20171114.6" target="_new">ECLI:BE:CASS:2017:ARR.20171114.6</a></span>, Pas. 2017, n° 643 ; Cass. 3 octobre 2017, RG <span>P.16.0988.N&nbsp;<a href="/content/ECLI:BE:CASS:2017:ARR.20171003.3/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2017:ARR.20171003.3" target="_new">ECLI:BE:CASS:2017:ARR.20171003.3</a></span>, Pas. 2017, n° 519 ; Cass. 23 juin 2015, RG <span>P.14.0545.N&nbsp;<a href="/content/ECLI:BE:CASS:2015:ARR.20150623.2/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2015:ARR.20150623.2" target="_new">ECLI:BE:CASS:2015:ARR.20150623.2</a></span>, Pas. 2015, n° 427, avec concl. de M. DECREUS, avocat général, publiées à leur date dans AC.<br>
+       (12) Cass. 14 mars 2017, RG <span>P.15.1380.N&nbsp;<a href="/content/ECLI:BE:CASS:2017:ARR.20170314.4/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2017:ARR.20170314.4" target="_new">ECLI:BE:CASS:2017:ARR.20170314.4</a></span>, Pas. 2017, n° 178.<br>
+       (13) Cass. 6 juin 2023, RG <span>P.23.0318.N&nbsp;<a href="/content/ECLI:BE:CASS:2023:ARR.20230606.2N.1/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2023:ARR.20230606.2N.1" target="_new">ECLI:BE:CASS:2023:ARR.20230606.2N.1</a></span>, Pas. 2023, n° 409 ; Cass. 25 mai 2022, RG <span>P.22.0255.F&nbsp;<a href="/content/ECLI:BE:CASS:2022:ARR.20220525.2F.5/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2022:ARR.20220525.2F.5" target="_new">ECLI:BE:CASS:2022:ARR.20220525.2F.5</a></span>, Pas. 2022, n° 379, avec concl. MP; Cass. 4 février 2020, RG <span>P.19.1162.N&nbsp;<a href="/content/ECLI:BE:CASS:2020:ARR.20200204.2N.17/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2020:ARR.20200204.2N.17" target="_new">ECLI:BE:CASS:2020:ARR.20200204.2N.17</a></span>, Pas. 2020, n° 99, NC 2021, p. 154, note de M. VERDICKT, « De (negatieve) motivering van de straf : tussen verplichting en vrijheid van de strafrechter ».<br>
+       (14) Cass. 8 novembre 2023, RG <span>P.23.0992.F&nbsp;<a href="/content/ECLI:BE:CASS:2023:ARR.20231108.2F.3/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2023:ARR.20231108.2F.3" target="_new">ECLI:BE:CASS:2023:ARR.20231108.2F.3</a></span>, Pas. 2023, n° 717, avec concl. MP.
+    </p>
+      </div>
+       <p><a href="/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250604.2F.4_FR.pdf?Version=1755853448" title="PDF document, version 1.7, 6 pages ECLI:BE:CASS:2025:CONC.20250604.2F.4 FR " target="_blank">Document PDF ECLI:BE:CASS:2025:CONC.20250604.2F.4</a>
+       </p>
+       </fieldset>
+       <fieldset>
+            <legend title="">Publication(s) liée(s)            </legend>  
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>Jugement/arrêt:</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2025:ARR.20250604.2F.4/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250604.2F.4" target="_self">ECLI:BE:CASS:2025:ARR.20250604.2F.4</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>citant:</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2002:ARR.20020116.31/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2002:ARR.20020116.31" target="_self">ECLI:BE:CASS:2002:ARR.20020116.31</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2003:ARR.20030212.26/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2003:ARR.20030212.26" target="_self">ECLI:BE:CASS:2003:ARR.20030212.26</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2005:ARR.20050608.4/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2005:ARR.20050608.4" target="_self">ECLI:BE:CASS:2005:ARR.20050608.4</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2008:ARR.20080924.1/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2008:ARR.20080924.1" target="_self">ECLI:BE:CASS:2008:ARR.20080924.1</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2015:ARR.20150623.2/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2015:ARR.20150623.2" target="_self">ECLI:BE:CASS:2015:ARR.20150623.2</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2017:ARR.20170314.4/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2017:ARR.20170314.4" target="_self">ECLI:BE:CASS:2017:ARR.20170314.4</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2017:ARR.20171003.3/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2017:ARR.20171003.3" target="_self">ECLI:BE:CASS:2017:ARR.20171003.3</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2017:ARR.20171114.6/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2017:ARR.20171114.6" target="_self">ECLI:BE:CASS:2017:ARR.20171114.6</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2018:ARR.20180116.4/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2018:ARR.20180116.4" target="_self">ECLI:BE:CASS:2018:ARR.20180116.4</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2020:ARR.20200204.2N.17/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2020:ARR.20200204.2N.17" target="_self">ECLI:BE:CASS:2020:ARR.20200204.2N.17</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2020:ARR.20201020.2N.10/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2020:ARR.20201020.2N.10" target="_self">ECLI:BE:CASS:2020:ARR.20201020.2N.10</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2020:ARR.20201117.2N.8/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2020:ARR.20201117.2N.8" target="_self">ECLI:BE:CASS:2020:ARR.20201117.2N.8</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2022:ARR.20220525.2F.5/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2022:ARR.20220525.2F.5" target="_self">ECLI:BE:CASS:2022:ARR.20220525.2F.5</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2023:ARR.20230606.2N.1/NL" rel="balloon_none" title="Vonnis/arrest ECLI:BE:CASS:2023:ARR.20230606.2N.1" target="_self">ECLI:BE:CASS:2023:ARR.20230606.2N.1</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>&nbsp;</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2023:ARR.20231108.2F.3/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2023:ARR.20231108.2F.3" target="_self">ECLI:BE:CASS:2023:ARR.20231108.2F.3</a>         </p>
+      </div>
+    </div>
+       </fieldset>
+        <!-- Commandes de navigation page détail--> 
+
+      <div class="DZZUDCZHZ5wkUyG7TKxuP98ZUG24bqK2FSUVw3768zst8lZXwpY" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DZZUDCZHjdtGmybMPswIQA1I9GjPhQ" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Imprimer cette page sur votre imprimante" onclick="javascript:window.print();">
+                  Imprimer cette page          </button>
+          &nbsp; 
+
+          Taille d'impression          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Taille d'impression">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DZZUDCZHLYmwXiE3KcFItW3YsHmXg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Exécuter une nouvelle recherche JUPORTAL">
+                  Nouvelle recherche JUPORTAL          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DZZUDCZHLYmwXiE3KcFItW3YsHmXg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Fermer l'onglet détail" onclick="javascript:window.close();">
+                  Fermer l'onglet          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+    </form>
+    </div>
+<!-- Action LOG 
+function JUPORTARecordLogViewDecision  $iubel_id        : 284423
+                                       $action_type     : VIEW
+                                      &$action_startmt  : 1756084806.4608
+                                      &$action_duration : 228
+                                      &$addressipremote : 98.109.187.131
+                                      &$latitude        : '40.9238000'
+                                      &$longitude       : '-73.9989000'
+                                      &$accuracy        : null
+                                      &$altitude        : null
+                                      &$langue_view     : FR
+-->
+<!-- Action_duration 228 millisec --> 
+      <!-- end of main block (division "content") -->
+
+    </div>
+    <!-- end of division "page_main" -->
+    <div id="page_footer">
+        <div id="page_footer_contact" title="Pour toute demande d'information ou suggestion à l'équipe de développement, veuillez nous contacter" rel="balloon_contact">
+              ✉ <a href="mailto:info-JUPORTAL@just.fgov.be">info-JUPORTAL@just.fgov.be</a>
+        </div>
+        <div id="page_footer_copyright" title="Copyright ©&nbsp; 2017-2025&nbsp;Service ICT - SPF Justice - tous droits réservés" rel="balloon_copyright">
+              ©&nbsp; 2017-2025&nbsp;Service ICT - SPF Justice
+        </div>
+
+    </div>
+
+  </div>
+  <!-- end of division "conteneur" -->
+
+  <!-- Balloon system info -->
+  <div id="balloon_system_info" class="balloonstyle" style="height: 128px; width: 400px">
+      <p>
+          Powered by PHP 8.4.7
+      </p>
+      <p>
+          Server Software Apache/2.4.62
+      </p>
+      <p>
+          == Fluctuat nec mergitur ==
+      </p>
+  </div>
+  <!-- Balloon system info -->
+          <!-- BalloonObjectPrepa Start -->
+          <!-- BalloonObjectPrepa End -->
+
+
+</body></html>

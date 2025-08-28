@@ -1,0 +1,150 @@
+{
+  "file": "src/htmls/ECLI_BE_CASS_2025_ARR.20250604.2F.15_NL.txt",
+  "lang": "FR",
+  "title": "ECLI:BE:CASS:2025:ARR.20250604.2F.15",
+  "anchor_used": "#content1",
+  "tables": {
+    "champ_notice": [],
+    "description_notice": []
+  },
+  "sections": [
+    {
+      "legend": "Jugement/arrêt du 04 juin 2025",
+      "paragraphs": [
+        {
+          "text": "No ECLI:",
+          "html": "<p class=\"DHZUDCZHLsj4yfedAH4vhIb05QNWn3GpN08ONAKfKdnXCz2UhM\">No ECLI:</p>"
+        },
+        {
+          "text": "ECLI:BE:CASS:2025:ARR.20250604.2F.15",
+          "html": "<p class=\"DHZUDCZHCQYkssm4MfpXNosAyqzPvezJcZgL0rXlyNOtuAxRbw\">ECLI:BE:CASS:2025:ARR.20250604.2F.15</p>"
+        },
+        {
+          "text": "No Rôle:",
+          "html": "<p class=\"DHZUDCZHLsj4yfedAH4vhIb05QNWn3GpN08ONAKfKdnXCz2UhM\">No Rôle:</p>"
+        },
+        {
+          "text": "P.25.0382.F",
+          "html": "<p class=\"DHZUDCZHCQYkssm4MfpXNosAyqzPvezJcZgL0rXlyNOtuAxRbw\">P.25.0382.F</p>"
+        },
+        {
+          "text": "Affaire:",
+          "html": "<p class=\"DHZUDCZHLsj4yfedAH4vhIb05QNWn3GpN08ONAKfKdnXCz2UhM\">Affaire:</p>"
+        },
+        {
+          "text": "TWINS IMMO c. CENTRE PUBLIC D'ACTION SOCIALE",
+          "html": "<p class=\"DHZUDCZHCQYkssm4MfpXNosAyqzPvezJcZgL0rXlyNOtuAxRbw\">TWINS IMMO c. CENTRE PUBLIC D'ACTION SOCIALE</p>"
+        },
+        {
+          "text": "Chambre:",
+          "html": "<p class=\"DHZUDCZHLsj4yfedAH4vhIb05QNWn3GpN08ONAKfKdnXCz2UhM\">Chambre:</p>"
+        },
+        {
+          "text": "2F - deuxième chambre",
+          "html": "<p class=\"DHZUDCZHCQYkssm4MfpXNosAyqzPvezJcZgL0rXlyNOtuAxRbw\">2F - deuxième chambre\n      </p>"
+        },
+        {
+          "text": "Domaine juridique:",
+          "html": "<p class=\"DHZUDCZHLsj4yfedAH4vhIb05QNWn3GpN08ONAKfKdnXCz2UhM\">Domaine juridique:</p>"
+        },
+        {
+          "text": "Droit pénal",
+          "html": "<p class=\"DHZUDCZHCQYkssm4MfpXNosAyqzPvezJcZgL0rXlyNOtuAxRbw\">\n Droit pénal</p>"
+        },
+        {
+          "text": "Date d'introduction:",
+          "html": "<p class=\"DHZUDCZHLsj4yfedAH4vhIb05QNWn3GpN08ONAKfKdnXCz2UhM\">Date d'introduction:</p>"
+        },
+        {
+          "text": "2025-08-20",
+          "html": "<p class=\"DHZUDCZHCQYkssm4MfpXNosAyqzPvezJcZgL0rXlyNOtuAxRbw\">2025-08-20</p>"
+        },
+        {
+          "text": "Consultations:",
+          "html": "<p class=\"DHZUDCZHLsj4yfedAH4vhIb05QNWn3GpN08ONAKfKdnXCz2UhM\">Consultations:</p>"
+        },
+        {
+          "text": "105 - dernière vue 2025-08-25 03:28",
+          "html": "<p class=\"DHZUDCZHCQYkssm4MfpXNosAyqzPvezJcZgL0rXlyNOtuAxRbw\">105 - dernière vue 2025-08-25 03:28</p>"
+        }
+      ],
+      "body_text": "No ECLI:\n\nECLI:BE:CASS:2025:ARR.20250604.2F.15\n\nNo Rôle:\n\nP.25.0382.F\n\nAffaire:\n\nTWINS IMMO c. CENTRE PUBLIC D'ACTION SOCIALE\n\nChambre:\n\n2F - deuxième chambre\n\nDomaine juridique:\n\nDroit pénal\n\nDate d'introduction:\n\n2025-08-20\n\nConsultations:\n\n105 - dernière vue 2025-08-25 03:28"
+    },
+    {
+      "legend": "Fiche 1",
+      "paragraphs": [
+        {
+          "text": "Thésaurus Cassation:",
+          "html": "<p class=\"champ-notice-table\">Thésaurus Cassation:</p>"
+        },
+        {
+          "text": "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Effets. Compétence du juge",
+          "html": "<p class=\"description-notice-table\">APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Effets. Compétence du juge\n</p>"
+        }
+      ],
+      "body_text": "Thésaurus Cassation:\n\nAPPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Effets. Compétence du juge"
+    },
+    {
+      "legend": "Fiche 2",
+      "paragraphs": [
+        {
+          "text": "",
+          "html": "<p class=\"champ-notice-table\"></p>"
+        },
+        {
+          "text": "INFRACTION - IMPUTABILITE - Personnes morales",
+          "html": "<p class=\"description-notice-table\">INFRACTION - IMPUTABILITE - Personnes morales\n</p>"
+        }
+      ],
+      "body_text": "INFRACTION - IMPUTABILITE - Personnes morales"
+    },
+    {
+      "legend": "Texte de la décision",
+      "paragraphs": [
+        {
+          "text": "N° P.25.0382.F TWINS IMMO, société anonyme, dont le siège est établi à Bruxelles, avenue de la Reine, 197/1, inscrite à la banque-carrefour des entreprises sous le numéro 0466.650.964, prévenue, demanderesse en cassation, ayant pour conseil Maître Antoine Chomé, avocat au barreau de Bruxelles, contre 1. CENTRE PUBLIC D’ACTION SOCIALE DE SAINT-JOSSE-TEN-NOODE, dont les bureaux sont établis à Saint-Josse-ten-Noode, rue Verbist, 88, inscrit à la banque-carrefour des entreprises sous le numéro 0212.347.846, 2. UNION NATIONALE DES MUTUALITES LIBRES, dont le siège est établi à Anderlecht, route de Lennik, 788/A, inscrite à la banque-carrefour des entreprises sous le numéro 0411.766.483, parties civiles, défendeurs en cassation. I. LA PROCÉDURE DEVANT LA COUR Le pourvoi est dirigé contre trois arrêts rendus respectivement le 5 octobre 2021 sous le numéro 1329, le 21 février 2024 sous le numéro 275, et le 3 février 2025 sous le numéro 190, par la cour d’appel de Bruxelles, chambre correctionnelle. La demanderesse invoque cinq moyens dans un mémoire annexé au présent arrêt, en copie certifiée conforme. A l’audience du 28 mai 2025, le président de section chevalier Jean de Codt a fait rapport et le premier avocat général Michel Nolet de Brauwere a conclu. II. LA DÉCISION DE LA COUR A. Sur le pourvoi dirigé contre l’arrêt rendu le 5 octobre 2021 : Sur le deuxième moyen : Les articles 2.1 du Protocole n° 7 additionnel à la Convention de sauvegarde des droits de l’homme et des libertés fondamentales, et 14.5 du Pacte international relatif aux droits civils et politiques, ne s’appliquent pas aux personnes qui, en vertu de la loi belge, sont directement déférées à une juridiction supérieure telle que la cour d’appel. Tel est le cas lorsque, conformément à l’article 215 du Code d’instruction criminelle, les juges d’appel évoquent la cause dont ils ont été saisis. Reposant sur l’affirmation du contraire, le moyen manque en droit. Et les formalités substantielles ou prescrites à peine de nullité ont été observées et la décision est conforme à la loi. B. Sur le pourvoi dirigé contre l’arrêt rendu le 21 février 2024 : 1. En tant que le pourvoi est dirigé contre la décision rendue sur l’action publique exercée à charge de la demanderesse : Sur le premier moyen : Pris de la violation de l’article 149 de la Constitution, le moyen reproche à l’arrêt de ne pas répondre aux conclusions de la demanderesse. Quant à la première branche : Des conclusions ont été adressées à la cour d’appel pour la demanderesse par un courrier de son conseil du 30 novembre 2022. Contrairement à ce que le moyen soutient, il n’apparaît pas que, dans cet écrit, la demanderesse ait élevé une défense déduite de la violation du droit à un double degré de juridiction. Le moyen manque en fait. Quant à la deuxième branche : Aux conclusions de la demanderesse contestant l’imputabilité, à la personne morale, des infractions commises par son dirigeant, l’arrêt oppose que ce dernier a utilisé sa société pour masquer l’existence des revenus qu’il tirait de son activité de promotion immobilière, revenus qui l’auraient empêché, sans cette dissimulation, de percevoir l’aide sociale et les indemnités de la mutuelle. L’arrêt fonde, en substance, l’imputabilité contestée sur une décision prise sciemment et volontairement au sein de la structure hiérarchique effective de l’être moral, étant souligné que la personne physique à l’intervention de laquelle ce dernier a agi, ou fautivement négligé d’agir, était l’actionnaire majoritaire et le seul gestionnaire de la société prévenue. L’arrêt associe la faute commise par la demanderesse à l’omission d’instituer en son sein le mécanisme de contrôle qui aurait pu faire échec à son utilisation en guise de paravent. Les juges d’appel ont, ainsi, répondu aux conclusions invoquées, et leur réponse est exempte de l’obscurité que la demanderesse lui prête. Le moyen manque en fait. Quant à la troisième branche : La décision du juge de ne pas ordonner la réouverture des débats est souveraine. Il n’est pas tenu de motiver cette décision. Il ne s’agit pas, en effet, d’une demande au sens de l’article 1138, 3°, du Code judiciaire. Reposant sur l’affirmation du contraire, le moyen manque en droit. Sur le troisième moyen : Selon la cour d’appel, le gérant de la société prévenue a sciemment et volontairement utilisé celle-ci pour dissimuler les revenus qu’il tirait de son activité immobilière, utilisation rendue possible par l’absence de tout contrôle de la personne morale sur son gérant. De cette motivation, il se déduit que, sans la société prévenue, la fraude n’aurait pas pu être réalisée telle qu’elle l’a été. Les juges d’appel ont pu, sur ce fondement, retenir l’existence d’une responsabilité pénale de la demanderesse du chef des infractions commises par la personne physique à l’intervention de laquelle la faute a été commise. Le moyen ne peut être accueilli. Sur le quatrième moyen : Il est reproché à la cour d’appel de ne pas avoir autorisé la demanderesse à participer aux débats tenus dans une cause distincte, relative aux poursuites exercées séparément à charge de son actionnaire-gérant. La demanderesse y voit une violation des droits de la défense, en ce qu’elle n’a pas pu, à l’audience, interroger ou faire interroger un témoin à charge. Des conclusions déposées pour elle au greffe de la cour d’appel le 30 novembre 2022, il n’apparaît pas que la demanderesse ait sollicité l’audition de son gérant à l’audience. Nouveau, le moyen est irrecevable. Sur le cinquième moyen : Il est reproché à l’arrêt de prononcer la confiscation, par équivalent, d’une somme de deux cent vingt mille euros, sans identifier l’avantage patrimonial dont la demanderesse aurait bénéficié, ni le lien causal entre les infractions commises et cet avantage. Le juge répressif décide souverainement en fait qu’un avantage patrimonial sur lequel porte la confiscation spéciale, a été tiré directement d’une infraction. Dans la mesure où il conteste cette appréciation en fait, le moyen est irrecevable. En faisant partiellement droit aux réquisitions du ministère public, l’arrêt considère que la somme confisquée correspond aux avantages sociaux obtenus indûment au préjudice de la mutuelle et du centre public d’action sociale grâce à la participation de la société prévenue aux faits des préventions A.1 à D.2. Cette décision ne viole pas l’article 42, 3°, du Code pénal, visé au moyen. A cet égard, le moyen ne peut être accueilli. Le contrôle d’office Les formalités substantielles ou prescrites à peine de nullité ont été observées et la décision est conforme à la loi. 2. En tant que le pourvoi est dirigé contre les décisions rendues sur les actions civiles exercées par les défendeurs : La demanderesse n’invoque aucun moyen spécifique. C. Sur le pourvoi dirigé contre l’arrêt rendu le 3 février 2025 : Les formalités substantielles ou prescrites à peine de nullité ont été observées et la décision est conforme à la loi. PAR CES MOTIFS, LA COUR Rejette le pourvoi ; Condamne la demanderesse aux frais. Lesdits frais taxés à la somme de nonante euros quatre-vingt et un centimes dus. Ainsi jugé par la Cour de cassation, deuxième chambre, à Bruxelles, où siégeaient le chevalier Jean de Codt, président de section, Françoise Roggen, Tamara Konsek, Frédéric Lugentz et Ignacio de la Serna, conseillers, et prononcé en audience publique du quatre juin deux mille vingt-cinq par le chevalier Jean de Codt, président de section, en présence de Michel Nolet de Brauwere, premier avocat général, avec l’assistance de Tatiana Fenaux, greffier.",
+          "html": "<p>\n       N° P.25.0382.F<br/>\n       TWINS IMMO, société anonyme, dont le siège est établi à Bruxelles, avenue de la Reine, 197/1, inscrite à la banque-carrefour des entreprises sous le numéro 0466.650.964,<br/>\n       prévenue,<br/>\n       demanderesse en cassation,<br/>\n       ayant pour conseil Maître Antoine Chomé, avocat au barreau de Bruxelles,<br/>\n       contre<br/>\n       1.\tCENTRE PUBLIC D’ACTION SOCIALE DE SAINT-JOSSE-TEN-NOODE, dont les bureaux sont établis à Saint-Josse-ten-Noode, rue Verbist, 88, inscrit à la banque-carrefour des entreprises sous le numéro 0212.347.846,<br/>\n       2.\tUNION NATIONALE DES MUTUALITES LIBRES, dont le siège est établi à Anderlecht, route de Lennik, 788/A, inscrite à la banque-carrefour des entreprises sous le numéro 0411.766.483,<br/>\n       parties civiles,<br/>\n       défendeurs en cassation.<br/>\n       I.\tLA PROCÉDURE DEVANT LA COUR<br/>\n       Le pourvoi est dirigé contre trois arrêts rendus respectivement le 5 octobre 2021 sous le numéro 1329, le 21 février 2024 sous le numéro 275, et le 3 février 2025 sous le numéro 190, par la cour d’appel de Bruxelles, chambre correctionnelle.<br/>\n       La demanderesse invoque cinq moyens dans un mémoire annexé au présent arrêt, en copie certifiée conforme.<br/>\n       A l’audience du 28 mai 2025, le président de section chevalier Jean de Codt a fait rapport et le premier avocat général Michel Nolet de Brauwere a conclu.<br/>\n       II.\tLA DÉCISION DE LA COUR<br/>\n       A.\tSur le pourvoi dirigé contre l’arrêt rendu le 5 octobre 2021 :<br/>\n       Sur le deuxième moyen :<br/>\n       Les articles 2.1 du Protocole n° 7 additionnel à la Convention de sauvegarde des droits de l’homme et des libertés fondamentales, et 14.5 du Pacte international relatif aux droits civils et politiques, ne s’appliquent pas aux personnes qui, en vertu de la loi belge, sont directement déférées à une juridiction supérieure telle que la cour d’appel.<br/>\n       Tel est le cas lorsque, conformément à l’article 215 du Code d’instruction criminelle, les juges d’appel évoquent la cause dont ils ont été saisis.<br/>\n       Reposant sur l’affirmation du contraire, le moyen manque en droit.<br/>\n       Et les formalités substantielles ou prescrites à peine de nullité ont été observées et la décision est conforme à la loi.<br/>\n       B.\tSur le pourvoi dirigé contre l’arrêt rendu le 21 février 2024 :<br/>\n       1.\tEn tant que le pourvoi est dirigé contre la décision rendue sur l’action publique exercée à charge de la demanderesse :<br/>\n       Sur le premier moyen :<br/>\n       Pris de la violation de l’article 149 de la Constitution, le moyen reproche à l’arrêt de ne pas répondre aux conclusions de la demanderesse.<br/>\n       Quant à la première branche :<br/>\n       Des conclusions ont été adressées à la cour d’appel pour la demanderesse par un courrier de son conseil du 30 novembre 2022.<br/>\n       Contrairement à ce que le moyen soutient, il n’apparaît pas que, dans cet écrit, la demanderesse ait élevé une défense déduite de la violation du droit à un double degré de juridiction.<br/>\n       Le moyen manque en fait.<br/>\n       Quant à la deuxième branche :<br/>\n       Aux conclusions de la demanderesse contestant l’imputabilité, à la personne morale, des infractions commises par son dirigeant, l’arrêt oppose que ce dernier a utilisé sa société pour masquer l’existence des revenus qu’il tirait de son activité de promotion immobilière, revenus qui l’auraient empêché, sans cette dissimulation, de percevoir l’aide sociale et les indemnités de la mutuelle.<br/>\n       L’arrêt fonde, en substance, l’imputabilité contestée sur une décision prise sciemment et volontairement au sein de la structure hiérarchique effective de l’être moral, étant souligné que la personne physique à l’intervention de laquelle ce dernier a agi, ou fautivement négligé d’agir, était l’actionnaire majoritaire et le seul gestionnaire de la société prévenue.<br/>\n       L’arrêt associe la faute commise par la demanderesse à l’omission d’instituer en son sein le mécanisme de contrôle qui aurait pu faire échec à son utilisation en guise de paravent.<br/>\n       Les juges d’appel ont, ainsi, répondu aux conclusions invoquées, et leur réponse est exempte de l’obscurité que la demanderesse lui prête.<br/>\n       Le moyen manque en fait.<br/>\n       Quant à la troisième branche :<br/>\n       La décision du juge de ne pas ordonner la réouverture des débats est souveraine. Il n’est pas tenu de motiver cette décision. Il ne s’agit pas, en effet, d’une demande au sens de l’article 1138, 3°, du Code judiciaire.<br/>\n       Reposant sur l’affirmation du contraire, le moyen manque en droit.<br/>\n       Sur le troisième moyen :<br/>\n       Selon la cour d’appel, le gérant de la société prévenue a sciemment et volontairement utilisé celle-ci pour dissimuler les revenus qu’il tirait de son activité immobilière, utilisation rendue possible par l’absence de tout contrôle de la personne morale sur son gérant.<br/>\n       De cette motivation, il se déduit que, sans la société prévenue, la fraude n’aurait pas pu être réalisée telle qu’elle l’a été.<br/>\n       Les juges d’appel ont pu, sur ce fondement, retenir l’existence d’une responsabilité pénale de la demanderesse du chef des infractions commises par la personne physique à l’intervention de laquelle la faute a été commise.<br/>\n       Le moyen ne peut être accueilli.<br/>\n       Sur le quatrième moyen :<br/>\n       Il est reproché à la cour d’appel de ne pas avoir autorisé la demanderesse à participer aux débats tenus dans une cause distincte, relative aux poursuites exercées séparément à charge de son actionnaire-gérant.<br/>\n       La demanderesse y voit une violation des droits de la défense, en ce qu’elle n’a pas pu, à l’audience, interroger ou faire interroger un témoin à charge.<br/>\n       Des conclusions déposées pour elle au greffe de la cour d’appel le 30 novembre 2022, il n’apparaît pas que la demanderesse ait sollicité l’audition de son gérant à l’audience.<br/>\n       Nouveau, le moyen est irrecevable.<br/>\n       Sur le cinquième moyen :<br/>\n       Il est reproché à l’arrêt de prononcer la confiscation, par équivalent, d’une somme de deux cent vingt mille euros, sans identifier l’avantage patrimonial dont la demanderesse aurait bénéficié, ni le lien causal entre les infractions commises et cet avantage.<br/>\n       Le juge répressif décide souverainement en fait qu’un avantage patrimonial sur lequel porte la confiscation spéciale, a été tiré directement d’une infraction.<br/>\n       Dans la mesure où il conteste cette appréciation en fait, le moyen est irrecevable.<br/>\n       En faisant partiellement droit aux réquisitions du ministère public, l’arrêt considère que la somme confisquée correspond aux avantages sociaux obtenus indûment au préjudice de la mutuelle et du centre public d’action sociale grâce à la participation de la société prévenue aux faits des préventions A.1 à D.2.<br/>\n       Cette décision ne viole pas l’article 42, 3°, du Code pénal, visé au moyen.<br/>\n       A cet égard, le moyen ne peut être accueilli.<br/>\n       Le contrôle d’office<br/>\n       Les formalités substantielles ou prescrites à peine de nullité ont été observées et la décision est conforme à la loi.<br/>\n       2.\tEn tant que le pourvoi est dirigé contre les décisions rendues sur les actions civiles exercées par les défendeurs :<br/>\n       La demanderesse n’invoque aucun moyen spécifique.<br/>\n       C.\tSur le pourvoi dirigé contre l’arrêt rendu le 3 février 2025 :<br/>\n       Les formalités substantielles ou prescrites à peine de nullité ont été observées et la décision est conforme à la loi.<br/>\n       PAR CES MOTIFS,<br/>\n       LA COUR<br/>\n       Rejette le pourvoi ;<br/>\n       Condamne la demanderesse aux frais.<br/>\n       Lesdits frais taxés à la somme de nonante euros quatre-vingt et un centimes dus.<br/>\n       Ainsi jugé par la Cour de cassation, deuxième chambre, à Bruxelles, où siégeaient le chevalier Jean de Codt, président de section, Françoise Roggen, Tamara Konsek, Frédéric Lugentz et Ignacio de la Serna, conseillers, et prononcé en audience publique du quatre juin deux mille vingt-cinq par le chevalier Jean de Codt, président de section, en présence de Michel Nolet de Brauwere, premier avocat général, avec l’assistance de Tatiana Fenaux, greffier.\n    </p>"
+        },
+        {
+          "text": "Document PDF ECLI:BE:CASS:2025:ARR.20250604.2F.15",
+          "html": "<p><a href=\"/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250604.2F.15_FR.pdf?Version=1755683020\" target=\"_blank\" title=\"PDF document, version 1.7, 7 pages ECLI:BE:CASS:2025:ARR.20250604.2F.15 FR \">Document PDF ECLI:BE:CASS:2025:ARR.20250604.2F.15</a>\n</p>",
+          "links": [
+            {
+              "href": "/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250604.2F.15_FR.pdf?Version=1755683020",
+              "text": "Document PDF ECLI:BE:CASS:2025:ARR.20250604.2F.15"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250604.2F.15_FR.pdf?Version=1755683020",
+          "text": "Document PDF ECLI:BE:CASS:2025:ARR.20250604.2F.15"
+        }
+      ],
+      "body_text": "N° P.25.0382.F TWINS IMMO, société anonyme, dont le siège est établi à Bruxelles, avenue de la Reine, 197/1, inscrite à la banque-carrefour des entreprises sous le numéro 0466.650.964, prévenue, demanderesse en cassation, ayant pour conseil Maître Antoine Chomé, avocat au barreau de Bruxelles, contre 1. CENTRE PUBLIC D’ACTION SOCIALE DE SAINT-JOSSE-TEN-NOODE, dont les bureaux sont établis à Saint-Josse-ten-Noode, rue Verbist, 88, inscrit à la banque-carrefour des entreprises sous le numéro 0212.347.846, 2. UNION NATIONALE DES MUTUALITES LIBRES, dont le siège est établi à Anderlecht, route de Lennik, 788/A, inscrite à la banque-carrefour des entreprises sous le numéro 0411.766.483, parties civiles, défendeurs en cassation. I. LA PROCÉDURE DEVANT LA COUR Le pourvoi est dirigé contre trois arrêts rendus respectivement le 5 octobre 2021 sous le numéro 1329, le 21 février 2024 sous le numéro 275, et le 3 février 2025 sous le numéro 190, par la cour d’appel de Bruxelles, chambre correctionnelle. La demanderesse invoque cinq moyens dans un mémoire annexé au présent arrêt, en copie certifiée conforme. A l’audience du 28 mai 2025, le président de section chevalier Jean de Codt a fait rapport et le premier avocat général Michel Nolet de Brauwere a conclu. II. LA DÉCISION DE LA COUR A. Sur le pourvoi dirigé contre l’arrêt rendu le 5 octobre 2021 : Sur le deuxième moyen : Les articles 2.1 du Protocole n° 7 additionnel à la Convention de sauvegarde des droits de l’homme et des libertés fondamentales, et 14.5 du Pacte international relatif aux droits civils et politiques, ne s’appliquent pas aux personnes qui, en vertu de la loi belge, sont directement déférées à une juridiction supérieure telle que la cour d’appel. Tel est le cas lorsque, conformément à l’article 215 du Code d’instruction criminelle, les juges d’appel évoquent la cause dont ils ont été saisis. Reposant sur l’affirmation du contraire, le moyen manque en droit. Et les formalités substantielles ou prescrites à peine de nullité ont été observées et la décision est conforme à la loi. B. Sur le pourvoi dirigé contre l’arrêt rendu le 21 février 2024 : 1. En tant que le pourvoi est dirigé contre la décision rendue sur l’action publique exercée à charge de la demanderesse : Sur le premier moyen : Pris de la violation de l’article 149 de la Constitution, le moyen reproche à l’arrêt de ne pas répondre aux conclusions de la demanderesse. Quant à la première branche : Des conclusions ont été adressées à la cour d’appel pour la demanderesse par un courrier de son conseil du 30 novembre 2022. Contrairement à ce que le moyen soutient, il n’apparaît pas que, dans cet écrit, la demanderesse ait élevé une défense déduite de la violation du droit à un double degré de juridiction. Le moyen manque en fait. Quant à la deuxième branche : Aux conclusions de la demanderesse contestant l’imputabilité, à la personne morale, des infractions commises par son dirigeant, l’arrêt oppose que ce dernier a utilisé sa société pour masquer l’existence des revenus qu’il tirait de son activité de promotion immobilière, revenus qui l’auraient empêché, sans cette dissimulation, de percevoir l’aide sociale et les indemnités de la mutuelle. L’arrêt fonde, en substance, l’imputabilité contestée sur une décision prise sciemment et volontairement au sein de la structure hiérarchique effective de l’être moral, étant souligné que la personne physique à l’intervention de laquelle ce dernier a agi, ou fautivement négligé d’agir, était l’actionnaire majoritaire et le seul gestionnaire de la société prévenue. L’arrêt associe la faute commise par la demanderesse à l’omission d’instituer en son sein le mécanisme de contrôle qui aurait pu faire échec à son utilisation en guise de paravent. Les juges d’appel ont, ainsi, répondu aux conclusions invoquées, et leur réponse est exempte de l’obscurité que la demanderesse lui prête. Le moyen manque en fait. Quant à la troisième branche : La décision du juge de ne pas ordonner la réouverture des débats est souveraine. Il n’est pas tenu de motiver cette décision. Il ne s’agit pas, en effet, d’une demande au sens de l’article 1138, 3°, du Code judiciaire. Reposant sur l’affirmation du contraire, le moyen manque en droit. Sur le troisième moyen : Selon la cour d’appel, le gérant de la société prévenue a sciemment et volontairement utilisé celle-ci pour dissimuler les revenus qu’il tirait de son activité immobilière, utilisation rendue possible par l’absence de tout contrôle de la personne morale sur son gérant. De cette motivation, il se déduit que, sans la société prévenue, la fraude n’aurait pas pu être réalisée telle qu’elle l’a été. Les juges d’appel ont pu, sur ce fondement, retenir l’existence d’une responsabilité pénale de la demanderesse du chef des infractions commises par la personne physique à l’intervention de laquelle la faute a été commise. Le moyen ne peut être accueilli. Sur le quatrième moyen : Il est reproché à la cour d’appel de ne pas avoir autorisé la demanderesse à participer aux débats tenus dans une cause distincte, relative aux poursuites exercées séparément à charge de son actionnaire-gérant. La demanderesse y voit une violation des droits de la défense, en ce qu’elle n’a pas pu, à l’audience, interroger ou faire interroger un témoin à charge. Des conclusions déposées pour elle au greffe de la cour d’appel le 30 novembre 2022, il n’apparaît pas que la demanderesse ait sollicité l’audition de son gérant à l’audience. Nouveau, le moyen est irrecevable. Sur le cinquième moyen : Il est reproché à l’arrêt de prononcer la confiscation, par équivalent, d’une somme de deux cent vingt mille euros, sans identifier l’avantage patrimonial dont la demanderesse aurait bénéficié, ni le lien causal entre les infractions commises et cet avantage. Le juge répressif décide souverainement en fait qu’un avantage patrimonial sur lequel porte la confiscation spéciale, a été tiré directement d’une infraction. Dans la mesure où il conteste cette appréciation en fait, le moyen est irrecevable. En faisant partiellement droit aux réquisitions du ministère public, l’arrêt considère que la somme confisquée correspond aux avantages sociaux obtenus indûment au préjudice de la mutuelle et du centre public d’action sociale grâce à la participation de la société prévenue aux faits des préventions A.1 à D.2. Cette décision ne viole pas l’article 42, 3°, du Code pénal, visé au moyen. A cet égard, le moyen ne peut être accueilli. Le contrôle d’office Les formalités substantielles ou prescrites à peine de nullité ont été observées et la décision est conforme à la loi. 2. En tant que le pourvoi est dirigé contre les décisions rendues sur les actions civiles exercées par les défendeurs : La demanderesse n’invoque aucun moyen spécifique. C. Sur le pourvoi dirigé contre l’arrêt rendu le 3 février 2025 : Les formalités substantielles ou prescrites à peine de nullité ont été observées et la décision est conforme à la loi. PAR CES MOTIFS, LA COUR Rejette le pourvoi ; Condamne la demanderesse aux frais. Lesdits frais taxés à la somme de nonante euros quatre-vingt et un centimes dus. Ainsi jugé par la Cour de cassation, deuxième chambre, à Bruxelles, où siégeaient le chevalier Jean de Codt, président de section, Françoise Roggen, Tamara Konsek, Frédéric Lugentz et Ignacio de la Serna, conseillers, et prononcé en audience publique du quatre juin deux mille vingt-cinq par le chevalier Jean de Codt, président de section, en présence de Michel Nolet de Brauwere, premier avocat général, avec l’assistance de Tatiana Fenaux, greffier.\n\nDocument PDF ECLI:BE:CASS:2025:ARR.20250604.2F.15"
+    }
+  ],
+  "unsectioned": {
+    "paragraphs": [],
+    "body_text": ""
+  },
+  "attachments": {
+    "show_lien": [],
+    "pdfs": [],
+    "internal": []
+  },
+  "counts": {
+    "tables": {
+      "champ_notice": 0,
+      "description_notice": 0
+    },
+    "sections": 4,
+    "unsectioned_paragraphs": 0,
+    "attachments": {
+      "show_lien": 0,
+      "pdfs": 0,
+      "internal": 0
+    }
+  }
+}

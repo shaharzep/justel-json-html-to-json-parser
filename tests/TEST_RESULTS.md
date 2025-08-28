@@ -55,7 +55,7 @@
 ### 1. Import Issues
 ```python
 # In test_deduplication.py, need to import from src module:
-from src.transform_with_dedup import TwoPhaseTransformerWithDedup
+from src.transformer import TwoPhaseTransformerWithDedup
 ```
 
 ### 2. None Input Handling

@@ -1,0 +1,327 @@
+<html lang="nl"><head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, proxy-revalidate, no-transform">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="shortcut icon" href="/JUPORTAinclude/icones/justice.ico" type="image/ico">
+  <!-- ==============================================================================
+        JUPORTA project: - Openbare databank voor Belgische rechtspraak
+                         - JUPORTA zoekmachine
+                         - Web indexing voor de ECLI zoekmachine
+        
+        Database - Web - CSS ontwerp en ontwikkeling: mny - ICT dienst - FOD Justitie
+        
+        Copyright (c) 2017-2025 FOD Justitie - alle rechten voorbehouden.        
+        Elke reproductie, zelfs gedeeltelijk, is verboden.
+       ==============================================================================
+         § Ex Nihilo Nihil fit §
+  -->       
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/fonts/selawik/font-face.css">
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_css.php">
+  <link rel="stylesheet" media="print" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_print_M_css.php">
+  <script type="text/javascript" src="/JUPORTAinclude/script/balloontip.js"></script>
+  <title>ECLI:BE:GBAPD:2025:AVIS.20250820.1</title>
+  <meta name="keywords" content=" 01 Burgerlijk recht
+                  BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)
+                  Advies m.b.t. een voorontwerp van wet tot invoering van een belasting 
+                  op meerwaarden op financiële activa. (CO-A-2025-122)
+                  &lt;!-- MOTS_CLEF BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens 
+                  - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)--&gt; 
+                 ">
+
+  <meta name="author" content=" Gegevensbeschermingsautoriteit 
+                ">
+          <!-- BalloonArrayDefine -->
+</head>
+<body>
+  <div id="page_left">
+  </div>
+  <div id="page_right">
+  </div>
+  <div id="conteneur" onscroll="Javascript: ScrollWindow(this.scrollTop);">
+    <div id="page_top">
+
+      <div id="page_top_staatszegel" title="JUPORTAL-Ontvangst">
+            <a href="https://juportal.be/home/welkom">
+                <img src="/JUPORTAinclude/icones/Staatszegel_hof_invers.png" width="44" height="44" alt="JUPORTAL-Ontvangst">
+            </a>
+      </div>
+      <div id="page_top_titre">
+            JUPORTAL Openbare databank voor Belgische rechtspraak
+      </div>
+    </div>
+    <div id="page_main" x-ms-format-detection="none">
+    <!-- continue here with main block (division "content") -->
+    <div id="content1">
+
+    <form id="form_table" name="detail" action="/content/ECLI:BE:GBAPD:2025:AVIS.20250820.1/NL" method="post"> 
+
+    <input type="hidden" name="TOKEN" id="TOKEN" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1">        <!-- Commandes de navigation page détail--> 
+
+      <div class="UPZUDCZHZ5wkUyG7TKxuP98ZUG24brRlmdH5VSIWXvv6O4d0ZA" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="UPZUDCZHFpQ420iurA0Ru2HsUkGzg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="UPZUDCZHMeo3YDKh4dRPjzAg8rQ" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="UPZUDCZHMeo3YDKh4dRPjzAg8rQ" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+ <div id="UPZUDCZHm0RZIDXhyqRLm5BkJo9lCza0RgTJcphUkIEhBB5iZ0">
+        <img src="/JUPORTAinclude/icones/justice.ico" width="20" height="20" alt="Gegevensbeschermingsautoriteit">&nbsp; 
+Gegevensbeschermingsautoriteit  </div>
+       <fieldset>
+            <legend title="">Advies van 20 augustus 2025            </legend>
+       <table aria-describedby="Advies van 20 augustus 2025">
+         <thead>
+          <tr class="UPZUDCZHNDwWF88PVnbehcSkz68GDFo8UdRDiTJQP4s0o9aQyk">
+            <th width="12%"></th>
+            <th width="88%"></th>
+          </tr>
+         </thead>
+
+         <tbody>
+
+          <tr>
+            <td><p class="UPZUDCZHLsj4yfedAH4vhIb05QNWi9X2ZJN9mfsgCq7qIIEoeo">ECLI nr:</p></td>
+            <td><p class="UPZUDCZHCQYkssm4MfpXNosAyqzPlHPuOCbBSq1pvBLtzQ2mo">ECLI:BE:GBAPD:2025:AVIS.20250820.1</p>
+            </td>
+          </tr>
+            <tr>
+              <td><p class="UPZUDCZHLsj4yfedAH4vhIb05QNWi9X2ZJN9mfsgCq7qIIEoeo">Rolnummer:</p></td>
+              <td><p class="UPZUDCZHCQYkssm4MfpXNosAyqzPlHPuOCbBSq1pvBLtzQ2mo">66/2025</p>
+              </td>
+            </tr>
+                          
+            <tr>
+              <td><p class="UPZUDCZHLsj4yfedAH4vhIb05QNWi9X2ZJN9mfsgCq7qIIEoeo">Rechtsgebied:</p></td>
+              <td><p class="UPZUDCZHCQYkssm4MfpXNosAyqzPlHPuOCbBSq1pvBLtzQ2mo">
+ Burgerlijk recht</p></td></tr> 
+            <tr>
+              <td><p class="UPZUDCZHLsj4yfedAH4vhIb05QNWi9X2ZJN9mfsgCq7qIIEoeo">Invoerdatum:</p></td>
+              <td><p class="UPZUDCZHCQYkssm4MfpXNosAyqzPlHPuOCbBSq1pvBLtzQ2mo">2025-08-22</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="UPZUDCZHLsj4yfedAH4vhIb05QNWi9X2ZJN9mfsgCq7qIIEoeo">Raadplegingen:</p></td>
+              <td><p class="UPZUDCZHCQYkssm4MfpXNosAyqzPlHPuOCbBSq1pvBLtzQ2mo">21 - laatst gezien 2025-08-25 03:17</p>
+              </td>
+            </tr>
+                          
+         </tbody>
+        </table>
+      
+       </fieldset>
+       <fieldset id="UPZUDCZHV73RpOdU3R0qdKBK2QON5A-1">
+            <legend title="">Fiche            </legend>
+          <div class="UPZUDCZHxmtDeX4wbvxs1UPfqdG0yfjhbrAAbV1NNZd5tZAYg">
+    <p> De Autoriteit, is van oordeel dat minstens de volgende wijziging zich 
+        aan het ontwerp opdringt: - Vaststellen van de te verwerken categorieën 
+        van persoonsgegevens in het kader van de kennisgevingsverplichting overeenkomstig 
+        artikel X22 (punten 28 – 29)
+    </p>
+          </div>
+      <table aria-describedby="Fiche">
+       <thead>
+        <tr class="UPZUDCZHNDwWF88PVnbehcSkz68GDFo8UdRDiTJQP4s0o9aQyk">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">UTU-thesaurus:</p></td>
+          <td>
+            <p class="description-notice-table">BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)
+ </p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Vrije woorden:</p></td>
+          <td>
+            <p class="description-notice-table"> 
+Advies m.b.t. een voorontwerp van wet tot invoering van een belasting 
+         op meerwaarden op financiële activa. (CO-A-2025-122)
+            
+            </p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="UPZUDCZHPnPkSaBvD417pZkf8UNgQ">
+            <legend title="Advies van 2025-08-20">Tekst van de beslissing            </legend>
+
+      <div id="UPZUDCZHxmtDeX4wbvxs1UPfqdG0yfjhbrAAbV1NNZd5tZAYg">
+    <p>
+       Advies nr. 66/2025 van 20 augustus 2025<br>
+       Betreft: Advies m.b.t. een voorontwerp van wet tot invoering van een belasting op meerwaarden op financiële activa. (CO-A-2025-122)<br>
+       Originele versie<br>
+       De Autorisatie- en Adviesdienst van de Gegevensbeschermingsautoriteit (hierna: de Autoriteit);<br>
+       Gelet op de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit, met name op artikelen 23 en 26 (hierna: WOG);<br>
+       Gelet op Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016        betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (hierna: AVG);<br>
+       Gelet op de wet van 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens (hierna: WVG);<br>
+       Gelet op de adviesaanvraag van de heer Jan Jambon, Minister van Financiën (hierna: de aanvrager), ontvangen op 31 juli 2025;<br>
+       Brengt op 20 augustus 2025 het volgende advies uit:<br>
+       I. Voorwerp en context van de adviesaanvraag<br>
+       1. Op 31 juli 2025 verzocht de aanvrager het advies van de Autoriteit met betrekking tot de artikelen X22 en X26 van het voorontwerp van wet tot invoering van een belasting op meerwaarden op financiële activa (hierna: het ontwerp).       .<br>
+       2. Het regeerakkoord1 voorziet in de invoering van een algemene meerwaardebelasting op de realisatie van meerwaarden op financiële activa. Deze maatregel wordt gekaderd binnen de sanering van de overheidsfinanciën, waarvan een deel van meerwaarden gerealiseerd op beleggingen in financiële activa moet komen.<br>
+       3. Tot nu toe wordt enkel in de specifieke gevallen van artikel 90, eerste lid, 9°, van het Wetboek van de inkomstenbelastingen 1992 (hierna: WIB 92) een inkomstenbelasting geheven op meerwaarden op aandelen. Daarnaast is een belasting als divers inkomen onder artikel 90, eerste lid, 1°, WIB 92 op andere dan de in het huidige artikel 90, eerste lid, 9°, WIB 92 bedoelde meerwaarden op financiële activa mogelijk wanneer de gerealiseerde meerwaarde het resultaat vormt van speculatie of een abnormaal beheer van het privévermogen van de belastingplichtige.<br>
+       Via het onderhavige ontwerp is het de wens van de aanvrager om de belastingheffing op financiële activa uit te breiden zodat het naar de toekomst toe mogelijk wordt om de belastingdruk op arbeid te verlagen zonder een onevenwicht in de overheidsfinanciën te veroorzaken.<br>
+       4. Wat de algemene beginselen betreft kan samenvattend worden opgemerkt dat de meerwaardebelasting van toepassing is in de personenbelasting en dat de bedoelde meerwaarden deze zijn die gerealiseerd werden buiten enige beroepsactiviteit. De nieuwe regeling is eveneens van toepassing in de rechtspersonenbelasting, zonder dat het specifieke stelsel van de vennootschapsbelasting evenwel wordt gewijzigd. Betreffende het toepassingsgebied ratione materiae preciseert de aanvrager dat het regime toepassing vindt op de meerwaarden die gerealiseerd worden naar aanleiding van de overdracht onder bezwarende titel van financiële activa. Het begrip “financiële activa” dient ruim geïnterpreteerd te worden en omvat naast financiële instrumenten ook bepaalde verzekeringscontracten, crypto-activa en valuta (met dien verstande dat er tevens bepaalde vrijstellingen worden voorzien). De nieuwe regeling is van toepassing op de meerwaarden die worden gerealiseerd vanaf 1 januari 2026. Aangezien de historische meerwaarden worden vrijgesteld, worden de meerwaarden gerealiseerd op financiële activa die voor 1 januari 2026 zijn verworven, berekend op basis van de waarde van deze activa op 31 december 2025, behoudens wanneer de aanschaffingswaarde hoger is dan de waarde op de bovengenoemde datum. In dat geval, voor zover deze wordt bewezen door de belastingplichtige, wordt de aanschaffingswaarde weerhouden tot 31 december 2030.<br>
+       5. Voor het overige volgt uit de Memorie van toelichting dat er bijzondere maatregelen worden opgenomen voor de interne meerwaarden die worden gerealiseerd door verkoop, evenals voor de inkoop van eigen aandelen. Ook wordt een “exit”-stelsel ingevoerd om te vermijden dat de meerwaardebelasting ontweken wordt door een wijziging van woonplaats van de belastingplichtige. Dit laat toe om te latente meerwaarde te belasten die bestaat op het moment dat de belastingplichtige België verlaat.<br>
+       6. De belastbare basis van de meerwaardebelasting is gelijk aan het positieve verschil tussen de voor de overgedragen financiële activa ontvangen prijs en de aanschaffingswaarde van die financiële activa. Daarbij wordt enkel het gedeelte van de meerwaarde op het financieel actief dat werd verwezenlijk tijdens de periode waarin de belastingplichtige rijksinwoner was in rekening genomen. De meerwaarde die het voorwerp vormt van de meerwaardebelasting kan worden verminderd met de eventuele minderwaarden op financiële activa die onder het toepassingsgebied van de meerwaardebelasting vallen. Dit is enkel mogelijk wanneer de minderwaarde werd gerealiseerd door dezelfde belastingplichtige in de loop van hetzelfde belastbare tijdperk binnen dezelfde categorie belastbare financiële activa.<br>
+       7. Wat tot slot de aanslagvoet betreft, voorziet het stelsel van de meerwaardebelasting in een algemeen en een bijzonder regime, in functie van de participatiegraad van de belastingplichtige.<br>
+       Ook wordt in een uitzonderingsregime voor interne meerwaarden voorzien. Het algemene regime voorziet in een aanslagvoet van 10 pct. van de gerealiseerde meerwaarde, na vrijstelling van een eerste jaarlijkse schijf van 10.000 euro (geïndexeerd bedrag voor aanslagjaar 2027), die onder bepaalde voorwaarden opgebouwd kan worden tot 15.000 euro over 5 jaar. Het bijzonder regime geldt wanneer een belastingplichtige minstens 20 pct. bezit van de rechten in de vennootschap waarvan de aandelen worden overgedragen. In toepassing van dit regime wordt, na een jaarlijkse vrijstelling van een eerste schijf van meerwaarden ter hoogte van 1.000.000 euro (maximumbedrag over een periode van vijf jaar), een progressieve schaal toegepast, gaande van 1,25 pct. tot 10 pct.<br>
+       8. Kennis genomen hebbende van de algemene beginselen van de meerwaardebelasting, stelt de Autoriteit vast dat de ter advies voorgelegde artikelen betrekking hebben op de invoering van een kennisgevingsverplichting in hoofde van de schuldenaren zoals bedoeld in het ontworpen artikel 261, eerste lid, 5°, WIB 922 in het geval de rijksinwoner, samen met alle andere titularissen van effectenrekening, uitdrukkelijk aan deze schuldenaar heeft meegedeeld dat hij zijn inkomsten niet aan de inhouding van de roerende voorheffing wenst te onderwerpen (artikel X22 van het ontwerp), en de rapporteringsverplichting in hoofde van de persoon die een verrichting zoals bedoeld in het ontworpen artikel 90, eerste lid, 9°, a) of b), WIB 92 3 bedenkt, aanbiedt, opzet, beschikbaar maakt voor implementatie of de implementatie ervan beheert (artikel X26 van het ontwerp).<br>
+       9. Deze kennisgevings-/ rapporteringsverplichtingen hebben als doel de juiste vaststelling en inning van de belasting te verzekeren aangezien in de bovenstaande situaties de transacties niet (langer) onderworpen zijn aan een wettelijke bronheffing.<br>
+       ii. Onderzoek ten gronde<br>
+       ii.1 Voorafgaande opmerkingen en rechtsgrond<br>
+       10. Volledigheidshalve brengt de Autoriteit in herinnering dat overeenkomstig artikel 1 AVG, gelezen in het licht van overweging 14 AVG, de door de AVG geboden bescherming betrekking heeft op natuurlijke personen en zich aldus niet uitstrekt tot de verwerking van gegevens over rechtspersonen en, meer concreet, als rechtspersonen gevestigde ondernemingen. Zodoende heeft dit advies louter betrekking op de verwerking van gegevens van natuurlijke personen die door de bepalingen van het ontwerp worden gevat, voor zover die verwerkingen aangemerkt moeten worden als een verwerking van persoonsgegevens in de zin van de artikelen 2 en 3 AVG.<br>
+       Dit doet evenwel geen afbreuk aan de bescherming die rechtspersonen desgevallend genieten krachtens de artikelen 7 en 8 van het Handvest van de grondrechten van de Europese Unie.<br>
+       11. Onverminderd het bovenstaande, hoewel de verwerking van gegevens van als rechtspersonen gevestigde ondernemingen buiten het toepassingsgebied van de AVG valt, moet in rekening worden gebracht dat voor de toepassing van het economisch recht ook natuurlijke personen gekwalificeerd kunnen worden als onderneming (in welk geval de AVG wel van toepassing is).<br>
+       12. Daarnaast, hoewel de Autoriteit akte neem van het voorwerp van de adviesaanvraag, met name de artikelen X22 en X26 van het ontwerp, wordt zij er niet van weerhouden ook de overige bepalingen van het ontwerp in rekening te brengen wanneer zij niet in overeenstemming blijken met het geldende gegevensbeschermingsrecht. Dit doet evenwel geen afbreuk aan de vaststelling dat de invoering van een meerwaardebelasting an sich niet noodzakelijkerwijze een belangrijke gegevensbeschermingsrechtelijke impact vertegenwoordigt, in die zin dat de ontworpen regelgeving nagenoeg integraal wordt gestoeld op de geldende regelgeving inzake de verwerking van persoonsgegevens die op de belastingadministratie van toepassing is.<br>
+       13. Tot slot brengt de Autoriteit volledigheidshalve in herinnering dat de verwerking van persoonsgegevens een inmenging vormt in het recht op (eerbiediging van) privéleven (waaronder begrepen het recht op gegevensbescherming), dat is vastgelegd in artikel 8 EVRM en artikel 22 Grondwet. Dit recht is echter niet absoluut en kan worden beperkt mits daartoe een voldoende precieze wettelijke bepaling voorhanden is die beantwoordt aan een algemeen maatschappelijk belang en op voorwaarde dat de verwerking evenredig is met het daarmee nagestreefde wettige doelstelling.<br>
+       14. Krachtens artikel 6.3 AVG, gelezen in samenhang met de voormelde artikelen 8 EVRM en 22 Grondwet, is het daarbij vereist dat deze wettelijke norm de essentiële elementen van de met de overheidsinmenging gepaard gaande verwerking vaststelt. Het gaat daarbij om 4:<br>
+       - het (de) precieze en concrete doeleinde(n) van de gegevensverwerkingen;<br>
+       - de aanduiding van de verwerkingsverantwoordelijke(n) (tenzij dit duidelijk is);<br>
+       - de (categorieën van) verwerkte persoonsgegevens die ter zake dienend en niet overmatig zijn;<br>
+       - de categorieën van betrokkenen wiens persoonsgegevens worden verwerkt;<br>
+       - de (categorieën van) bestemmelingen van de persoonsgegevens, evenals de omstandigheden waarin en de redenen waarom de gegevens worden verstrekt;<br>
+       - de maximale bewaartermijn van de geregistreerde persoonsgegevens;<br>
+       - de eventuele beperking van de verplichtingen en/of rechten vermeld in de artikelen 5, 12 tot 22 en 34 AVG.<br>
+       ii.2 Doeleinde<br>
+       15. Volgens artikel 5.1.b) AVG kan de verwerking van persoonsgegevens enkel uitgevoerd worden voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden.<br>
+       16. Ten algemene titel dient in dit verband verwezen te worden naar artikel 3 van de wet van 3 augustus 2012 houdende bepalingen betreffende de verwerking van persoonsgegevens door de Federale Overheidsdienst Financiën in het kader van zijn opdrachten (hierna: de wet van 3 augustus 2012) in samenlezing met het WIB 92, voor wat betreft de vaststelling van de personen-en rechtspersonenbelasting, evenals de aan alle inkomstenbelastingen gemene bepalingen en de regels omtrent de vestiging en inning van de belastingen.<br>
+       17. In het licht van het bovenstaande en kennisgenomen hebbende van het ontwerp en de Memorie van toelichting bij het ontwerp, hebben de door het ontwerp geviseerde verwerkingen van persoonsgegevens tot doel de invoering van een belasting op de gerealiseerde meerwaarden op financiële activa mogelijk te maken en, meer concreet, de belastingadministratie in staat te stellen de bovengenoemde belasting correct vast te stellen en te innen.<br>
+       18. De vaststelling dat het daarbij over een nieuwe belasting gaat heeft in beginsel geen invloed op het doeleinde van de gegevensverwerkingen die worden gesteld door de FOD Financiën in de uitvoering van haar wettelijke opdrachten, in casu de vaststelling en inning van de personen- en rechtspersonenbelasting.<br>
+       19. Specifiek met betrekking tot de ter advies voorgelegde ontwerpartikelen kunnen secundaire verwerkingsdoeleinden worden afgeleid:<br>
+       - artikel X22 van het ontwerp, dat een artikel 265/1 invoegt in het WIB 92, voorziet in een kennisgevingverplichting in hoofde van de tussenpersonen (allerhande financiële instellingen), met als oogmerk de belastingadministratie op de hoogte te brengen van het feit dat een bepaalde belastingplichtige gebruik maakt van de opt-out mogelijkheid zoals voorzien in artikel 261, eerste lid, 5°, WIB 925. Dit heeft als voordeel voor de belastingplichtige dat er geen prefinanciering door de inhouding van roerende voorheffing meer zal plaatsvinden met betrekking tot de gerealiseerde meerwaarden op zijn (effecten)rekeningen. Het is aan de belastingplichtige om al zijn financiële instellingen op de hoogte te brengen van deze keuze, waarna deze instellingen (de tussenpersonen) de FOD Financiën op de hoogte dienen te brengen van alle inkomsten waarop deze keuze betrekking heeft. De belastingplichtige zal vervolgens zelf de meerwaarden en eventuele minderwaarden en correcties van de aanschaffingswaarde moeten aangeven via de belastingaangifte;<br>
+       - artikel X26 van het ontwerp, dat een nieuw artikel 326 bis invoegt in het WIB 92, introduceert een rapporteringverplichting voor de tussenpersonen 6 die betrokken zijn bij verrichtingen die betrekking hebben op interne meerwaarden of verrichtingen binnen de meerwaardebelasting waarbij toepassing gemaakt wordt van het regime voor een aanmerkelijk belang zoals bedoeld in artikel 90, eerste lid, 9°, a) en b) WIB 92, daar binnen beide regimes de belasting niet (kan) word(t)(en) geheven middels de inhouding en doorstorting van roerende voorheffing. De inlichting die het voorwerp uitmaken van de rapporteringsverplichting blijven beperkt tot hetgeen noodzakelijk is voor de administratie om de correcte heffing van de belastingen te verzekeren.<br>
+       20. De Autoriteit is van oordeel dat de introductie van een meerwaardebelasting en de vaststelling van de bijzondere regels daaromtrent geen bijzondere opmerkingen noodzaken voor wat betreft de doeleinden van de gegevensverwerkingen die dienovereenkomstig zullen plaatsvinden.<br>
+       ii.3 Verwerkingsverantwoordelijke<br>
+       21. Artikel 2 van de wet van 3 augustus 2012 duidt de FOD Financiën aan als verwerkingsverantwoordelijke voor wat betreft de gegevensverwerkingen die hij verricht in het kader van de uitvoering van zijn wettelijke opdrachten, waaronder inbegrepen de vaststelling en inning van de personen- en rechtspersonenbelasting. De Autoriteit stelt vast dat deze aanduiding overeenstemt met de rol die deze actor in de praktijk opneemt en neemt er akte van.<br>
+       22. Het bovenstaande laat uiteraard onverlet dat ook de schuldenaren of tussenpersonen die onderworpen zijn aan de kennisgevings- of rapporteringsverplichting in voorkomend geval optreden als verwerkingsverantwoordelijken voor wat betreft de gegevensverwerkingen die zij stellen in opdracht van de belastingplichten, dan wel om – zoals in het onderhavige geval – te voldoen aan wettelijke verplichtingen die op hen rusten.<br>
+       ii.4 Minimale gegevensverwerking/ Proportionaliteit<br>
+       23. Artikel 5.1.c), AVG bepaalt dat persoonsgegevens toereikend, terzake dienend en beperkt moeten zijn tot wat noodzakelijk is voor de beoogde doeleinden (principe van ‘minimale gegevensverwerking’) .<br>
+       24. Wat ten algemene titel de meerwaardebelasting betreft die wordt ingehouden via de roerende voorheffing, dient verwezen te worden naar de regelgeving neergelegd in de artikelen 261 tot 269/1 WIB 92 (desgevallend rekening houdend met de door het ontwerp aangebrachte wijzigingen7), en de van kracht zijn uitvoeringsbesluiten in dat verband. Daarnaast moet uiteraard ook rekening worden gehouden met de procedureregels inzake de vestiging en inning van de belastingen overeenkomstig Titel VII WIB 92. De Autoriteit stelt vast dat met uitzondering van de meerwaarden an sich er in beginsel geen sprake is van bijkomende categorieën van persoonsgegevens die door de FOD Financiën zullen worden verwerkt teneinde de meerwaardebelasting vast te kunnen stellen en te innen (lees: nagaan of de ingehouden roerende voorheffing effectief overeenstemt met de verschuldigde belasting). In de mate dat deze meerwaarden onontbeerlijk zijn voor de verwezenlijking van het bovengenoemde doeleinde, noopt de voorziene verwerking ervan niet tot bijzondere opmerkingen.<br>
+       25. Een gelijkaardige bedenking kan worden gemaakt in het geval de belastingplichtige gebruik wil maken van de jaarlijkse vrijstelling ten belope van 10.000 EUR (geïndexeerd bedrag voor aanslagjaar 2027), of indien hij correcties wil aanbrengen aan de aanschaffingswaarde van de financiële activa, waarvan de overdracht onder bezwarende titel aanleiding heeft gegeven tot de vaststelling van een meerwaardebelasting. Het betreft immers een eenzijdige gegevensoverdracht dewelke redelijkerwijze voorzienbaar is in hoofde van de belastingplichtige en in beginsel geen aanleiding geeft tot een verwerking van persoonsgegevens die buiten het bestaande bevoegdheidskader van de FOD Financiën valt.<br>
+       26. Volledigheidshalve benadrukt de Autoriteit dat het bovenstaande geenszins afbreuk doet aan haar fundamentele en substantiële bedenkingen die zij heeft geformuleerd in het advies nr. 36/2025, in het bijzonder voor wat betreft de verplichte mededeling van de saldi van effectenrekeningen en crypto-activarekeningen aan het CAP en het voornemen om de CAP-gegevens proactief aan te wenden om (ook in deze context) belastingfraude op te sporen.<br>
+       27. Specifiek met betrekking tot artikel X22 van het ontwerp stelt de Autoriteit vast dat de aanvrager voorziet in een delegatie aan de minister van Financiën om te bepalen:<br>
+       a. de wijze waarop de keuze van de belastingplichtige om niet onderworpen te worden aan de roerende voorheffing uitgedrukt moet worden;<br>
+       b. de informatie die door de schuldenaar van de roerende voorheffing aan de administratie moet worden meegedeeld.<br>
+       28. Zoals hierboven reeds toegelicht, benadrukt de aanvrager dat deze kennisgevingsverplichting noodzakelijk is om de door de belastingplichtige verschuldigde meerwaardebelasting te kunnen vaststellen en innen, daar deze in het onderhavige geval niet via de roerende voorheffing wordt ingehouden. Daarbij zullen de door de schuldenaar verstrekte gegevens worden aangewend om de belastingaangifte van de belastingplichtige te controleren. Hoewel de Autoriteit de ratio van deze maatregel niet in vraag stelt, wijst zij er niettemin op dat de te verwerken categorieën van persoonsgegevens een essentieel element van de gegevensverwerking uitmaken, en bijgevolg in een formele wettelijke norm vastgesteld dienen te worden. Een delegatie aan de uitvoerende macht is daarbij niet uitgesloten, doch slechts in zoverre deze delegatie enkel betrekking heeft op de verdere precisering van de in de wet vastgestelde elementen.<br>
+       29. In het licht van (zowel het formele als materiële) legaliteitsbeginsel en de belangrijke inmenging in de rechten en vrijheden van de betrokkenen die de kennisgevingsverplichting vertegenwoordigt, en rekening houdend bovendien met de administratieve last die zij teweegbrengt in hoofde van zowel de belastingplichtige als de schuldenaar van de roerende voorheffing, is het aldus noodzakelijk dat de te verwerken categorieën van persoonsgegevens uitdrukkelijk vastgesteld worden in een formele wettelijke norm. Het kan daarbij – in principe – enkel gaan over de identiteit van de titularissen, de identificatienummers van de (effecten)rekeningen en de inkomsten die onderworpen zijn aan de meerwaardebelasting. Een dergelijke vaststelling kan vervolgens de grondslag vormen voor de delegatie aan de uitvoerende macht om de concrete persoonsgegevens die de kennisgeving moet bevatten en de modaliteiten ervan te bepalen. Volledigheidshalve brengt de Autoriteit in herinnering dat ook dergelijke uitvoeringsbepalingen krachtens 36.4 AVG ter advies moeten worden voorgelegd.<br>
+       30. Betreffende de rapporteringsverplichting overeenkomstig artikel X26 van het ontwerp, bepaalt het ontworpen artikel 326bis, §3, WIB 92: “De in paragraaf 1 bedoelde inlichtingen betreffende de volgende:<br>
+       1° De in geld, in effecten of in enige andere vorm voor de overgedragen financiële activa verkregen prijs;<br>
+       2° De identificatiegegevens, zoals bedoel in artikel 307, §2/2, tweede lid, a) en b), van de koper(s) en de verkoper(s)8;”<br>
+       31. Deze gegevens lijken proportioneel in het licht van de beoogde doelstelling en noodzaken geen bijzondere opmerkingen.<br>
+       ii.5 Bewaartermijn<br>
+       32. Krachtens artikel 5.1.e) AVG mogen persoonsgegevens niet langer worden bewaard, in een vorm die het mogelijk maakt de betrokkenen te identificeren, dan noodzakelijk voor de verwezenlijking van de doeleinden waarvoor zij worden verwerkt.<br>
+       33. De Autoriteit stelt vast dat de bepalingen van het ontwerp integraal worden gestoeld op de geldende bepalingen inzake de vestiging en inning van de personen- en rechtspersonenbelasting, met inbegrip van de bewaartermijnen (die in beginsel gekoppeld zijn aan de fiscale verjaringstermijnen). Deze termijnen vloeien voort uit het WIB 92, in samenlezing met de artikelen 11 – 11/3 van de wet van 3 augustus 2012 (dat de modaliteiten van de inperking van de rechten van betrokkenen en de in die context geldende bewaartermijnen vaststelt).<br>
+       34. In het licht van het bovenstaande geeft het ontwerp geen aanleiding tot bijzondere opmerkingen betreffende de maximale bewaartermijn van de persoonsgegevens.<br>
+       OM DEZE REDENEN<br>
+       de Autoriteit,<br>
+       is van oordeel dat minstens de volgende wijziging zich aan het ontwerp opdringt:<br>
+       - Vaststellen van de te verwerken categorieën van persoonsgegevens in het kader van de kennisgevingsverplichting overeenkomstig artikel X22 (punten 28 – 29)<br>
+       Voor de Autorisatie- en Adviesdienst,<br>
+       Jaspar Alexandra, Directeur
+    </p>
+      </div>
+       <p><a href="/JUPORTAwork/ECLI:BE:GBAPD:2025:AVIS.20250820.1_NL.pdf?Version=1755855466" title="PDF document, version 1.7 ECLI:BE:GBAPD:2025:AVIS.20250820.1 NL " target="_blank">PDF document ECLI:BE:GBAPD:2025:AVIS.20250820.1</a>
+       </p>
+       </fieldset>
+        <!-- Commandes de navigation page détail--> 
+
+      <div class="UPZUDCZHZ5wkUyG7TKxuP98ZUG24brRlmdH5VSIWXvv6O4d0ZA" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="UPZUDCZHFpQ420iurA0Ru2HsUkGzg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="UPZUDCZHMeo3YDKh4dRPjzAg8rQ" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="UPZUDCZHMeo3YDKh4dRPjzAg8rQ" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+    </form>
+    </div>
+<!-- Action LOG 
+function JUPORTARecordLogViewDecision  $iubel_id        : 284425
+                                       $action_type     : VIEW
+                                      &$action_startmt  : 1756084670.5993
+                                      &$action_duration : 87
+                                      &$addressipremote : 98.109.187.131
+                                      &$latitude        : '40.9238000'
+                                      &$longitude       : '-73.9989000'
+                                      &$accuracy        : null
+                                      &$altitude        : null
+                                      &$langue_view     : NL
+-->
+<!-- Action_duration 87 millisec --> 
+      <!-- end of main block (division "content") -->
+
+    </div>
+    <!-- end of division "page_main" -->
+    <div id="page_footer">
+        <div id="page_footer_contact" title="Voor informatie of suggesties voor het ontwikkelingsteam kunt u contact met ons opnemen" rel="balloon_contact">
+              ✉ <a href="mailto:info-JUPORTAL@just.fgov.be">info-JUPORTAL@just.fgov.be</a>
+        </div>
+        <div id="page_footer_copyright" title="Copyright ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie - Alle rechten voorbehouden" rel="balloon_copyright">
+              ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie
+        </div>
+
+    </div>
+
+  </div>
+  <!-- end of division "conteneur" -->
+
+  <!-- Balloon system info -->
+  <div id="balloon_system_info" class="balloonstyle" style="height: 128px; width: 400px">
+      <p>
+          Powered by PHP 8.4.7
+      </p>
+      <p>
+          Server Software Apache/2.4.62
+      </p>
+      <p>
+          == Fluctuat nec mergitur ==
+      </p>
+  </div>
+  <!-- Balloon system info -->
+          <!-- BalloonObjectPrepa Start -->
+          <!-- BalloonObjectPrepa End -->
+
+
+</body></html>

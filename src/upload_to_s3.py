@@ -81,7 +81,7 @@ def main():
     )
     
     # Directory containing JSON files
-    output_dir = Path("/Users/shaharzep/juportal-decisions-parser/output")
+    output_dir = Path(__file__).parent / "output"
     
     # Get all JSON files
     json_files = list(output_dir.glob("*.json"))

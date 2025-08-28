@@ -1,0 +1,491 @@
+<html lang="fr"><head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, proxy-revalidate, no-transform">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="shortcut icon" href="/JUPORTAinclude/icones/staatszegel_rood.ico" type="image/ico">
+  <!-- ===========================================================================
+        Projet JUPORTA: - Base de données publique de la jurisprudence belge
+                        - moteur de recherche JUPORTA
+                        - référencement pour le moteur de recherche ECLI 
+        
+        Design database - développement Web - CSS : mny - Service ICT - SPF Justice
+        
+        Copyright (c) 2017-2025 SPF Justice - tous droits réservés.        
+        Toute reproduction, même partielle, est interdite.
+       ===========================================================================
+         § Post tenebras spero lucem §
+  -->       
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/fonts/selawik/font-face.css">
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_css.php">
+  <link rel="stylesheet" media="print" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_print_M_css.php">
+  <script type="text/javascript" src="/JUPORTAinclude/script/balloontip.js"></script>
+  <title>ECLI:BE:CASS:2025:CONC.20250604.2F.5</title>
+  <meta name="keywords" content=" 99 Autres
+                  POURVOI EN CASSATION - MATIERE REPRESSIVE - Décisions contre lesquelles on peut se pourvoir - Action publique - Divers
+                  L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 78 - 11
+                  &lt;!-- MOTS_CLEF POURVOI EN CASSATION - MATIERE REPRESSIVE - Décisions contre lesquelles 
+                  on peut se pourvoir - Action publique - Divers--&gt; 
+                  06 Droit pénal
+                  DEFENSE SOCIALE - MODALITES D'EXECUTION DE L'INTERNEMENT
+                  &lt;!-- MOTS_CLEF DEFENSE SOCIALE - MODALITES D'EXECUTION DE L'INTERNEMENT--&gt; 
+                  DEFENSE SOCIALE - CHAMBRE DE PROTECTION SOCIALE
+                  &lt;!-- MOTS_CLEF DEFENSE SOCIALE - CHAMBRE DE PROTECTION SOCIALE--&gt; 
+                  DEFENSE SOCIALE - INTERNEMENT
+                  L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 22 - 11
+                  &lt;!-- MOTS_CLEF DEFENSE SOCIALE - INTERNEMENT--&gt; 
+                 ">
+
+  <meta name="author" content=" Cour de cassation 
+                ">
+          <!-- BalloonArrayDefine -->
+</head>
+<body>
+  <div id="page_left">
+  </div>
+  <div id="page_right">
+  </div>
+  <div id="conteneur" onscroll="Javascript: ScrollWindow(this.scrollTop);">
+    <div id="page_top">
+
+      <div id="page_top_staatszegel" title="Accueil JUPORTAL">
+            <a href="https://juportal.be/home/accueil">
+                <img src="/JUPORTAinclude/icones/Staatszegel_hof_invers.png" width="44" height="44" alt="Accueil JUPORTAL">
+            </a>
+      </div>
+      <div id="page_top_titre">
+            JUPORTAL Base de données publique de la jurisprudence belge
+      </div>
+    </div>
+    <div id="page_main" x-ms-format-detection="none">
+    <!-- continue here with main block (division "content") -->
+    <div id="content1">
+
+    <form id="form_table" name="detail" action="/content/ECLI:BE:CASS:2025:CONC.20250604.2F.5/FR" method="post"> 
+
+    <input type="hidden" name="TOKEN" id="TOKEN" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1">        <!-- Commandes de navigation page détail--> 
+
+      <div class="DZZUDCZHZ5wkUyG7TKxuP98ZUG24bqK2FSUVw3768zst8lZXwpY" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DZZUDCZHjdtGmybMPswIQA1I9GjPhQ" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Imprimer cette page sur votre imprimante" onclick="javascript:window.print();">
+                  Imprimer cette page          </button>
+          &nbsp; 
+
+          Taille d'impression          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Taille d'impression">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DZZUDCZHLYmwXiE3KcFItW3YsHmXg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Exécuter une nouvelle recherche JUPORTAL">
+                  Nouvelle recherche JUPORTAL          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DZZUDCZHLYmwXiE3KcFItW3YsHmXg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Fermer l'onglet détail" onclick="javascript:window.close();">
+                  Fermer l'onglet          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+ <div id="DZZUDCZHPULiLI3f7EKorh8S2Ks7G9Bu1I0JMRgL1lIV9KZeE3s">
+        <img src="/JUPORTAinclude/icones/Staatszegel_hof_rood.png" width="20" height="20" alt="Cour de cassation">&nbsp; 
+Cour de cassation  </div>
+       <fieldset>
+            <legend title="">Conclusions du Ministère public du 04 juin 2025            </legend>
+       <table aria-describedby="Conclusions du Ministère public du 04 juin 2025">
+         <thead>
+          <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+            <th width="12%"></th>
+            <th width="88%"></th>
+          </tr>
+         </thead>
+
+         <tbody>
+
+          <tr>
+            <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">No ECLI:</p></td>
+            <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">ECLI:BE:CASS:2025:CONC.20250604.2F.5</p>
+            </td>
+          </tr>
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">No Rôle:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">P.24.0132.F</p>
+              </td>
+            </tr>
+                          
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Affaire:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">D.</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Chambre:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">2F - deuxième chambre
+      </p>
+    </td>
+   </tr>
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Domaine juridique:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">
+ Autres - Droit pénal</p></td></tr> 
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Date d'introduction:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">2025-08-20</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Consultations:</p></td>
+              <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM">28 - dernière vue 2025-08-24 23:05</p>
+              </td>
+            </tr>
+                          
+          <tr>
+            <td><p class="DZZUDCZHLsj4yfedAH4vhIb05QNWn5Xko19Zu8iPS9S96YZmA">Jugement/arrêt:</p></td>
+            <td><p class="DZZUDCZHCQYkssm4MfpXNosAyqzPjGoi14J9zeQAwyroBQPpM"><a href="/content/ECLI:BE:CASS:2025:ARR.20250604.2F.5/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250604.2F.5" target="_new">ECLI:BE:CASS:2025:ARR.20250604.2F.5</a> </p></td>
+          </tr>
+         </tbody>
+        </table>
+      
+       </fieldset>
+       <fieldset id="DZZUDCZH2FzPPh6VCeciGPV5BpPh4Q-1">
+            <legend title="">Fiches 1 - 3            </legend>
+          <div class="DZZUDCZHZR83sUDSduNrA64yY7NrrUJoMwCu0lQnoomgeL3X4">
+    <p> Est recevable le pourvoi en cassation formé par l'interné contre 
+        les décisions de la chambre de protection sociale relatives aux permissions 
+        de sortie (1). (1) Voir les concl. du MP.
+    </p>
+          </div>
+      <table aria-describedby="Fiches 1 - 3">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">POURVOI EN CASSATION - MATIERE REPRESSIVE - Décisions contre lesquelles on peut se pourvoir - Action publique - Divers
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 78 - 11 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009316/justel" title="Lien ELI 2014009316" target="_blank">Lien ELI No pub 2014009316</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 1 - 3">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">DEFENSE SOCIALE - MODALITES D'EXECUTION DE L'INTERNEMENT
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 78 - 11 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009316/justel" title="Lien ELI 2014009316" target="_blank">Lien ELI No pub 2014009316</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 1 - 3">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">DEFENSE SOCIALE - CHAMBRE DE PROTECTION SOCIALE
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 78 - 11 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009316/justel" title="Lien ELI 2014009316" target="_blank">Lien ELI No pub 2014009316</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DZZUDCZH2FzPPh6VCeciGPV5BpPh4Q-4">
+            <legend title="">Fiches 4 - 5            </legend>
+          <div class="DZZUDCZHZR83sUDSduNrA64yY7NrrUJoMwCu0lQnoomgeL3X4">
+    <p> L'internement d'une personne atteinte d'un trouble mental 
+        constitue une mesure de sûreté destinée à la fois à protéger la 
+        société et à faire en sorte que soient dispensés à la personne internée 
+        les soins requis par son état en vue de sa réinsertion dans la société 
+        ; le fait que la mise en liberté d'un interné présente un danger 
+        pour la société peut constituer un motif, pour la chambre de protection 
+        sociale, de maintenir la détention nonobstant l'absence de prise 
+        en charge thérapeutique de l'intéressé pour autant qu'elle 
+        mette en balance l'intérêt de la société et l'intérêt 
+        individuel de l'interné à bénéficier de soins adaptés en vue 
+        de sa réinsertion (1). (1) Voir les concl. du MP.
+    </p>
+          </div>
+      <table aria-describedby="Fiches 4 - 5">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">DEFENSE SOCIALE - INTERNEMENT
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 22 - 11 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009316/justel" title="Lien ELI 2014009316" target="_blank">Lien ELI No pub 2014009316</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+      <table aria-describedby="Fiches 4 - 5">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">DEFENSE SOCIALE - MODALITES D'EXECUTION DE L'INTERNEMENT
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 22 - 11 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009316/justel" title="Lien ELI 2014009316" target="_blank">Lien ELI No pub 2014009316</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DZZUDCZH2FzPPh6VCeciGPV5BpPh4Q-6">
+            <legend title="">Fiche 6            </legend>
+          <div class="DZZUDCZHZR83sUDSduNrA64yY7NrrUJoMwCu0lQnoomgeL3X4">
+    <p> Lorsqu'au terme d'une vérification de proportionnalité entre 
+        les impératifs de protection de la société et ceux liés à la mise 
+        en place de soins appropriés et individualisés au profit de la personne 
+        internée, le tribunal de l'application des peines décide que l'octroi 
+        d'une permission de sortie en vue de bénéficier d'une telle 
+        thérapie à l'extérieur de l'établissement de défense sociale, 
+        même avec accompagnement, ne peut lui être accordée au regard du risque 
+        de perpétration de nouvelles infractions, le tribunal justifie légalement 
+        sa décision (1). (1) Voir les concl. du MP.
+    </p>
+          </div>
+      <table aria-describedby="Fiche 6">
+       <thead>
+        <tr class="DZZUDCZHNDwWF88PVnbehcSkz68GNT2tcgzNhvVnFvMM9eIzc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">Thésaurus Cassation:</p></td>
+          <td>
+            <p class="description-notice-table">DEFENSE SOCIALE - MODALITES D'EXECUTION DE L'INTERNEMENT
+</p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Bases légales:</p></td>
+          <td>
+            <p class="description-notice-table">L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 22 - 11 
+    <a href="https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009316/justel" title="Lien ELI 2014009316" target="_blank">Lien ELI No pub 2014009316</a>
+</p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DZZUDCZHumBmdAIPUZ5VYLgtFYfQ">
+            <legend title="Conclusions du Ministère public du 2025-06-04">Texte des conclusions            </legend>
+
+      <div id="DZZUDCZHZR83sUDSduNrA64yY7NrrUJoMwCu0lQnoomgeL3X4">
+    <p>
+       P.24.0132.F<br>
+       Conclusions de M. l’avocat général VANDERMEERSCH :<br>
+       Le pourvoi est dirigé contre un jugement rendu le 16 janvier 2024 par le tribunal de l’application des peines de Bruxelles, chambre de protection sociale.<br>
+       I. Les antécédents de la procédure.<br>
+       Le demandeur a fait l’objet d’un première décision d’internement par ordonnance de la chambre du conseil du 22 mars 1991 pour des faits de viols sur mineures et majeures (42 faits), tentatives de viol sur mineures et majeures (23 faits), de vols avec violences avec arme et d’outrage public aux mœurs.<br>
+       En 1999, le demandeur a bénéficié d’une libération à l’essai d’abord dans un établissement hospitalier et, ensuite, à son domicile.<br>
+       A la suite de nouveaux faits commis durant les années 1999, 2000 et 2001, le demandeur a fait l’objet d’une nouvelle mesure d’internement ordonnée par la chambre du conseil de Bruxelles le 22 avril 2002 pour des faits de viol sur mineure de plus de seize ans, viols sur majeures (3 faits), vol avec violences ou menaces commis la nuit à plusieurs et vols qualifiés.<br>
+       La commission de défense sociale a ordonné le 3 octobre 2002 le placement du demandeur dans l’établissement de défense sociale (EDS) de Paifve. Depuis lors, ce placement a été confirmé d’abord par la commission de défense sociale et, ensuite, par la chambre de protection sociale du tribunal de l’application des peines qui, par décisions des 20 janvier 2020, 26 janvier 2021 et 8 novembre 2022, a maintenu le placement et refusé l’octroi de toute modalité d’exécution de l’internement extra muros.<br>
+       Conformément à l’article 47, § 1er, de la loi du 5 mai 2014 relative à l’internement, le directeur de l’établissement de défense sociale de Paifve a adressé le 6 septembre 2023 un avis au greffe du tribunal de l’application des peines signalant l’absence d’évolution significative de la situation de l’intéressé. L’avis note que ce dernier souhaite entamer un suivi à l’extérieur de l’établissement par le docteur S. et le psychologue-sexologue M. mais le directeur relève l’existence de contre-indications relatives aux risques de soustraction et de commettre de nouvelles infractions s’il venait à bénéficier de permissions de sortie et préconise que ce suivi puisse avoir lieu dans l’établissement.<br>
+       Le rapport psychosocial spécialisé actualisé le 20 juin 2023 rappelle l’absence de pathologie psychotique et de déficit mental dans le chef du demandeur mais l’existence d’un grave trouble de la personnalité psychopathique. Il note que l’intéressé ne suit aucun traitement et ne relève aucun élément susceptible de faire évoluer la situation. Dans son avis, le psychiatre de l’établissement de défense sociale de Paifve relève que le demandeur minimise la gravité des faits, se positionne lui-même comme victime et attribue à la consommation d’alcool les passages à l’acte. L’évolution clinique est décrite comme stationnaire ; le psychiatre constate que l’intéressé présente un trouble de personnalité antisociale associé à des traits pervers et psychopathiques et que le risque de récidive est conditionné par le nombre élevé de faits commis ainsi que par sa structure de personnalité, la froideur émotionnelle et la minimisation des faits qui ne cessent d’interpeller.<br>
+       Le ministère public a émis un avis défavorable à l’octroi de toute permission de sortie, insistant sur les risques de soustraction et de commettre de nouvelles infractions. Il déplore que la recherche d’un thérapeute spécialisé n’ait pas été axée sur une personne qui serait disposée à se déplacer à l’établissement de Paifve.<br>
+       Le conseil du demandeur a sollicité des permissions de sortie sans accompagnement à but thérapeutique afin de permettre à son client de bénéficier d’un suivi spécialisé en matière sexuelle auprès du psychologue M. qui consulte à Huy et à Liège, précisant qu’à la différence du docteur S., ce psychologue n’est pas disposé à se déplacer au sein de l’établissement de Paifve. A titre subsidiaire, l’avocat a sollicité des permissions de sortie avec accompagnement.<br>
+       Par jugement du 16 janvier 2024, la chambre de protection sociale a maintenu le placement du demandeur dans l’établissement de défense sociale de Paifve et a refusé les permissions de sortie.<br>
+       Par déclaration faite par son conseil le 22 janvier 2024, le demandeur s’est pourvu en cassation contre cette décision.<br>
+       Par arrêt du 13 mars 2024, la Cour a interrogé la Cour constitutionnelle, à titre préjudiciel, sur le point de savoir si l’article 78 de la loi du 5 mai 2014 relative à l’internement viole les articles 10 et 11 de la Constitution dans la mesure où, en vertu de cette disposition légale, les décisions de la chambre de protection sociale relatives à l'octroi ou au refus de la détention limitée sont passibles de pourvoi en cassation par le ministère public et l'avocat de la personne internée, alors que les décisions de la chambre de protection sociale relatives à l’octroi ou au refus de la permission de sortie ne peuvent pas faire l’objet d’un pourvoi en cassation.<br>
+       Par l'arrêt numéro 37/2025 du 27 février 2025, la Cour constitutionnelle a dit pour droit: « L’article 78 de la loi du 5 mai 2014 relative à l’internement viole les articles 10 et 11 de la Constitution en ce qu’il ne prévoit pas qu’un pourvoi en cassation puisse être introduit contre les décisions de la chambre de protection sociale relatives aux permissions de sortie».<br>
+       B. L’examen du pourvoi.<br>
+       Compte tenu de la réponse donnée par la Cour constitutionnelle à la question préjudicielle, le pourvoi doit être déclaré recevable.<br>
+       Le demandeur invoque un moyen à l’appui de son recours dans un mémoire reçu par le greffe de la Cour le 29 janvier 2024.<br>
+       Le moyen est pris de la violation des articles 3 et 5.1.e), de la Convention de sauvegarde des droits de l’homme et des libertés fondamentales, et 2 et 9 de la loi du 5 mai 2014 relative à l’internement.<br>
+       Le demandeur reproche au jugement attaqué de refuser les permissions de sortie sollicitées qui lui permettraient de bénéficier d’un suivi spécialisé en matière de délinquance sexuelle alors qu’un tel suivi n’est pas organisé au sein de l’établissement de défense sociale. Il soutient que ce faisant, le jugement contribue au maintien d’une situation contraire aux dispositions conventionnelles et légales visées au moyen dès lors que les autorités nationales manquent à leur obligation de prodiguer au demandeur de soins appropriés et adaptés à sa personne.<br>
+       L’article 20, §§ 1 et 2, de la loi du 5 mai 2014 relative à l’internement dispose que la permission de sortie est une modalité d’exécution de l’internement qui permet à la personne internée de quitter l'établissement pour une durée déterminée qui ne peut excéder seize heures et que les permissions de sortie peuvent être accordées à la personne internée en vue :<br>
+       1°	de défendre des intérêts affectifs, sociaux, moraux, juridiques, familiaux, thérapeutiques, de formation ou professionnels qui requièrent sa présence hors de l'établissement ;<br>
+       2°	de subir un examen ou un traitement médical en dehors de l'établissement ;<br>
+       3°	de préparer sa réinsertion sociale.<br>
+       Aux termes de l’article 22, § 1er, 1°, de la même loi, la permission de sortie peut être accordée à tout moment s’il n’existe pas, dans le chef de la personne internée, de contre-indications auxquelles la fixation de conditions particulières ne puisse répondre, ces contre-indications portant sur :<br>
+       a) le risque que la personne internée se soustraie à l’exécution de l’internement ;<br>
+       b) le risque qu’elle commette des infractions durant ces modalités<br>
+       c) le risque qu’elle importune les victimes.<br>
+       Par ailleurs, aux termes de l’article 2 de la loi du 15 mai 2015, l'internement de personnes atteintes d'un trouble mental est une mesure de sûreté destinée à la fois à protéger la société et à faire en sorte que soient dispensés à la personne internée les soins requis par son état en vue de sa réinsertion dans la société ; compte tenu du risque pour la sécurité et de l'état de santé de la personne internée, celle-ci se verra proposer les soins dont elle a besoin pour mener une vie conforme à la dignité humaine et ces soins doivent permettre à la personne internée de se réinsérer le mieux possible dans la société et sont dispensés - lorsque cela est indiqué et réalisable - par le biais d'un trajet de soins de manière à être adaptés à la personne internée.<br>
+       Dans le même sens, la jurisprudence de la Cour européenne des droits de l’homme, notamment celle évoquée par le demandeur dans son mémoire, met en évidence la double fonction de la mesure d’internement, à savoir, d’une part, une fonction sociale de protection et, d’autre part, une fonction thérapeutique liée à l’intérêt individuel pour la personne aliénée de bénéficier d’une thérapie ou d’un parcours de soins appropriés et individualisés avec, comme corolaire, l’obligation pour les autorités d’assurer cette prise en charge appropriée et individualisée.<br>
+       La présente cause met en évidence la difficulté de concilier pleinement, dans des situations concrètes, ces deux finalités, celle de protection de la société et celle thérapeutique. Il me semble que lorsque les conditions de réalisation de ces deux objectifs s’opposent, le juge est tenu de procéder à un test de proportionnalité pour examiner dans quelle mesure un objectif doit primer sur l’autre mais aussi de rechercher, malgré tout, toutes les voies par lesquelles ces deux objectifs pourraient se voir concrétisés.<br>
+       En tant qu’il soutient qu’en tout état de cause, la finalité thérapeutique doit primer sur l’objectif de protection de la société, le moyen me paraît manquer en droit.<br>
+       Par ailleurs, le jugement attaqué constate que le rapport de la direction de l’établissement de défense sociale relève l’existence de contre-indications et préconise que le suivi à l’extérieur de l’établissement souhaité par le demandeur puisse avoir lieu dans l’établissement. Dans le même sens, la directrice de l’établissement, entendue à l’audience du 8 décembre 2023, a proposé le maintien de la situation actuelle et a émis un avis favorable à la demande de la personne internée d’avoir un suivi spécialisé au sens de l’EDS de Paifve.<br>
+       En tant qu’il soutient que, de façon absolue, l’objectif thérapeutique ne peut être réalisé que par un suivi du demandeur à l’extérieur de l’établissement et non par un suivi au sein même de l’établissement, cette affirmation ne trouve pas appui dans les pièces auxquelles la Cour peut avoir égard. En tant qu’il repose sur cette prémisse inexacte, le moyen manque en fait.<br>
+       Pour le surplus, le jugement attaqué considère qu’il ressort de manière constante des rapports réalisés au sein de l’EDS de Paifve et des rapports des experts que la dangerosité du demandeur reste entière, même après de nombreuses années d’internement. Il relève que l’intéressé souffre d’un grave trouble de la personnalité psychopathique et que les risques de nouveaux passages à l’acte sont bien présents, eu égard à l’absence de réelle évolution de sa structure de personnalité et de la persistance de la minimisation de nombreux faits de viols qu’il a commis, certains ayant été perpétrés alors qu’il était libéré à l’essai après avoir bénéficié d’un suivi spécialisé au CRASC.<br>
+       Le tribunal en déduit qu’en raison des contre-indications liées aux risques élevés de soustraction à l’exécution de l’internement et de commission d’infractions à l’occasion d’éventuelles fugues, le suivi spécialisé en matière sexuelle doit avoir lieu au sein de l’établissement de Paifve et qu’il n’y pas lieu de faire droit à la demande de permissions de sortie du demandeur.<br>
+       Ayant procédé ainsi à un test de proportionnalité entre les impératifs de protection de la société et ceux liés à la prise en charge thérapeutique du demandeur, le jugement attaqué me paraît légalement justifier et régulièrement motiver sa décision.<br>
+       Ceci étant dit, et afin de se conformer aux exigences légales et conventionnelles, il appartient aux autorités compétentes de veiller à mettre en place un suivi spécialisé et effectif du demandeur au sein de l’EDS de Paifve mais cet aspect excède l’examen du présent pourvoi.<br>
+       Le moyen ne me paraît pas fondé.<br>
+       Enfin, les formalités substantielles ou prescrites à peine de nullité me paraissent avoir été observées et la décision est conforme à la loi.<br>
+       Je conclus au rejet du pourvoi.
+    </p>
+      </div>
+       <p><a href="/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250604.2F.5_FR.pdf?Version=1755707645" title="PDF document, version 1.7, 4 pages ECLI:BE:CASS:2025:CONC.20250604.2F.5 FR " target="_blank">Document PDF ECLI:BE:CASS:2025:CONC.20250604.2F.5</a>
+       </p>
+       </fieldset>
+       <fieldset>
+            <legend title="">Publication(s) liée(s)            </legend>  
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>Jugement/arrêt:</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2025:ARR.20250604.2F.5/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250604.2F.5" target="_self">ECLI:BE:CASS:2025:ARR.20250604.2F.5</a>         </p>
+      </div>
+    </div>
+    <div class="show-lien"><div class="DZZUDCZHG8yH9vdQLUAodBlMfLkA"><p>précédé par:</p></div>
+      <div class="DZZUDCZHCQYkssm4MfpXNosAyqzPnRtz6Kg7opSTGJK9orFE">
+        <p><a href="/content/ECLI:BE:CASS:2024:ARR.20240313.2F.12/FR" rel="balloon_none" title="Jugement/arrêt ECLI:BE:CASS:2024:ARR.20240313.2F.12" target="_self">ECLI:BE:CASS:2024:ARR.20240313.2F.12</a>         </p>
+      </div>
+    </div>
+       </fieldset>
+        <!-- Commandes de navigation page détail--> 
+
+      <div class="DZZUDCZHZ5wkUyG7TKxuP98ZUG24bqK2FSUVw3768zst8lZXwpY" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DZZUDCZHjdtGmybMPswIQA1I9GjPhQ" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Imprimer cette page sur votre imprimante" onclick="javascript:window.print();">
+                  Imprimer cette page          </button>
+          &nbsp; 
+
+          Taille d'impression          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Taille d'impression">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DZZUDCZHLYmwXiE3KcFItW3YsHmXg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Exécuter une nouvelle recherche JUPORTAL">
+                  Nouvelle recherche JUPORTAL          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DZZUDCZHLYmwXiE3KcFItW3YsHmXg" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Fermer l'onglet détail" onclick="javascript:window.close();">
+                  Fermer l'onglet          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+    </form>
+    </div>
+<!-- Action LOG 
+function JUPORTARecordLogViewDecision  $iubel_id        : 284422
+                                       $action_type     : VIEW
+                                      &$action_startmt  : 1756084839.658
+                                      &$action_duration : 60
+                                      &$addressipremote : 98.109.187.131
+                                      &$latitude        : '40.9238000'
+                                      &$longitude       : '-73.9989000'
+                                      &$accuracy        : null
+                                      &$altitude        : null
+                                      &$langue_view     : FR
+-->
+<!-- Action_duration 60 millisec --> 
+      <!-- end of main block (division "content") -->
+
+    </div>
+    <!-- end of division "page_main" -->
+    <div id="page_footer">
+        <div id="page_footer_contact" title="Pour toute demande d'information ou suggestion à l'équipe de développement, veuillez nous contacter" rel="balloon_contact">
+              ✉ <a href="mailto:info-JUPORTAL@just.fgov.be">info-JUPORTAL@just.fgov.be</a>
+        </div>
+        <div id="page_footer_copyright" title="Copyright ©&nbsp; 2017-2025&nbsp;Service ICT - SPF Justice - tous droits réservés" rel="balloon_copyright">
+              ©&nbsp; 2017-2025&nbsp;Service ICT - SPF Justice
+        </div>
+
+    </div>
+
+  </div>
+  <!-- end of division "conteneur" -->
+
+  <!-- Balloon system info -->
+  <div id="balloon_system_info" class="balloonstyle" style="height: 128px; width: 400px">
+      <p>
+          Powered by PHP 8.4.7
+      </p>
+      <p>
+          Server Software Apache/2.4.62
+      </p>
+      <p>
+          == Fluctuat nec mergitur ==
+      </p>
+  </div>
+  <!-- Balloon system info -->
+          <!-- BalloonObjectPrepa Start -->
+          <!-- BalloonObjectPrepa End -->
+
+
+</body></html>

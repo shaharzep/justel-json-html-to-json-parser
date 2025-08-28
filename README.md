@@ -17,7 +17,7 @@ This tool processes raw JSON files containing Belgian legal decisions and transf
 ```
 juportal-decisions-parser/
 ├── src/
-│   └── transform_with_dedup.py     # Main transformation script
+│   └── transformer.py     # Main transformation script
 ├── utils/                          # Core utilities and classes
 │   ├── __init__.py
 │   ├── transform_juportal.py       # Base transformer class
@@ -110,16 +110,16 @@ Options:
 
 ### Main Transformation Script
 
-The primary script is `src/transform_with_dedup.py`, which performs a three-phase transformation:
+The primary script is `src/transformer.py`, which performs a three-phase transformation:
 
 ```bash
-python src/transform_with_dedup.py --input raw_jsons --output output
+python src/transformer.py --input raw_jsons --output output
 ```
 
 ### Command Line Options
 
 ```bash
-python src/transform_with_dedup.py [OPTIONS]
+python src/transformer.py [OPTIONS]
 
 Options:
   --input, -i PATH     Input directory containing raw JSON files (default: raw_jsons)
@@ -134,7 +134,7 @@ Options:
 - Transforms all raw JSON files to the target schema
 - Extracts metadata, legal content, and citations
 - Performs initial language validation (rule-based)
-- Populates both `full_text` and `full_textHtml` fields
+- Populates both `full_text` and `full_text_html` fields
 - Extracts all related publications as top-level fields
 
 ### Phase 1.5: Deduplication
@@ -181,7 +181,7 @@ The output schema has been updated to flatten the `relatedPublications` structur
 3. **Transform Data**
    ```bash
    # Run the full 3-phase transformation with deduplication
-   python src/transform_with_dedup.py --input raw_jsons --output output
+   python src/transformer.py --input raw_jsons --output output
    ```
 
 4. **Upload Valid Files to S3**

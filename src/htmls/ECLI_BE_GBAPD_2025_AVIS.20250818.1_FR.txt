@@ -1,0 +1,332 @@
+<html lang="nl"><head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, proxy-revalidate, no-transform">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="shortcut icon" href="/JUPORTAinclude/icones/justice.ico" type="image/ico">
+  <!-- ==============================================================================
+        JUPORTA project: - Openbare databank voor Belgische rechtspraak
+                         - JUPORTA zoekmachine
+                         - Web indexing voor de ECLI zoekmachine
+        
+        Database - Web - CSS ontwerp en ontwikkeling: mny - ICT dienst - FOD Justitie
+        
+        Copyright (c) 2017-2025 FOD Justitie - alle rechten voorbehouden.        
+        Elke reproductie, zelfs gedeeltelijk, is verboden.
+       ==============================================================================
+         § Vulnerant omnes, ultima necat §
+  -->       
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/fonts/selawik/font-face.css">
+  <link rel="stylesheet" media="screen" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_css.php">
+  <link rel="stylesheet" media="print" type="text/css" href="/JUPORTAinclude/css/JUPORTAminimal_print_M_css.php">
+  <script type="text/javascript" src="/JUPORTAinclude/script/balloontip.js"></script>
+  <title>ECLI:BE:GBAPD:2025:AVIS.20250818.1</title>
+  <meta name="keywords" content=" 01 Burgerlijk recht
+                  BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)
+                  Advies m.b.t. een wetsvoorstel tot wijziging van de wet van 11 april 1994 
+                  betreffende de openbaarheid van bestuur teneinde ontvankelijkheidsvoorwaarden 
+                  in te voeren voor de indiening van verzoeken om advies bij de Commissie 
+                  voor de toegang tot en het hergebruik van bestuursdocumenten, afdeling 
+                  openbaarheid. (CO-A-2025-058)
+                  &lt;!-- MOTS_CLEF BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens 
+                  - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)--&gt; 
+                 ">
+
+  <meta name="author" content=" Gegevensbeschermingsautoriteit 
+                ">
+          <!-- BalloonArrayDefine -->
+</head>
+<body>
+  <div id="page_left">
+  </div>
+  <div id="page_right">
+  </div>
+  <div id="conteneur" onscroll="Javascript: ScrollWindow(this.scrollTop);">
+    <div id="page_top">
+
+      <div id="page_top_staatszegel" title="JUPORTAL-Ontvangst">
+            <a href="https://juportal.be/home/welkom">
+                <img src="/JUPORTAinclude/icones/Staatszegel_hof_invers.png" width="44" height="44" alt="JUPORTAL-Ontvangst">
+            </a>
+      </div>
+      <div id="page_top_titre">
+            JUPORTAL Openbare databank voor Belgische rechtspraak
+      </div>
+    </div>
+    <div id="page_main" x-ms-format-detection="none">
+    <!-- continue here with main block (division "content") -->
+    <div id="content1">
+
+    <form id="form_table" name="detail" action="/content/ECLI:BE:GBAPD:2025:AVIS.20250818.1/FR" method="post"> 
+
+    <input type="hidden" name="TOKEN" id="TOKEN" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1">        <!-- Commandes de navigation page détail--> 
+
+      <div class="DFZUDCZHZ5wkUyG7TKxuP98ZUG24bnoru3tO9takwYpHh8cAeb0" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DFZUDCZHwnIQZVBYCgLst7rMqk6w" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DFZUDCZHcetZjAZV0XZltOROrBoRA" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DFZUDCZHcetZjAZV0XZltOROrBoRA" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+ <div id="DFZUDCZHp0BachOPtnkTQfQX7XUt1HT49OzMmDr8gpPSoElCYwE">
+        <img src="/JUPORTAinclude/icones/justice.ico" width="20" height="20" alt="Gegevensbeschermingsautoriteit">&nbsp; 
+Gegevensbeschermingsautoriteit  </div>
+       <fieldset>
+            <legend title="">Advies van 18 augustus 2025            </legend>
+       <table aria-describedby="Advies van 18 augustus 2025">
+         <thead>
+          <tr class="DFZUDCZHNDwWF88PVnbehcSkz68GAKTqgyPmnQJjpEdaEuUTc">
+            <th width="12%"></th>
+            <th width="88%"></th>
+          </tr>
+         </thead>
+
+         <tbody>
+
+          <tr>
+            <td><p class="DFZUDCZHLsj4yfedAH4vhIb05QNWtZ4yI0Vob67M9ijDwhSeoE">ECLI nr:</p></td>
+            <td><p class="DFZUDCZHCQYkssm4MfpXNosAyqzPpqF7PkfSOWASrf12UDoS84">ECLI:BE:GBAPD:2025:AVIS.20250818.1</p>
+            </td>
+          </tr>
+            <tr>
+              <td><p class="DFZUDCZHLsj4yfedAH4vhIb05QNWtZ4yI0Vob67M9ijDwhSeoE">Rolnummer:</p></td>
+              <td><p class="DFZUDCZHCQYkssm4MfpXNosAyqzPpqF7PkfSOWASrf12UDoS84">65/2025</p>
+              </td>
+            </tr>
+                          
+            <tr>
+              <td><p class="DFZUDCZHLsj4yfedAH4vhIb05QNWtZ4yI0Vob67M9ijDwhSeoE">Rechtsgebied:</p></td>
+              <td><p class="DFZUDCZHCQYkssm4MfpXNosAyqzPpqF7PkfSOWASrf12UDoS84">
+ Burgerlijk recht</p></td></tr> 
+            <tr>
+              <td><p class="DFZUDCZHLsj4yfedAH4vhIb05QNWtZ4yI0Vob67M9ijDwhSeoE">Invoerdatum:</p></td>
+              <td><p class="DFZUDCZHCQYkssm4MfpXNosAyqzPpqF7PkfSOWASrf12UDoS84">2025-08-20</p>
+              </td>
+            </tr>
+            <tr>
+              <td><p class="DFZUDCZHLsj4yfedAH4vhIb05QNWtZ4yI0Vob67M9ijDwhSeoE">Raadplegingen:</p></td>
+              <td><p class="DFZUDCZHCQYkssm4MfpXNosAyqzPpqF7PkfSOWASrf12UDoS84">20 - laatst gezien 2025-08-24 23:10</p>
+              </td>
+            </tr>
+                          
+         </tbody>
+        </table>
+      
+       </fieldset>
+       <fieldset id="DFZUDCZHJPaMIim7oD7984NgZoHAYQ-1">
+            <legend title="">Fiche            </legend>
+          <div class="DFZUDCZHrVvfIGQtix5qXhtbMoWvqWRgwE8cgZIV3OAwnXzNLc">
+    <p> De Autoriteit, is van oordeel dat minstens de volgende wijzigingen geboden 
+        zijn in het ontwerp: - de gegevenscategorie ‘persoonsgegevens die voortvloeien 
+        uit de aanvraag of de afschriften' uitdrukkelijk opnemen in het ontworpen 
+        artikel 12/1, eerste lid, van de wet openbaarheid bestuur (punt 16); - 
+        zowel de duurtijd als het moment van aanvang van de maximale bewaartermijn 
+        bijkomend specifiëren (punt 20).
+    </p>
+          </div>
+      <table aria-describedby="Fiche">
+       <thead>
+        <tr class="DFZUDCZHNDwWF88PVnbehcSkz68GAKTqgyPmnQJjpEdaEuUTc">
+          <th width="12%"></th>
+          <th width="88%"></th>
+        </tr>
+       </thead>
+
+       <tbody>
+        <tr>
+          <td><p class="champ-notice-table">UTU-thesaurus:</p></td>
+          <td>
+            <p class="description-notice-table">BURGERLIJK RECHT - PERSOONLIJKE LEVENSSFEER - Verwerking persoonsgegevens - Gegevensbeschermingsautoriteit (Commissie Bescherming Persoonlijke Levenssfeer)
+ </p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="champ-notice-table">Vrije woorden:</p></td>
+          <td>
+            <p class="description-notice-table"> 
+Advies m.b.t. een wetsvoorstel tot wijziging van de wet van 11 april 1994 
+         betreffende de openbaarheid van bestuur teneinde ontvankelijkheidsvoorwaarden 
+         in te voeren voor de indiening van verzoeken om advies bij de Commissie 
+         voor de toegang tot en het hergebruik van bestuursdocumenten, afdeling 
+         openbaarheid. (CO-A-2025-058)
+            
+            </p>
+          </td>
+        </tr>
+       </tbody>
+      </table>
+       </fieldset>
+       <fieldset id="DFZUDCZHghwCfanWEfVSmRdN6UVrrQ">
+            <legend title="Advies van 2025-08-18">Tekst van de beslissing            </legend>
+
+      <div id="DFZUDCZHrVvfIGQtix5qXhtbMoWvqWRgwE8cgZIV3OAwnXzNLc">
+    <p>
+       Advies nr. 65/2025 van 18 augustus 2025<br>
+       Betreft: Advies m.b.t. een wetsvoorstel tot wijziging van de wet van 11 april 1994<br>
+       betreffende de openbaarheid van bestuur teneinde ontvankelijkheidsvoorwaarden in te voeren voor de indiening van verzoeken om advies bij de Commissie voor de toegang tot en het hergebruik van bestuursdocumenten, afdeling openbaarheid (CO-A-2025-058)<br>
+       Trefwoorden: /<br>
+       Originele versie<br>
+       De Autorisatie- en Adviesdienst van de Gegevensbeschermingsautoriteit (hierna: de Autoriteit);<br>
+       Gelet op de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit, met name op artikelen 23 en 26 (hierna: WOG);<br>
+       Gelet op Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016        betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (hierna: AVG);<br>
+       Gelet op de wet van 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens (hierna: WVG);<br>
+       Gelet op de adviesaanvraag van de heer Peter De Roover, Voorzitter van de Kamer van volksvertegenwoordigers, (hierna: de aanvrager), ontvangen op 22 mei 2025;<br>
+       Brengt op 18 augustus 2025 het volgende advies uit:<br>
+       Enkel adviezen met betrekking tot ontwerpen en voorstellen met rang van wet, die uitgaan van de federale overheid, het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie worden zowel in het Nederlands als in het Frans door de Autoriteit gepubliceerd. De ‘Originele versie’ is de versie die gevalideerd werd.<br>
+       I. VOORWERP VAN DE ADVIESAANVRAAG<br>
+       1. Op 22 mei verzocht de aanvrager het advies van de Autoriteit met betrekking tot een wetsvoorstel tot wijziging van de wet van 11 april 1994 betreffende de openbaarheid van bestuur teneinde ontvankelijkheidsvoorwaarden in te voeren voor de indiening van verzoeken om advies bij de Commissie voor de toegang tot en het hergebruik van bestuursdocumenten, afdeling openbaarheid (hierna: het ontwerp).<br>
+       2. Het ontwerp wordt opgesteld naar aanleiding van het jaarverslag 2023 van de Commissie Openbaarheid van Bestuur (hierna: de Commissie), waarin de Commissie onder andere adviseert over de toegang tot bestuursdocumenten en de problemen daaromtrent (in het bijzonder betreffende onvolledige aanvragen). In dat verband stelt zij voor om, naar analogie met het Vlaams Bestuursdecreet, wettelijke ontvankelijkheidsvoorwaarden toe te voegen aan artikel 8, §2, van de wet van 11 april 1994 betreffende de openbaarheid van bestuur (hierna: de wet openbaarheid bestuur) om onvolledige administratieve beroepen te voorkomen en de vragen om advies efficiënter te kunnen behandelen.<br>
+       3. Als dusdanig wordt artikel 8, §2, van de wet openbaarheid bestuur gewijzigd, teneinde ontvankelijkheidsvoorwaarden vast te stellen waaraan een verzoek om advies aan de Commissie in het kader van een administratief beroep moet voldoen. De ontworpen wijzigingen voorzien dat het verzoek, om ontvankelijk te zijn, de voor- en achternaam van de indiener (en, desgevallend, van de persoon die de indiener vertegenwoordigt), de contactgegevens van de indiener, een afschrift van de oorspronkelijke aanvraag tot inzage, uitleg of mededeling of tot verbetering bij de betreffende administratieve instantie, voor zover een beslissing met betrekking tot de oorspronkelijke aanvraag wordt genomen, een afschrift van de beslissing van de betrokken administratieve instantie en, in voorkomend geval, een afschrift van het verzoek tot heroverweging aan de betrokken administratieve instantie, dient te bevatten. Indien deze informatie ontbreekt, wordt bepaald dat de behandelingstermijn van dertig dagen zoals voorzien in het ontworpen artikel 8, §2, b), derde lid, van de wet openbaarheid bestuur wordt opgeschort tot het moment dat de Commissie in het bezit wordt gesteld van de vereiste informatie. Indien de aanvrager nalaat om de informatie ter beschikking te stellen binnen een termijn van dertig dagen volgend op het indienen van het oorspronkelijk verzoek, wordt hij geacht afstand te hebben gedaan van zijn verzoek tot heroverweging en om advies.<br>
+       4. Daarnaast wordt bij artikel 3 van de amendementen bij het ontwerp een nieuw artikel 12/1<br>
+       ingevoegd in de wet openbaarheid bestuur, dat tot doel heeft te voldoen aan de vereisten van het formele legaliteitsbeginsel neergelegd in artikel 22 Grondwet, met name door de essentiële elementen van de door de Commissie gestelde verwerkingen van persoonsgegevens vast te stellen.<br>
+       II. ONDERZOEK TEN GRONDE<br>
+       II.1 Voorafgaande opmerkingen en rechtsgrond<br>
+       5. Vooreerst herhaalt de Autoriteit dat de verwerking van persoonsgegevens een inmenging vormt in het recht op (eerbiediging van) privéleven (waaronder begrepen het recht op gegevensbescherming), dat is vastgelegd in artikel 8 EVRM en artikel 22 Grondwet. Dit recht is echter niet absoluut en kan worden beperkt mits daartoe een voldoende precieze wettelijke bepaling voorhanden is die beantwoordt aan een algemeen maatschappelijk belang en op voorwaarde dat de verwerking evenredig is met de daarmee nagestreefde wettige doelstelling.<br>
+       6. Krachtens artikel 6.3 AVG, gelezen in samenhang met de voormelde artikelen 8 EVRM en 22 Grondwet, is het daarbij vereist dat deze wettelijke norm de essentiële elementen van de met de overheidsinmenging gepaard gaande verwerking vaststelt. Het gaat daarbij om 1:<br>
+       - het (de) precieze en concrete doeleinde(n) van de gegevensverwerkingen;<br>
+       - de aanduiding van de verwerkingsverantwoordelijke(n) (tenzij dit duidelijk is);<br>
+       - de (categorieën van) verwerkte persoonsgegevens die ter zake dienend en niet overmatig zijn;<br>
+       - de categorieën van betrokkenen wiens persoonsgegevens worden verwerkt;<br>
+       - de (categorieën van) bestemmelingen van de persoonsgegevens, evenals de omstandigheden waarin en de redenen waarom de gegevens worden verstrekt;<br>
+       - de maximale bewaartermijn van de geregistreerde persoonsgegevens;<br>
+       - de eventuele beperking van de verplichtingen en/of rechten vermeld in de artikelen 5, 12 tot 22 en 34 AVG.<br>
+       7. Hoewel de wijzigingen aan de wet openbaarheid bestuur in beginsel louter betrekking hebben op de ontvankelijkheidsvereisten voor administratieve beroepen die bij de Commissie worden ingesteld, en zodoende enkel van invloed zijn op de informatiegegevens die de indiener vanaf heden verplicht moet voorleggen op straffe van opschorting van de procedure, beoordeelt de Autoriteit het niettemin positief dat de aanvrager ervoor heeft geopteerd om de kans aan te grijpen om de wet openbaarheid bestuur in overeenstemming te brengen met de AVG, door de essentiële elementen van de onderliggende verwerkingen van persoonsgegevens uitdrukkelijk vast te stellen in een formele wettelijke norm.<br>
+       II.2 Doeleinde<br>
+       8. Volgens artikel 5.1.b) AVG kan de verwerking van persoonsgegevens enkel uitgevoerd worden voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden.<br>
+       9. Het ontworpen artikel 12/1, derde lid, van de wet openbaarheid bestuur voorziet: “ De verwerking van de persoonsgegevens bedoeld in het eerste lid geschiedt met het oog op het doeltreffend identificeren van en communiceren met de indiener van een verzoek om advies en om na te gaan of de indiener de essentiële voorwaarden voor het uitoefenen van het administratief beroep heeft nageleefd.”<br>
+       10. Deze identificatie- en communicatieopdracht kadert binnen de administratieve beroepsprocedure overeenkomstig het ontworpen artikel 8, §2, van de wet openbaarheid bestuur, dat bepaalt: “a)<br>
+       Wanneer de verzoeker moeilijkheden ondervindt om de raadpleging of de verbetering van een bestuursdocument te verkrijgen op grond van deze wet, richt hij een verzoek tot heroverweging tot de betrokken administratieve instantie. Op straffe van onontvankelijkheid verzoekt hij terzelfdertijd de Commissie een advies uit te brengen.<br>
+       (…)<br>
+       c) De Commissie brengt haar advies ter kennis van de verzoeker en van de betrokken administratieve instantie binnen een termijn van dertig dagen na ontvangst van het verzoek. Bij ontstentenis van kennisgeving binnen de voorgeschreven termijn wordt aan het advies voorbijgegaan.<br>
+       De administratieve instantie brengt binnen vijftien dagen na ontvangst van het advies of na verloop van de termijn waarbinnen kennis moest worden gegeven het advies, haar beslissing tot inwilliging of afwijzing van het verzoek tot heroverweging ter kennis van de verzoeker en van de Commissie. Bij ontstentenis van kennisgeving binnen de voorgeschreven termijn, wordt de instantie geacht een beslissing tot afwijzing te hebben genomen.<br>
+       Tegen deze beslissing kan de verzoeker beroep instellen overeenkomstig de wetten op de Raad van State, gecoördineerd bij koninklijk besluit van 12 januari 1973. Het beroep bij de Raad van State is in voorkomend geval vergezeld van het advies van de Commissie.”<br>
+       11. De Autoriteit stelt ter zake vast dat de uitgewerkte beroepsprocedure in overeenstemming is gebracht met de bedenkingen van de Commissie overeenkomstig haar advies 2025-30 van 21 maart 2025. De in concreto beoordeling van de juridische argumentatie en de uitwerking daarvan in deze context vallen evenwel buiten de adviesbevoegdheden van de Autoriteit.<br>
+       12. Wat daarentegen de gegevensverwerkingen waartoe deze beroepsprocedures aanleiding geven betreft, meent de Autoriteit dat het doeleinde ervan zonder meer welbepaald, uitdrukkelijk omschreven en gerechtvaardigd is.<br>
+       II.3 Verwerkingsverantwoordelijke<br>
+       13. De aanduiding van de Commissie als verwerkingsverantwoordelijke overeenkomstig het ontworpen artikel 12/1, vierde lid, van de wet openbaarheid bestuur stemt overeen met de rol die deze actor in de praktijk opneemt. De Autoriteit neemt er akte van.<br>
+       II.4 Proportionaliteit/ Minimale gegevensverwerking<br>
+       14. Artikel 5.1.c), AVG bepaalt dat persoonsgegevens toereikend, terzake dienend en beperkt moeten zijn tot wat noodzakelijk is voor de beoogde doeleinden (principe van ‘minimale gegevensverwerking’).<br>
+       15. De te verwerken categorieën van persoonsgegevens worden vastgesteld in het ontworpen artikel 12/1, eerste lid, van de wet openbaarheid bestuur en kunnen tevens (minstens indirect) worden afgeleid uit het gewijzigde artikel 8, §2, b), eerste en tweede lid van dezelfde wet2. Het betreft de identificatiegegevens van de indiener van het verzoek en, desgevallend, van de persoon die de indiener vertegenwoordigt, meer bepaald hun naam, voornamen en contactgegevens. Daarnaast dienen in ieder geval ook de persoonsgegevens in rekening te worden gebracht die desgevallend voortvloeien uit het afschrift van de oorspronkelijke aanvraag, het afschrift van de beslissing van de administratieve instantie waarover advies van de Commissie wordt verzocht en het afschrift van het verzoek tot heroverweging aan de betrokken instantie3. Het ontwerp preciseert tevens dat uit deze afschriften in ieder geval ook de identiteit en het gebruikte postadres of e-mailadres van de verzender en de geadresseerde, alsook de datum van verzending moeten kunnen worden afgeleid.<br>
+       16. Ter zake komt het de Autoriteit voor dat de aanvrager enigszins voorbij is gegaan aan de persoonsgegevens die in voorkomend geval vervat zitten in de aanvraag zelf, dan wel in de afschriften van de beslissingen die bijgevoegd dienen te worden. Zonder dat het terzake noodzakelijk is om alle dergelijke persoonsgegevens exhaustief op te lijsten, meent de Autoriteit dat het wel vereist is om deze gegevenscategorie (met name gegevens die voortvloeien uit de aanvraag of de afschriften) als dusdanig op te nemen in het voornoemde artikel 12/1, eerste lid, van de wet openbaarheid bestuur.<br>
+       17. Onder voorbehoud van de naleving van de bovenstaande opmerking, is de Autoriteit van oordeel dat de te verwerken categorieën van persoonsgegevens toereikend, terzake dienend en beperkt blijven tot wat noodzakelijk is voor het beoogde doeleinde.<br>
+       II.4 Bewaartermijn<br>
+       18. Krachtens artikel 5.1.e) AVG mogen persoonsgegevens niet langer worden bewaard, in een vorm die het mogelijk maakt de betrokkenen te identificeren, dan noodzakelijk voor de verwezenlijking van de doeleinden waarvoor zij worden verwerkt.<br>
+       19. In dat verband bepaalt het ontworpen artikel 12/1, vijfde lid, van de wet openbaarheid bestuur:<br>
+       “De bewaartermijn van de in het eerste lid bedoelde persoonsgegevens bedraagt maximaal 2 jaar.<br>
+       Deze persoonsgegevens worden in ieder geval niet langer bewaard dan noodzakelijk voor de doeleinden waarvoor ze worden verstrekt.”<br>
+       20. Hoewel de voormelde termijn van twee jaar in beginsel niet excessief lijkt, vraagt de Autoriteit zich niettemin af welke de onderliggende rechtvaardigingsgrond is. Daarnaast is het ook niet geheel duidelijke wanneer de termijn van twee jaar begint te lopen (na instelling van het administratief beroep, na de ter kennis brenging van het advies, na de ontvangst van de beslissing tot inwilliging of afwijzing van het verzoek tot heroverweging…). Het is zonder meer noodzakelijk om duidelijkheid te scheppen over deze elementen, en om de gemaakte keuzes te onderbouwen in de Memorie van toelichting. Daarenboven, gelet op het feit dat er tegen de beslissing tot inwilliging of afwijzing van het verzoek tot heroverweging een beroep openstaat bij de Raad van State (desgevallend vergezeld van het advies van de Commissie), lijkt het in ieder geval aangewezen om de bewaartermijn in hoofde van de Commissie te laten samenvallen met de verjaringstermijn voor het instellen van dit hoger beroep. Tot slot kan in dat verband ook worden anbevolen dat de gegevens vroegtijdig worden gewist indien alle rechtsmiddelen worden uitgeput voor het verstrijken van de maximale bewaartermijn.<br>
+       OM DEZE REDENEN<br>
+       de Autoriteit,<br>
+       is van oordeel dat minstens de volgende wijzigingen geboden zijn in het ontwerp:<br>
+       - de gegevenscategorie ‘persoonsgegevens die voortvloeien uit de aanvraag of de afschriften’ uitdrukkelijk opnemen in het ontworpen artikel 12/1, eerste lid, van de wet openbaarheid bestuur (punt 16);<br>
+       - zowel de duurtijd als het moment van aanvang van de maximale bewaartermijn bijkomend specifiëren (punt 20).<br>
+       Voor de Autorisatie- en Adviesdienst,<br>
+       (get.) Jaspar Alexandra, Directeur
+    </p>
+      </div>
+       <p><a href="/JUPORTAwork/ECLI:BE:GBAPD:2025:AVIS.20250818.1_NL.pdf?Version=1755681371" title="PDF document, version 1.7 ECLI:BE:GBAPD:2025:AVIS.20250818.1 NL " target="_blank">PDF document ECLI:BE:GBAPD:2025:AVIS.20250818.1</a>
+       </p>
+       </fieldset>
+       <fieldset>
+            <legend title="">Gerelateerde publicatie(s)            </legend>  
+    <div class="show-lien"><div class="DFZUDCZHSCqkshyAW2pgxuLn1MeQ"><p>voorafgegaan door:</p></div>
+      <div class="DFZUDCZHCQYkssm4MfpXNosAyqzPlk41nuUDF3frOqCp08PdYI">
+        <p><a href="/content/ECLI:BE:GBAPD:2025:DEC.20250403.1/NL" rel="balloon_none" title="Rechterlijke beslissing ECLI:BE:GBAPD:2025:DEC.20250403.1" target="_self">ECLI:BE:GBAPD:2025:DEC.20250403.1</a>         </p>
+      </div>
+    </div>
+       </fieldset>
+        <!-- Commandes de navigation page détail--> 
+
+      <div class="DFZUDCZHZ5wkUyG7TKxuP98ZUG24bnoru3tO9takwYpHh8cAeb0" style="text-align:right;">
+          
+          <button type="button" name="imprimer_recherche" class="DFZUDCZHwnIQZVBYCgLst7rMqk6w" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Druk deze pagina af op uw printer" onclick="javascript:window.print();">
+                  Print deze pagina          </button>
+          &nbsp; 
+
+          Afdrukformaat          <select name="COMBOCSSPRINTSIZE" onchange="this.form.submit();" aria-label="Afdrukformaat">
+
+            <option value="S">S</option>
+            <option value="M" selected="">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <noscript><input type="submit" value="changecssprintsize"/></noscript>
+          &nbsp; 
+
+          <button type="submit" name="nouvelle_recherche" class="DFZUDCZHcetZjAZV0XZltOROrBoRA" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Voer een nieuwe JUPORTAL-zoekopdracht uit">
+                  Nieuwe JUPORTAL-zoekopdracht          </button>
+          &nbsp; 
+
+          <button type="submit" name="fermer_onglet" class="DFZUDCZHcetZjAZV0XZltOROrBoRA" value="41a1f21db3326b97ebf61b679abe259bedd6d8f451a6d2b1" title="Sluit het detailtabblad" onclick="javascript:window.close();">
+                  Sluit Tab          </button>
+      </div>   
+
+        <!-- Fin commandes de navigation page détail -->
+    </form>
+    </div>
+<!-- Action LOG 
+function JUPORTARecordLogViewDecision  $iubel_id        : 284414
+                                       $action_type     : VIEW
+                                      &$action_startmt  : 1756085366.551
+                                      &$action_duration : 47
+                                      &$addressipremote : 98.109.187.131
+                                      &$latitude        : '40.9238000'
+                                      &$longitude       : '-73.9989000'
+                                      &$accuracy        : null
+                                      &$altitude        : null
+                                      &$langue_view     : NL
+-->
+<!-- Action_duration 47 millisec --> 
+      <!-- end of main block (division "content") -->
+
+    </div>
+    <!-- end of division "page_main" -->
+    <div id="page_footer">
+        <div id="page_footer_contact" title="Voor informatie of suggesties voor het ontwikkelingsteam kunt u contact met ons opnemen" rel="balloon_contact">
+              ✉ <a href="mailto:info-JUPORTAL@just.fgov.be">info-JUPORTAL@just.fgov.be</a>
+        </div>
+        <div id="page_footer_copyright" title="Copyright ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie - Alle rechten voorbehouden" rel="balloon_copyright">
+              ©&nbsp; 2017-2025&nbsp;ICT Dienst - FOD Justitie
+        </div>
+
+    </div>
+
+  </div>
+  <!-- end of division "conteneur" -->
+
+  <!-- Balloon system info -->
+  <div id="balloon_system_info" class="balloonstyle" style="height: 128px; width: 400px">
+      <p>
+          Powered by PHP 8.4.7
+      </p>
+      <p>
+          Server Software Apache/2.4.62
+      </p>
+      <p>
+          == Fluctuat nec mergitur ==
+      </p>
+  </div>
+  <!-- Balloon system info -->
+          <!-- BalloonObjectPrepa Start -->
+          <!-- BalloonObjectPrepa End -->
+
+
+</body></html>

@@ -16,7 +16,7 @@ from unittest.mock import patch, Mock
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from src.transform_with_dedup import TwoPhaseTransformerWithDedup, EnhancedJuportalTransformer
+from src.transformer import TwoPhaseTransformerWithDedup, EnhancedJuportalTransformer
 from juportal_utils.transform_juportal import JuportalTransformer
 
 
